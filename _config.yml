@@ -2,19 +2,19 @@ title: Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 url: https://actris.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#ffce06"
+  secondary-color: "#ffce06"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#ffce06"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#000000"
     - title: media-color-three
-      color: "#00838f"
+      color: "#ffce06"
     - title: media-color-four
-      color: "#00838f"
+      color: "#ffce06"
     - title: media-color-five
-      color: "#00838f"
+      color: "#ffce06"
 description: The Advanced Cell Therapy and Research Institute, Singapore
   (ACTRIS) was established in 2020 to meet the increasing clinical demand of
   using cellular therapeutics to treat various life-threatening diseases.
