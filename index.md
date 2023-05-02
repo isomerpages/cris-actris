@@ -11,13 +11,14 @@ description: The Advanced Cell Therapy and Research Institute, Singapore
   for the local market.
 image: /images/Logos/actris logo_white bg.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Welcome to ACTRIS
+      subtitle: Facilitating discovery, process development and manufacturing of
+        cellular-based therapeutics in Singapore and the region
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Find out more
       url: /contact-us/
       key_highlights:
         - title: Highlight A
