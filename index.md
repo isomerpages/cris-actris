@@ -14,9 +14,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome to ACTRIS
-      subtitle: Facilitating discovery, process development and manufacturing of
-        cellular-based therapeutics in Singapore and the region
+      title: SERVICE EXCELLENCE
+      subtitle: To Our Partners And Our Patients
       background: /images/hero-banner.png
       button: Find out more
       url: /contact-us/
