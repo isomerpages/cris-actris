@@ -17,7 +17,7 @@ sections:
       title: SERVICE EXCELLENCE
       subtitle: To Our Partners And Our Patients
       background: /images/hero-banner.png
-      button: Find out more
+      button: Learn more
       url: /contact-us/
   - infobar:
       title: Infobar title
