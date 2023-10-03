@@ -6,6 +6,8 @@ links:
     collection: our-facilities
   - title: Our Service Provision
     collection: our-service-provision
+  - title: Newsroom & Events
+    resource_room: true
   - title: Resources
     collection: resources
   - title: Contact Us
