@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Clinical Scale Manufacturing.md
+      - Process Dev & Validation/Ancillary Material File.md
       - Process Dev & Validation/Technology Transfer.md
       - Process Dev & Validation/Release Assay.md
       - Process Dev & Validation/Process Development & Validation.md
