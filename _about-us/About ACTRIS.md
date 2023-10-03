@@ -28,7 +28,7 @@ To be the national and regional Centre of Excellence for discovery, process deve
 
 ### Our Core Values
 
-<span style="font-size: 18pt;"><span style="color: #ffc000;">Accessibility:</span></span> <span style="font-size: 14pt;"><strong>to cellular therapeutics</strong></span>
+**Accessibility:** to cellular therapeutics
 
 **Commitment:** to training, quality and standards
 
@@ -40,4 +40,6 @@ To be the national and regional Centre of Excellence for discovery, process deve
 
 **Service Excellence:** to our partners and our patients
 
-<span style="color: #ffc000;">Accessibility:</span>
+<!--
+<span style="font-size: 18pt;"><span style="color: #ffc000;">Accessibility:</span></span> <span style="font-size: 14pt;"><strong>to cellular therapeutics</strong></span>
+-->
