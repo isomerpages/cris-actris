@@ -45,6 +45,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/Our Service Provision/shutterstock_519817903.jpg
   - resources:
       title: News & Events
       id: resources
