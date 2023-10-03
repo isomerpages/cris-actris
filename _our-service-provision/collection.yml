@@ -2,6 +2,7 @@ collections:
   our-service-provision:
     output: true
     order:
+      - Education & Training/.keep
       - Regulatory Facilitation/.keep
       - Process Development & Validation.md
       - Clinical Scale Manufacturing.md
