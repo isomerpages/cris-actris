@@ -1,4 +1,5 @@
 collections:
   our-service-provision:
     output: true
-    order: []
+    order:
+      - Clinical Scale Manufacturing.md
