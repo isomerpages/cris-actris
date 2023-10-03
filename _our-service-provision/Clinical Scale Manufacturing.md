@@ -3,7 +3,7 @@ title: Clinical Scale Manufacturing
 permalink: /our-service-provision/clinical-scale-manufacturing/
 description: ""
 ---
-Clinical Scale Manufacturing
+### Clinical Scale Manufacturing
 
 The facility equipment capabilities will include the followings:
 
@@ -20,7 +20,7 @@ The facility equipment capabilities will include the followings:
 - 12 parameters flow cytometer
 - 50 parameters flow cytometer,   etc.
 
-Manufacturing
+#### Manufacturing
 1.	Manufacturing Services
 a)	Cell Manufacturing
 •	Minimal Manipulation 
