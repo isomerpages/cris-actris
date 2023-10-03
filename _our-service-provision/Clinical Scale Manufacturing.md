@@ -21,11 +21,13 @@ The facility equipment capabilities will include the followings:
 - 50 parameters flow cytometer,   etc.
 
 #### Manufacturing
-1.	Manufacturing Services
+
+**1.	Manufacturing Services**
+
 a)	Cell Manufacturing
-•	Minimal Manipulation 
+- Minimal Manipulation 
 -	i.e., Plasma and Red Cell Reduction, Buffy Coat Enrichment and Cell Selection
-•	More Than Minimal Manipulation 
+- More Than Minimal Manipulation 
 -	i.e., CTGT Product Manufacturing
 
 b)	Cell Banking
