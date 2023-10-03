@@ -18,6 +18,7 @@ In ACTRIS, our Regulatory team offers expertise and services on regulatory-relat
 			</td>
 			<td style="width:33%">
 				<img src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
+				<br>
 				<a href="/our-service-provision/regulatory-facilitation/regulatory-affair-life-cycle/">
 				<b>REGULATORY AFFAIR LIFE CYCLE</b>
 				</a>
@@ -26,6 +27,7 @@ The Regulatory Affair Lifecycle would include data and process analysis, regulat
 			</td>
 			<td style="width:33%">
 				<img src="/images/Our%20Service%20Provision/shutterstock_1268263936.jpg">
+				<br>
 				<a href="/our-service-provision/regulatory-facilitation/relevant-international-local-regulations/">
 				<b>RELEVANT INTERNATIONAL &amp; LOCAL REGULATIONS</b>
 				</a>
