@@ -27,7 +27,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Proceed to<a href="https://careers.mohh.com.sg/CRIS/go/CRIS/680844/">
+      - other: Proceed to <a href="https://careers.mohh.com.sg/CRIS/go/CRIS/680844/">
           CRIS Career Page</a>
     title: Careers
 feedback: ""
