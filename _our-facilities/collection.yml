@@ -2,8 +2,8 @@ collections:
   our-facilities:
     output: true
     order:
-      - Equipment.md
-      - Quality Assurance & Quality Control.md
-      - Cell Processing & Manufacturing.md
-      - Process Development & Innovation.md
       - About Our Facilities.md
+      - Process Development & Innovation.md
+      - Cell Processing & Manufacturing.md
+      - Quality Assurance & Quality Control.md
+      - Equipment.md
