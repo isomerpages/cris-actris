@@ -9,6 +9,7 @@ third_nav_title: Regulatory Facilitation
 		<tr>
 			<td style="width:33%">
 				<img src="/images/Our%20Service%20Provision/service-1-1.jpg">
+				<br>
 				<a href="/our-service-provision/regulatory-facilitation/regulatory-facilitation/">
 				<b>REGULATORY FACILITATION</b>
 				</a>
@@ -34,4 +35,3 @@ Quick Link to relevant international and local regulations for your reference.
 		</tr>
 	</tbody>
 	</table>
-	
