@@ -14,7 +14,7 @@ description: ""
 				<br><br>
 At ACTRIS, we are committed to attracting and developing talents in the field of cell and gene therapies and non-healthcare segment from diverse background and experiences.
 <br><br>
-Be part of our team and make a difference.
+<a href="https://careers.mohh.com.sg/CRIS/go/CRIS/680844/">Be part of our team and make a difference.</a>
 			</td>
 		</tr>
 	</tbody>
