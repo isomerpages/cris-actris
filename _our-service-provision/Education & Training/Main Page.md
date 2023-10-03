@@ -24,5 +24,3 @@ If you would like to find out more about education and training courses and init
 	</tr>
 </tbody>
 </table>
-
-	
