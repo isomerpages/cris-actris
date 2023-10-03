@@ -24,17 +24,17 @@ The facility equipment capabilities will include the followings:
 
 **1.	Manufacturing Services**
 
-**a)	Cell Manufacturing**
+a)	Cell Manufacturing
 - Minimal Manipulation 
 -	i.e., Plasma and Red Cell Reduction, Buffy Coat Enrichment and Cell Selection
 - More Than Minimal Manipulation 
 -	i.e., CTGT Product Manufacturing
 
-**b)	Cell Banking**
+b)	Cell Banking
 - Master Cell Bank Generation
 - Working Cell Bank Generation
 
-**c)	Cryopreservation and Storage**
+c)	Cryopreservation and Storage
 
 **2.	Manufacturing Support**
 
