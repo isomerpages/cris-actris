@@ -7,30 +7,24 @@ third_nav_title: Our People
 <table>
 	<tbody>
 		<tr height="350">
-			<td width="25%">
+			<td width="33%">
 				<a href="/biography/professor-chee-yam-cheng/" target="_blank">
 					<img src="/images/Biography/professor-chee-yam-cheng.jpg">
 				</a>
 				<div align="center"><h5>Professor Chee Yam Cheng</h5></div>
 				<div align="center"><b>Chairman</b></div>
 			</td>
-			<td width="25%">
+			<td width="33%">
 				<a href="/leaders/prof-barry-halliwell/" target="_blank">
 					<img src="/images/Leaders/barry-halliwell__stcc.png">
 				</a>
 				<div align="center"><b>Prof Barry Halliwell</b></div>
 			</td>
-			<td width="25%">
+			<td width="33%">
 				<a href="/leaders/dr-vincent-ho/" target="_blank">
 					<img src="/images/Leaders/dr%20vicent%20ho.png">
 				</a>
 				<div align="center"><b>Dr Vincent Ho</b></div>
-			</td>
-			<td width="25%">
-				<a href="/leaders/prof-william-hwang/" target="_blank">
-					<img src="/images/Leaders/professor%20william%20hwang.png">
-				</a>
-				<div align="center"><b>Prof William Hwang</b></div>
 			</td>
 		</tr>
 		<tr> <!-- Row 2 -->
