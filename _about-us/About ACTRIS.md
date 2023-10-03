@@ -8,10 +8,10 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-			<td style="width:30%">
+			<td style="width:40%">
 				<img src="images/About%20Us/intro-pic-1.png">
 			</td>
-			<td>
+			<td style="width:60%">
 				<h3>We Are ACTRIS</h3>
 				
 The Advanced Cell Therapy and Research Institute, Singapore (ACTRIS), was established on 20 April 2020 to meet the increasing demand of cellular therapy process development and product manufacturing to enable clinical utility.
