@@ -2,5 +2,6 @@ collections:
   our-facilities:
     output: true
     order:
+      - Cell Processing & Manufacturing.md
       - Process Development & Innovation.md
       - About Our Facilities.md
