@@ -7,14 +7,14 @@ description: ""
 
 The facility equipment capabilities will include the followings:
 
-1.	Hardware:
+**1.	Hardware**
 - Cytiva
 - Miltenyi Biotec
 - Terumo BCT
 - ThermoFisher Scientific 
 - & Other emerging manufacturing platform
 
-2.	Quality Control / Assurance:
+**2.	Quality Control / Assurance**
 - Real-Time PCR
 - Multi-mode plate reader
 - 12 parameters flow cytometer
