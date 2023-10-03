@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Board of Oversight Committee.md
       - Our People/.keep
       - About ACTRIS/.keep
       - About ACTRIS/Who We Are.md
