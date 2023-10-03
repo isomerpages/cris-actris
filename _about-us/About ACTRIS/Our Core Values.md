@@ -4,14 +4,14 @@ permalink: /about-us/about-actris/our-core-values/
 description: ""
 third_nav_title: About ACTRIS
 ---
-Accessibility: to cellular therapeutics
+**Accessibility:** to cellular therapeutics
 
-Commitment: to training, quality and standards
+**Commitment:** to training, quality and standards
 
-Teamwork: in fostering a vibrant ecosystem
+**Teamwork:** in fostering a vibrant ecosystem
 
-Reliability: in our people and of our leaders
+**Reliability:** in our people and of our leaders
 
-Innovative: in promoting research and development
+**Innovative:** in promoting research and development
 
-Service Excellence: to our partners and our patients
+**Service Excellence:** to our partners and our patients
