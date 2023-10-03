@@ -36,7 +36,7 @@ If you would like to find out more about education and training courses and init
 				<br><br>
 We develop and curate programmes in various formats and sub-specialisations to meet different needs that may lead to professional certifications. Grow your expertise and start your skills upgrading journey here at ACTRIS.
 				<br><br>
-				<a href="...">LEARN MORE</a>
+				<a href="learning portal">LEARN MORE</a>
 			</td>
 	</tr></tbody>
 	</table>
