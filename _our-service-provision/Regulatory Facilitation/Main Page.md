@@ -17,13 +17,17 @@ In ACTRIS, our Regulatory team offers expertise and services on regulatory-relat
 			</td>
 			<td style="width:33%">
 				<img src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
+				<a href="/our-service-provision/regulatory-facilitation/regulatory-affair-life-cycle/">
 				<b>REGULATORY AFFAIR LIFE CYCLE</b>
+				</a>
 				<br><br>
 The Regulatory Affair Lifecycle would include data and process analysis, regulatory submission, follow-ups, approvals which eventually lead to clinical evaluation/trials, commercialization and/or marketing. Regulatory submission would involve submission of documents and records from the initial stages of process development, right up to manufacturing of the final product. With ACTRIS managing your project from the initial …
 			</td>
 			<td style="width:33%">
 				<img src="/images/Our%20Service%20Provision/service-1-1.jpg">
+				<a href="/our-service-provision/regulatory-facilitation/relevant-international-local-regulations/">
 				<b>RELEVANT INTERNATIONAL &amp; LOCAL REGULATIONS</b>
+				</a>
 				<br><br>
 Quick Link to relevant international and local regulations for your reference.
 			</td>
