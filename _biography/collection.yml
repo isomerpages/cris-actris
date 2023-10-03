@@ -2,5 +2,6 @@ collections:
   biography:
     output: true
     order:
+      - Management Team/.keep
       - Board of Oversight Committee/Professor Chee Yam Cheng.md
       - Board of Oversight Committee/.keep
