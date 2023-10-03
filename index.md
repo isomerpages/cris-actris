@@ -29,6 +29,7 @@ sections:
       button: Learn More
       url: /about-us/about-actris/
       image: /images/About Us/intro-pic-1.png
+      alt: About-Us-Image
   - infopic:
       title: Our Facilities
       id: infopic
@@ -38,13 +39,14 @@ sections:
       button: Learn More
       url: /our-facilities/about-our-facilities/
       image: /images/Our Facilities/lark20210224-164900.png
+      alt: Our-Facilities-Image
   - infopic:
       title: Our Service Provision
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
       button: Button Text
-      alt: Image alt text
+      alt: Our-Service-Provision-Image
       image: /images/Our Service Provision/shutterstock_519817903.jpg
   - resources:
       title: News & Events
