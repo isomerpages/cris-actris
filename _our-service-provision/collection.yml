@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Clinical Scale Manufacturing.md
+      - Process Dev & Validation/Process Development & Validation.md
       - Process Dev & Validation/.keep
       - Regulatory Facilitation/.keep
       - Education & Training/.keep
