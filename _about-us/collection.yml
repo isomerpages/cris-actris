@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Our People/.keep
+      - About ACTRIS/Our Mission.md
       - About ACTRIS/Who We Are.md
       - About ACTRIS/.keep
