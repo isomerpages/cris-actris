@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - Clinical Scale Manufacturing.md
-      - Process Dev & Validation/Our Achievements.md
-      - Process Dev & Validation/Ancillary Material File.md
-      - Process Dev & Validation/Technology Transfer.md
-      - Process Dev & Validation/Release Assay.md
-      - Process Dev & Validation/Process Development & Validation.md
-      - Process Dev & Validation/Scientific Analysis.md
-      - Process Dev & Validation/Main Page.md
       - Process Dev & Validation/.keep
+      - Process Dev & Validation/Main Page.md
+      - Process Dev & Validation/Scientific Analysis.md
+      - Process Dev & Validation/Process Development & Validation.md
+      - Process Dev & Validation/Release Assay.md
+      - Process Dev & Validation/Technology Transfer.md
+      - Process Dev & Validation/Ancillary Material File.md
+      - Process Dev & Validation/Our Achievements.md
       - Regulatory Facilitation/.keep
       - Education & Training/.keep
       - Process Development & Validation.md
