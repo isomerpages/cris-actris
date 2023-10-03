@@ -19,7 +19,9 @@ At ACTRIS, we are committed to attracting and developing talents in the field of
 		</tr>
 	</tbody>
 	</table>
-	
+
+<br><br>
+
 <table>
    <thead>
       <tr>
