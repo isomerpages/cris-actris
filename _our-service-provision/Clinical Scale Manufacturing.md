@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/Our%20Service%20Provision/service-1-1.jpg" align="right" style="width:200px">
 
-The facility equipment capabilities will include the followings:
+#### The facility equipment capabilities will include the followings:
 
 **1.	Hardware**
 - Cytiva
