@@ -1,4 +1,5 @@
 collections:
   biography:
     output: true
-    order: []
+    order:
+      - Professor Chee Yam Cheng.md
