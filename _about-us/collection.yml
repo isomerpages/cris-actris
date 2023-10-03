@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - About ACTRIS/WE ARE ACTRIS.md
+      - About ACTRIS/Who We Are.md
       - About ACTRIS/.keep
