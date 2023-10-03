@@ -8,7 +8,7 @@ third_nav_title: Our People
 	<tbody>
 		<tr>
 			<td width="33%">
-				<a href="/biography/professor-chee-yam-cheng/" target="_blank">
+				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
 					<img src="/images/Biography/professor-chee-yam-cheng.jpg">
 				</a>
 				<div align="center"><h5>Professor Chee Yam Cheng</h5></div>
