@@ -20,9 +20,9 @@ locations:
     title: Lab Facility
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6239 5097
+      - email: enquiry@actris.cris.sg
+      - other: Enquiry Form
     title: General Enquiries & Feedback
   - content:
       - phone: ""
