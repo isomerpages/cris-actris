@@ -29,4 +29,23 @@ sections:
       button: Learn More
       url: /about-us/about-actris/
       image: /images/About Us/intro-pic-1.png
+  - infopic:
+      title: Our Facilities
+      id: infopic
+      description: The Advanced Cell Therapy and Research Institute, Singapore
+        (ACTRIS) located within National Cancer Center, Singapore (NCCS) is home
+        to ...
+      button: Learn More
+      url: /our-facilities/about-our-facilities/
+      image: /images/Our Facilities/lark20210224-164900.png
+  - infopic:
+      title: Our Service Provision
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - resources:
+      title: News & Events
+      id: resources
 ---
