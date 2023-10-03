@@ -28,5 +28,5 @@ sections:
         of cellular therapy ...
       button: Learn More
       url: /about-us/about-actris/
-      alt: Image alt text
+      image: /images/About Us/intro-pic-1.png
 ---
