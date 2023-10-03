@@ -4,4 +4,15 @@ permalink: /our-service-provision/regulatory-facilitation/relevant-international
 description: ""
 third_nav_title: Regulatory Facilitation
 ---
-Quick Link to relevant international and local regulations for your reference.
+<table>
+	<tbody>
+		<tr>
+			<td>
+				<img src="/images/Our%20Service%20Provision/shutterstock_1268263936.jpg" align="right">
+			</td>
+			<td>
+	Quick Link to relevant international and local regulations for your reference.
+			</td>
+		</tr>
+	</tbody>
+	</table>
