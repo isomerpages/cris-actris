@@ -1,6 +1,10 @@
 logo: /images/Logos/actris logo_transparent.png
 links:
+  - title: "Our Facilities "
+    collection: our-facilities
+  - title: Our Service Provision
+    collection: our-service-provision
+  - title: Resources
+    collection: resources
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
