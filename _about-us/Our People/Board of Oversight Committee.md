@@ -8,10 +8,11 @@ third_nav_title: Our People
 	<tbody>
 		<tr height="350">
 			<td width="25%">
-				<a href="/leaders/prof-chong-yap-seng/" target="_blank">
-					<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
+				<a href="/biography/professor-chee-yam-cheng/" target="_blank">
+					<img src="/images/Biography/professor-chee-yam-cheng.jpg">
 				</a>
-				<div align="center"><b>Prof Chong Yap Seng</b></div>
+				<div align="center"><h5>Professor Chee Yam Cheng</h5></div>
+				<div align="center"><b>Chairman</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/prof-barry-halliwell/" target="_blank">
