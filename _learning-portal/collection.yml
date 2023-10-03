@@ -1,0 +1,4 @@
+collections:
+  learning-portal:
+    output: true
+    order: []
