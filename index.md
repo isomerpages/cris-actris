@@ -19,10 +19,14 @@ sections:
       background: /images/Homepage/service-excellence.png
       button: Learn more
       url: /contact-us/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: About Us
+      subtitle: WE ARE ACTRIS
+      id: infopic
+      description: The Advanced Cell Therapy and Research Institute, Singapore
+        (ACTRIS), was established on 20 April 2020 to meet the increasing demand
+        of cellular therapy ...
+      button: Learn More
+      url: /about-us/about-actris/
+      alt: Image alt text
 ---
