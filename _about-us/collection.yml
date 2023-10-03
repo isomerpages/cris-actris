@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - About ACTRIS.md
+      - Our People/Management Team.md
       - Our People/Board of Oversight Committee.md
       - Our People/.keep
