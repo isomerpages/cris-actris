@@ -4,7 +4,7 @@ permalink: /about-us/about-actris/our-core-values/
 description: ""
 third_nav_title: About ACTRIS
 ---
-**Accessibility:** to cellular therapeutics
+<span style="font-size: 18pt;"><span style="color: #ffc000;">Accessibility:</span></span> <span style="font-size: 14pt;"><strong>to cellular therapeutics</strong>
 
 **Commitment:** to training, quality and standards
 
@@ -15,3 +15,6 @@ third_nav_title: About ACTRIS
 **Innovative:** in promoting research and development
 
 **Service Excellence:** to our partners and our patients
+
+<span style="color: #ffc000;">Accessibility:</span>
+</span>
