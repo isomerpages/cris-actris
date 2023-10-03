@@ -1,6 +1,8 @@
 logo: /images/Logos/actris logo_transparent.png
 links:
-  - title: "Our Facilities "
+  - title: About Us
+    collection: about-us
+  - title: Our Facilities
     collection: our-facilities
   - title: Our Service Provision
     collection: our-service-provision
