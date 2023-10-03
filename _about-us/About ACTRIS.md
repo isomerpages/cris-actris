@@ -25,9 +25,10 @@ Train and educate next generation of scientists and clinicians in cellular-based
 
 To be the national and regional Centre of Excellence for discovery, process development and manufacturing of cellular-based therapeutics.
 
-<span style="font-size: 18pt;"><span style="color: #ffc000;">Accessibility:</span></span> <span style="font-size: 14pt;"><strong>to cellular therapeutics</strong></span>
 
 ### Our Core Values
+
+<span style="font-size: 18pt;"><span style="color: #ffc000;">Accessibility:</span></span> <span style="font-size: 14pt;"><strong>to cellular therapeutics</strong></span>
 
 **Commitment:** to training, quality and standards
 
