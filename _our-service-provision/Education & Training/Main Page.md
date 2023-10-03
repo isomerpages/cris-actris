@@ -24,3 +24,17 @@ It aims to be a leading and innovative education and training platform for the c
 If you would like to participate or contribute in one way or another, please contact us at&nbsp;[education@actris.cris.sg](mailto:education@actris.cris.sg).
 
 If you would like to find out more about education and training courses and initiatives, please check out the product and service offerings at the&nbsp;[Learning Portal](https://www.actris.sg/learning-portal/).
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width:40%">
+				<img src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
+			</td>
+			<td style="width:60%">
+				<b>EDUCATION PROGRAMMES</b>
+				<br><br>
+We develop and curate programmes in various formats and sub-specialisations to meet different needs that may lead to professional certifications. Grow your expertise and start your skills upgrading journey here at ACTRIS.
+			</td>
+	</tr></tbody>
+	</table>
