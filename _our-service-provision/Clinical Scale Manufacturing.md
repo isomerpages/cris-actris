@@ -3,7 +3,7 @@ title: Clinical Scale Manufacturing
 permalink: /our-service-provision/clinical-scale-manufacturing/
 description: ""
 ---
-### Clinical Scale Manufacturing
+<img src="/images/Our%20Service%20Provision/service-1-1.jpg" align="right" style="width:200px">
 
 The facility equipment capabilities will include the followings:
 
@@ -12,7 +12,7 @@ The facility equipment capabilities will include the followings:
 - Miltenyi Biotec
 - Terumo BCT
 - ThermoFisher Scientific 
-- & Other emerging manufacturing platform
+- &amp; Other emerging manufacturing platform
 
 **2.	Quality Control / Assurance**
 - Real-Time PCR
