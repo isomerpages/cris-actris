@@ -18,7 +18,18 @@ The facility envisions to house state-of-art technologies that will enable manuf
 	</tbody>
 	</table>
 
-**The facility will work towards attaining international accreditation such as FACT/JACIE and is anticipated to be fully operational by 1st Quarter of 2022, with National Certification for CTGT in keeping with cGMP standards of practice being completed by early-2023.**
+<table>
+	<tbody>
+		<tr>
+			<td style="width:70%">
+<b>The facility will work towards attaining international accreditation such as FACT/JACIE and is anticipated to be fully operational by 1st Quarter of 2022, with National Certification for CTGT in keeping with cGMP standards of practice being completed by early-2023.</b>
 
 Pictures shown are placeholders and are not representative of the actual facilities.
 - Timeframe for attaining international accreditation and National Certification for CTGT – Information to be confirmed.
+			</td>
+			<td style="width:30%">
+				<img src="/images/Our%20Facilities/lark20210224-164911.png">
+			</td>			
+		</tr>
+	</tbody>
+	</table>
