@@ -39,14 +39,14 @@ We develop and curate programmes in various formats and sub-specialisations to m
 				<a href="learning portal">LEARN MORE</a>
 			</td>
 	</tr></tbody>
-	</table>
+</table>
 	
 	
 <table>
 	<tbody>
 		<tr>
 			<td style="width:40%">
-				<img src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
+				<img src="/images/Our%20Service%20Provision/young-asia-businesswoman-using-laptop-talk-colleague-about-plan-video-call-meeting.jpg">
 			</td>
 			<td style="width:60%">
 				<b>CELL THERAPY LECTURE SERIES</b>
@@ -56,7 +56,38 @@ Our lecture series in the year 2021 focuses on Immunotherapy while the current s
 				<a href="learning portal">LEARN MORE</a>
 			</td>
 	</tr></tbody>
-	</table>
-	
-	
-Our lecture series in the year 2021 focuses on Immunotherapy while the current series in 2022 focuses on regenerative medicine. If you have missed our lectures, fret not, we have compiled the recorded lecturers for your viewing.
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width:40%">
+				<img src="/images/Our%20Service%20Provision/shutterstock_519817903.jpg">
+			</td>
+			<td style="width:60%">
+				<b>CUSTOMISED &amp; SPECIALISED TRAINING</b>
+				<br><br>
+We provide customization of training programmes to meet the needs of your company. Areas include cell, tissue and gene therapy laboratory skills, regulation and quality management. Contact us at for a discussion.
+				<br><br>
+				<a href="learning portal">LEARN MORE</a>
+			</td>
+	</tr></tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width:40%">
+				<img src="/images/Our%20Service%20Provision/shutterstock_1104131693.jpg">
+			</td>
+			<td style="width:60%">
+				<b>
+OTHERS</b>
+				<br><br>
+We are constantly looking for partners who are keen to contribute to cell therapy education and training in one way or another, like sponsoring scholarships and events, content and training. Please get in touch with us.
+				<br><br>
+				<a href="learning portal">LEARN MORE</a>
+			</td>
+	</tr></tbody>
+</table>
+
