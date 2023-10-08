@@ -40,3 +40,6 @@ We develop and curate programmes in various formats and sub-specialisations to m
 			</td>
 	</tr></tbody>
 	</table>
+	
+	
+Our lecture series in the year 2021 focuses on Immunotherapy while the current series in 2022 focuses on regenerative medicine. If you have missed our lectures, fret not, we have compiled the recorded lecturers for your viewing.
