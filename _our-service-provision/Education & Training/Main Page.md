@@ -42,4 +42,21 @@ We develop and curate programmes in various formats and sub-specialisations to m
 	</table>
 	
 	
+<table>
+	<tbody>
+		<tr>
+			<td style="width:40%">
+				<img src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
+			</td>
+			<td style="width:60%">
+				<b>CELL THERAPY LECTURE SERIES</b>
+				<br><br>
+Our lecture series in the year 2021 focuses on Immunotherapy while the current series in 2022 focuses on regenerative medicine. If you have missed our lectures, fret not, we have compiled the recorded lecturers for your viewing.
+				<br><br>
+				<a href="learning portal">LEARN MORE</a>
+			</td>
+	</tr></tbody>
+	</table>
+	
+	
 Our lecture series in the year 2021 focuses on Immunotherapy while the current series in 2022 focuses on regenerative medicine. If you have missed our lectures, fret not, we have compiled the recorded lecturers for your viewing.
