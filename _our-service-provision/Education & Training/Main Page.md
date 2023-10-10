@@ -24,7 +24,7 @@ It aims to be a leading and innovative education and training platform for the c
 
 If you would like to participate or contribute in one way or another, please contact us at&nbsp;[education@actris.cris.sg](mailto:education@actris.cris.sg).
 
-If you would like to find out more about education and training courses and initiatives, please check out the product and service offerings at the&nbsp;[Learning Portal](https://www.actris.sg/learning-portal/).
+If you would like to find out more about education and training courses and initiatives, please check out the product and service offerings at the&nbsp;[Learning Portal](/newsroom-and-events/learning-portal/).
 
 <table>
 	<tbody>
@@ -37,7 +37,7 @@ If you would like to find out more about education and training courses and init
 				<br><br>
 We develop and curate programmes in various formats and sub-specialisations to meet different needs that may lead to professional certifications. Grow your expertise and start your skills upgrading journey here at ACTRIS.
 				<br><br>
-				<a href="learning portal">LEARN MORE</a>
+				<a href="/our-service-provision/education-and-training/actris-nus-professional-certificate-programme-cell/">LEARN MORE</a>
 			</td>
 	</tr></tbody>
 </table>
@@ -54,7 +54,7 @@ We develop and curate programmes in various formats and sub-specialisations to m
 				<br><br>
 Our lecture series in the year 2021 focuses on Immunotherapy while the current series in 2022 focuses on regenerative medicine. If you have missed our lectures, fret not, we have compiled the recorded lecturers for your viewing.
 				<br><br>
-				<a href="learning portal">LEARN MORE</a>
+				<a href="/newsroom-and-events/learning-portal/">LEARN MORE</a>
 			</td>
 	</tr></tbody>
 </table>
