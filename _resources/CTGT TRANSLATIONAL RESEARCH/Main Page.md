@@ -12,7 +12,7 @@ CTGT Translational Research focuses on efforts to build on basic scientific rese
 	<tbody>
 		<tr>
 			<td style="width:33%">
-				<img src="/images/Our%20Service%20Provision/service-1-1.jpg">
+				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1104131693.jpg">
 				<br>
 				<a href="/our-service-provision/regulatory-facilitation/regulatory-facilitation/">
 				<b>PROCESS GAP ANALYSIS</b>
@@ -21,7 +21,7 @@ CTGT Translational Research focuses on efforts to build on basic scientific rese
 				No info.
 			</td>
 			<td style="width:33%">
-				<img src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
+				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1268263936.jpg">
 				<br>
 				<a href="/our-service-provision/regulatory-facilitation/regulatory-affair-life-cycle/">
 				<b>PROCESS IMPROVEMENT</b>
@@ -30,7 +30,7 @@ CTGT Translational Research focuses on efforts to build on basic scientific rese
 				No info.
 			</td>
 			<td style="width:33%">
-				<img src="/images/Our%20Service%20Provision/shutterstock_1268263936.jpg">
+				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1190376445.jpg">
 				<br>
 				<a href="/our-service-provision/regulatory-facilitation/relevant-international-local-regulations/">
 				<b>SOP ESTABLISHMENT</b>
@@ -41,7 +41,7 @@ CTGT Translational Research focuses on efforts to build on basic scientific rese
 		</tr>
 		<tr>
 			<td style="width:33%">
-				<img src="/images/Our%20Service%20Provision/shutterstock_1268263936.jpg">
+				<img src="/images/Resources/CTGT%20Translational%20Research/service-1-2.jpg">
 				<br>
 				<a href="/our-service-provision/regulatory-facilitation/relevant-international-local-regulations/">
 				<b>PROCESS IMPLEMENTATION IN CGMP</b>
@@ -50,7 +50,7 @@ CTGT Translational Research focuses on efforts to build on basic scientific rese
 				No info.
 			</td>
 			<td style="width:33%">
-				<img src="/images/Our%20Service%20Provision/shutterstock_1268263936.jpg">
+				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_519817903.jpg">
 				<br>
 				<a href="/our-service-provision/regulatory-facilitation/relevant-international-local-regulations/">
 				<b> CLINICAL-SCALE AND GRADE MANUFACTURING OF CTGT PRODUCTS FOR PATIENT USE</b>
