@@ -7,7 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/Newsroom%20&amp;%20Events/Events/cris-symopsium_sq.png" align="left" style="width:300px">
+<p>
+	<img src="/images/Newsroom%20&amp;%20Events/Events/cris-symopsium_sq.png" align="left" style="width:300px">
+</p>
 
 Join us at the inaugural scientific symposium organised by the Consortium for Clinical Research and Innovation, Singapore (CRIS)&nbsp;on Wed 6 April 2022.
 
