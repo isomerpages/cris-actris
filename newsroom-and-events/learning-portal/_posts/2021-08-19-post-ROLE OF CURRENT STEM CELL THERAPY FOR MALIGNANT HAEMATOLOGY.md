@@ -10,7 +10,7 @@ image: ""
 	<tbody>
 		<tr>
 			<td style="width:35%">
-				<img src="/images/Learning%20Portal/2023/webinar_square-website-1.png">
+				<img src="/images/Learning%20Portal/2021/webinar_square-francessca.png">
 			</td>
 			<td style="width:65%">
 Recent research on the successful translation of stem cell therapies to patients have enriched the hope that such regenerative strategies may one day become a treatment for a wide range of vexing diseases.&nbsp; In fact, an exponential advancement in clinical trials revolving around stem cell-based therapies have been observed over the past few years. To date, the most established stem cell treatment is haematopoietic stem cell transplantation (HSCT) for haematological and immune system disorders.
