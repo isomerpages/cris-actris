@@ -8,10 +8,10 @@ third_nav_title: Our People
 	<tbody>
 		<tr>
 			<td width="33%">
-				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
 					<img src="/images/Biography/professor-chee-yam-cheng.jpg">
-				</a>
+					<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
 				<div align="center"><h5>Professor Chee Yam Cheng</h5></div>
+				</a>
 				<div align="center"><b>Chairman</b></div>
 			</td>
 			<td width="33%">
