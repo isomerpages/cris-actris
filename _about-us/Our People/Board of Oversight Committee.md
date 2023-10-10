@@ -53,7 +53,7 @@ third_nav_title: Our People
 			</td>
 			<td width="25%">
 					<img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20yen%20choo%20associate%20professor%20yen%20choo.jpg">
-				<a href="/biography/board-of-oversight-committee/associate-professor-yan-choo/" target="_blank">
+				<a href="/biography/board-of-oversight-committee/associate-professor-yen-choo/" target="_blank">
 				<div align="center"><b>Associate Professor Yen Choo</b></div>
 				</a>
 				<div align="center"><b>BOC Member</b></div>
