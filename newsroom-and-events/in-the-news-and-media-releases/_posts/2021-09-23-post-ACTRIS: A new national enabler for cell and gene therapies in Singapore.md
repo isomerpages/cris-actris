@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/Newsroom%20&amp;%20Events/In%20The%20News%20And%20Media%20Releases/adobestock_143340083-scaled.jpg" align="left" style="width:300px">
+<img src="/images/Newsroom%20&amp;%20Events/In%20The%20News%20And%20Media%20Releases/adobestock_143340083-scaled.jpg" style="width:300px">
 
 _World Cancer Research Day is commemorated each year on 24 September and seeks to raise awareness of the importance of cancer research to increase survival, facilitate access to scientific advances worldwide and reduce the global burden of cancer._
 
