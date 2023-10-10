@@ -10,11 +10,12 @@ description: ""
 				<img src="/images/Resources/CGMP%20Guidelines/shutterstock_1073659382.jpg">
 			</td>
 			<td style="width:70%">
-				<p>Find out more about the current Good Manufacturing Practices, and regulations set forth by the U.S.<br>
-Food and Drug Administration (FDA), European Medicines Agency (EMA), Health Sciences Authority (HSA), International Council for Harmonisation (ICH), Standards Coordinating Body (SCB), Alliance for Regenerative Medicines (ARM), Therapeutics Goods Administration (TGA), Pharmaceuticals and Medical Device Agency (PMDA) and Pharmaceutical Inspection Co-operation Scheme (PIC/S) in this<br>
-section. </p>
-<p>It contains minimum requirements for the methods, facilities, and controls used in<br>
-manufacturing and processing.</p>
+				Find out more about the current Good Manufacturing Practices, and regulations set forth by the U.S.  
+Food and Drug Administration (FDA), European Medicines Agency (EMA), Health Sciences Authority (HSA), International Council for Harmonisation (ICH), Standards Coordinating Body (SCB), Alliance for Regenerative Medicines (ARM), Therapeutics Goods Administration (TGA), Pharmaceuticals and Medical Device Agency (PMDA) and Pharmaceutical Inspection Co-operation Scheme (PIC/S) in this  
+section.
+
+It contains minimum requirements for the methods, facilities, and controls used in  
+manufacturing and processing.
 			</td>
 		</tr>
 	</tbody>
