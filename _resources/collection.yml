@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CTGT TRANSLATIONAL RESEARCH/.keep
-      - CTGT TRANSLATIONAL RESEARCH.md
       - Downloads.md
       - Clinical Trial & Beta Testing.md
       - cGMP Guidelines.md
