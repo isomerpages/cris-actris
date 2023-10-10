@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/Newsroom%20&amp;%20Events/In%20The%20News%20And%20Media%20Releases/cris-logo.jpg" align="left" style="width:200px">
+<img src="/images/Newsroom%20&amp;%20Events/In%20The%20News%20And%20Media%20Releases/cris-logo.jpg" align="left" style="width:300px">
 
 **About the Consortium for Clinical Research and Innovation Singapore (CRIS)**
 
