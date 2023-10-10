@@ -10,7 +10,13 @@ description: ""
 				<img src="/images/Resources/CGMP%20Guidelines/shutterstock_1073659382.jpg">
 			</td>
 			<td style="width:70%">
-								<p><span lang="EN-SG">Below are the links: </span></p>
+				<p><span lang="EN-SG">Find out more about the current Good Manufacturing Practices, and regulations set forth by the U.S.<br>
+Food and Drug Administration (FDA), European Medicines Agency (EMA), Health Sciences Authority (HSA), International Council for Harmonisation (ICH), Standards Coordinating Body (SCB), Alliance for Regenerative Medicines (ARM), Therapeutics Goods Administration (TGA), Pharmaceuticals and Medical Device Agency (PMDA) and Pharmaceutical Inspection Co-operation Scheme (PIC/S) in this<br>
+section. </span></p>
+<p><span lang="EN-SG">It contains minimum requirements for the methods, facilities, and controls used in<br>
+manufacturing and processing.</span></p>
+<p>&nbsp;</p>
+				<p><span lang="EN-SG">Below are the links: </span></p>
 <p><span lang="EN-SG">U.S. Food and Drug Administration (FDA)</span></p>
 <p><span lang="EN-SG"><a href="https://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances">https://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances</a></span></p>
 <p><span lang="EN-SG">European Medicines Agency (EMA)</span></p>
