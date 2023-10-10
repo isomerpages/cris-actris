@@ -40,21 +40,29 @@ third_nav_title: Our People
 			<td width="25%">
 					<img src="/images/Biography/professor%20lee%20eng%20hin.jpg">
 				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
-				<div align="center"><b>Prof Ng Huck Hui</b></div>
+				<div align="center"><b>Professor Tan Sze Wee</b></div>
 				</a>
 					<div align="center"><b>BOC Member</b></div>
 			</td>
-			<td>
+			<td width="25%">
 					<img src="/images/Biography/professor%20william%20hwang.jpg">
 				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
-				<div align="center"><b>Dr Vincent Ho</b></div>
+				<div align="center"><b>Associate Professor David Tan Shao Peng</b></div>
 				</a>
 				<div align="center"><b>BOC Member</b></div>
 			</td>
-			<td>
+			<td width="25%">
 					<img src="/images/Biography/professor%20william%20hwang.jpg">
 				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
-				<div align="center"><b>Dr Vincent Ho</b></div>
+				<div align="center"><b>Associate Professor Yen Choo</b></div>
+				</a>
+				<div align="center"><b>BOC Member</b></div>
+			</td>
+			
+			<td width="25%">
+					<img src="/images/Biography/professor%20william%20hwang.jpg">
+				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
+				<div align="center"><b>Associate Professor Tan Poh Lin</b></div>
 				</a>
 				<div align="center"><b>BOC Member</b></div>
 			</td>
