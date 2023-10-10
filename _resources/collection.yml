@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - CTGT TRANSLATIONAL RESEARCH/PROCESS GAP ANALYSIS.md
-      - CTGT TRANSLATIONAL RESEARCH/CTGT TRANSLATIONAL RESEARCH.md
+      - CTGT TRANSLATIONAL RESEARCH/Main Page.md
       - CTGT TRANSLATIONAL RESEARCH/.keep
       - Downloads.md
       - Clinical Trial & Beta Testing.md
