@@ -2,6 +2,7 @@ collections:
   biography:
     output: true
     order:
+      - Board of Oversight Committee/Associate Professor David Tan Shao Peng.md
       - Board of Oversight Committee/Professor Tan Sze Wee.md
       - Board of Oversight Committee/Professor Lee Eng Hin.md
       - Board of Oversight Committee/Professor William Hwang.md
