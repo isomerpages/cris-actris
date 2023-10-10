@@ -4,6 +4,10 @@ permalink: /biography/management-team/a-prof-danny-soon/
 description: ""
 third_nav_title: Management Team
 ---
+
+<img src="/images/Biography/Management%20Team/a'prof%20danny%20soon.jpg" style="width:300px" align="right">
+
+
 ### A/Prof Danny Soon
 
 Chief Executive Officer
