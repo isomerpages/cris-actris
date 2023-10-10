@@ -10,20 +10,22 @@ third_nav_title: Our People
 			<td width="33%">
 					<img src="/images/Biography/professor-chee-yam-cheng.jpg">
 					<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
-				<div align="center"><h5>Professor Chee Yam Cheng</h5></div>
+				<div align="center"><b>Professor Chee Yam Cheng</b></div>
 				</a>
 				<div align="center"><b>Chairman</b></div>
 			</td>
 			<td width="33%">
 					<img src="/images/Biography/dr%20cheong%20wei%20yang.jpg">
+				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
 				<div align="center"><b>Dr Cheong Wei Yang</b></div>
+				</a>
 				<div align="center"><b>Deputy Chairman</b></div>
 			</td>
 			<td width="33%">
-				<a href="/leaders/dr-vincent-ho/" target="_blank">
 					<img src="/images/Biography/professor%20william%20hwang.jpg">
-				</a>
+				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
 				<div align="center"><b>Dr Vincent Ho</b></div>
+				</a>
 				<div align="center"><b>BOC Member</b></div>
 			</td>
 		</tr>
