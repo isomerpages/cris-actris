@@ -70,7 +70,7 @@ Our lecture series in the year 2021 focuses on Immunotherapy while the current s
 				<br><br>
 We provide customization of training programmes to meet the needs of your company. Areas include cell, tissue and gene therapy laboratory skills, regulation and quality management. Contact us at for a discussion.
 				<br><br>
-				<a href="learning portal">LEARN MORE</a>
+				<a href="/newsroom-and-events/learning-portal/">LEARN MORE</a>
 			</td>
 	</tr></tbody>
 </table>
@@ -87,7 +87,7 @@ OTHERS</b>
 				<br><br>
 We are constantly looking for partners who are keen to contribute to cell therapy education and training in one way or another, like sponsoring scholarships and events, content and training. Please get in touch with us.
 				<br><br>
-				<a href="learning portal">LEARN MORE</a>
+				<a href="/newsroom-and-events/learning-portal/">LEARN MORE</a>
 			</td>
 	</tr></tbody>
 </table>
