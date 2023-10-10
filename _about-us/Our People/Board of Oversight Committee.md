@@ -68,21 +68,21 @@ third_nav_title: Our People
 		</tr>
 		<tr> <!-- Row 3 -->
 			<td width="25%">
-					<img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20lee%20eng%20hin.jpg">
+					<img src="/images/Biography/Board%20of%20Oversight%20Committee/dr-vincent-ho.jpg">
 				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
 				<div align="center"><b>Professor Tan Sze Wee</b></div>
 				</a>
 					<div align="center"><b>BOC Member</b></div>
 			</td>
 			<td width="25%">
-					<img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20william%20hwang.jpg">
+					<img src="/images/Biography/Board%20of%20Oversight%20Committee/ms%20goh%20wan%20yee.jpg">
 				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
 				<div align="center"><b>Associate Professor David Tan Shao Peng</b></div>
 				</a>
 				<div align="center"><b>BOC Member</b></div>
 			</td>
 			<td width="25%">
-					<img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20william%20hwang.jpg">
+					<img src="/images/Biography/Board%20of%20Oversight%20Committee/dr%20goh%20khean%20teik.jpg">
 				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
 				<div align="center"><b>Associate Professor Yen Choo</b></div>
 				</a>
