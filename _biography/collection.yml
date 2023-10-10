@@ -2,6 +2,7 @@ collections:
   biography:
     output: true
     order:
+      - Board of Oversight Committee/Dr Goh Khean Teik.md
       - Board of Oversight Committee/Ms Goh Wan Yee.md
       - Board of Oversight Committee/Dr Vincent Ho.md
       - Board of Oversight Committee/Associate Professor Tan Poh Lin.md
