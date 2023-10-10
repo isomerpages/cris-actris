@@ -39,5 +39,25 @@ CTGT Translational Research focuses on efforts to build on basic scientific rese
 				No info.
 			</td>
 		</tr>
+		<tr>
+			<td style="width:33%">
+				<img src="/images/Our%20Service%20Provision/shutterstock_1268263936.jpg">
+				<br>
+				<a href="/our-service-provision/regulatory-facilitation/relevant-international-local-regulations/">
+				<b>PROCESS IMPLEMENTATION IN CGMP</b>
+				</a>
+				<br><br>
+				No info.
+			</td>
+			<td style="width:33%">
+				<img src="/images/Our%20Service%20Provision/shutterstock_1268263936.jpg">
+				<br>
+				<a href="/our-service-provision/regulatory-facilitation/relevant-international-local-regulations/">
+				<b> CLINICAL-SCALE AND GRADE MANUFACTURING OF CTGT PRODUCTS FOR PATIENT USE</b>
+				</a>
+				<br><br>
+				No info.
+			</td>
+		</tr>
 	</tbody>
 	</table>
