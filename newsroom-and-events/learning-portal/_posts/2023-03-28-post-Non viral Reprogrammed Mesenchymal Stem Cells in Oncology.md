@@ -9,10 +9,10 @@ image: ""
 <table>
 	<tbody>
 		<tr>
-			<td style="width:30%">
-				<img src="/images/Resources/CGMP%20Guidelines/shutterstock_1073659382.jpg">
+			<td style="width:35%">
+				<img src="/images/Learning%20Portal/2023/webinar_square-prof-too.png">
 			</td>
-			<td style="width:70%">
+			<td style="width:65%">
 				There is currently over a thousand clinical trials using Mesenchymal Stem Cells (MSC) for various indications. While MSCs demonstrate an exceptional safety profile, it is increasingly clear that MSC therapies fail to progress beyond pre-clinical studies and are unsuccessful in late-stage clinical trials.
 
 These limitations are thought to be due to technical and biological issues which can be circumvented by precision engineering with therapeutic genes to enhance and repurpose the cells. Such genetic modifications are usually carried out using viral vectors that are highly efficient. However, this comes with high material cost, requires specialised facilities, time-consuming processes, and safety concerns of using viruses, all of which poses significant challenges for regulators and patients.
