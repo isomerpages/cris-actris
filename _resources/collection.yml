@@ -2,10 +2,10 @@ collections:
   resources:
     output: true
     order:
-      - Learning Portal.md
       - cGMP Guidelines.md
       - Clinical Trial & Beta Testing.md
       - CTGT TRANSLATIONAL RESEARCH/.keep
       - CTGT TRANSLATIONAL RESEARCH/Main Page.md
       - CTGT TRANSLATIONAL RESEARCH/PROCESS GAP ANALYSIS.md
+      - Learning Portal.md
       - Downloads.md
