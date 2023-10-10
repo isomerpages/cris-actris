@@ -23,4 +23,7 @@ To meet the clinical needs of bone reconstruction or augmentation in the oral-ma
 	</tbody>
 </table>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gHCOGe7hdwY?si=P6dakM0DxDy5j3zz" height="315" width="560"></iframe>
+<div class="bp-youtube">
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gHCOGe7hdwY?si=P6dakM0DxDy5j3zz" height="315" width="560">
+	</iframe>
+</div>
