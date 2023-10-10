@@ -8,8 +8,6 @@ image: ""
 ---
 <img src="/images/Newsroom%20&amp;%20Events/In%20The%20News%20And%20Media%20Releases/cris-logo.jpg" align="left" style="width:200px">
 
-
-
 **About the Consortium for Clinical Research and Innovation Singapore (CRIS)**
 
 The&nbsp;**Consortium for Clinical Research and Innovation Singapore (CRIS)**, a&nbsp;wholly owned subsidiary of MOH Holdings,&nbsp;has been established in 2020 with the goal of strengthening synergies and promulgating strategies for national-level clinical research and translation programmes that are under the stewardship of the Ministry of Health (MOH).
