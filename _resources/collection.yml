@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Downloads.md
       - Clinical Trial & Beta Testing.md
       - cGMP Guidelines.md
