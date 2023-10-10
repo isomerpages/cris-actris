@@ -23,8 +23,9 @@ third_nav_title: Our People
 			</td>
 			<td width="33%">
 					<img src="/images/Biography/Management%20Team/dr%20tan%20lip%20kun.jpg">
+				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
 				<div align="center"><h5>Dr Tan Lip Kun</h5></div>
-				
+				</a>
 				<div align="center"><b>Senior Advisor</b></div>
 			</td>
 		</tr>
