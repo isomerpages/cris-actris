@@ -2,6 +2,7 @@ collections:
   biography:
     output: true
     order:
+      - Board of Oversight Committee/Dr Vincent Ho.md
       - Board of Oversight Committee/Associate Professor Tan Poh Lin.md
       - Board of Oversight Committee/Associate Professor Yen Choo.md
       - Board of Oversight Committee/Associate Professor David Tan Shao Peng.md
