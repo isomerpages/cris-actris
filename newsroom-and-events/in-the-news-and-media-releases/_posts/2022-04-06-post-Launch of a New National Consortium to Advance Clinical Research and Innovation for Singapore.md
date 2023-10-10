@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/Newsroom%20&amp;%20Events/In%20The%20News%20And%20Media%20Releases/cris-image.png" align="left" style="width:300px">
+<img src="/images/Newsroom%20&amp;%20Events/In%20The%20News%20And%20Media%20Releases/cris-image.png" style="width:300px">
 
 **Launch of a New National Consortium to Advance Clinical Research and Innovation for**&nbsp;**Singapore**
 
