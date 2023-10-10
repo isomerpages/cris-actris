@@ -31,10 +31,11 @@ third_nav_title: Our People
 		</tr>
 		<tr> <!-- Row 2 -->
 			<td width="25%">
-				<a href="/leaders/prof-ng-huck-hui/" target="_blank">
 					<img src="/images/Biography/professor%20lee%20eng%20hin.jpg">
-				</a>
+				<a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/" target="_blank">
 				<div align="center"><b>Prof Ng Huck Hui</b></div>
+				</a>
+					<div align="center"><b>BOC Member</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/ms-elaine-teo/" target="_blank">
