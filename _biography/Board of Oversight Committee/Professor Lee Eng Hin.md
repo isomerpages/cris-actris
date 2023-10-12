@@ -6,7 +6,7 @@ third_nav_title: Board of Oversight Committee
 ---
 ### Professor Lee Eng Hin
 
-<img src="/images/Biography/Board%20of%20Oversight%20Committee/professor-chee-yam-cheng.jpg" style="width:300px">
+<img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20lee%20eng%20hin.jpg" style="width:300px">
 
 
 <h4> Affiliation </h4>
