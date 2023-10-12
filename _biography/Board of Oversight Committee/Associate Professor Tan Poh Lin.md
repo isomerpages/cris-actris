@@ -10,13 +10,13 @@ third_nav_title: Board of Oversight Committee
 
 <h4> Affiliation </h4>
 
-MBBS (Singapore), MMED (Paediatrics) (Singapore), FRCPCH (UK)
+<b>MBBS (Singapore), MMED (Paediatrics) (Singapore), FRCPCH (UK)
 
 Associate Professor, Department of Paediatrics, Yong Loo Lin School of Medicine, National University of Singapore
 
 Senior Consultant, Khoo Teck Puat – National University Children’s Medical Institute, National University Hospital, National University Health System, Singapore
 
-Senior Consultant, National University Cancer Institute, National University Hospital, National University Health System, Singapore
+Senior Consultant, National University Cancer Institute, National University Hospital, National University Health System, Singapore</b>
 
 <h4> Profile </h4>
 
