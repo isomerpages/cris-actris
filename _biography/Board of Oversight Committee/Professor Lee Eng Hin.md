@@ -10,7 +10,7 @@ third_nav_title: Board of Oversight Committee
 
 
 <h4> Affiliation </h4>
-MD, FRCS(C), FRCS(Edin), FRCS(Glas), FAMS
+<b>MD, FRCS(C), FRCS(Edin), FRCS(Glas), FAMS</b>
 
 <h4> Profile </h4>
 
