@@ -42,28 +42,28 @@ third_nav_title: Our People
 					 <a href="/biography/board-of-oversight-committee/professor-tan-sze-wee/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20tan%20sze%20wee.jpg">
 					 </a>
-               <div align="center"><b>Professor Tan Sze Wee</b></div>
+               <div align="center"><h5>Professor Tan Sze Wee</h5></div>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
 					 <a href="/biography/board-of-oversight-committee/professor-david-tan-shao-peng/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20william%20hwang.jpg">
 					 </a>
-               <div align="center"><b>Associate Professor David Tan Shao Peng</b></div>
+               <div align="center"><h5>Associate Professor David Tan Shao Peng</h5></div>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
 					 <a href="/biography/board-of-oversight-committee/associate-professor-yen-choo/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20yen%20choo%20associate%20professor%20yen%20choo.jpg">
 					 </a>
-               <div align="center"><b>Associate Professor Yen Choo</b></div>
+               <div align="center"><h5>Associate Professor Yen Choo</h5></div>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
 					  <a href="/biography/board-of-oversight-committee/associate-professor-tan-poh-lin/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20tan%20poh%20lin.jpg">
 					 </a>
-               <div align="center"><b>Associate Professor Tan Poh Lin</b></div>
+               <div align="center"><h5>Associate Professor Tan Poh Lin</h5></div>
             <div align="center"><b>BOC Member</b></div>
          </td>
       </tr>
@@ -73,21 +73,21 @@ third_nav_title: Our People
 					  <a href="/biography/board-of-oversight-committee/dr-vincent-ho/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/dr-vincent-ho.jpg">
 					 </a>
-               <div align="center"><b>Dr Vincent Ho</b></div>
+               <div align="center"><h5>Dr Vincent Ho</h5></div>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
 					 <a href="/biography/board-of-oversight-committee/ms-goh-wan-yee/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/ms%20goh%20wan%20yee.jpg">
 					 </a>
-               <div align="center"><b>Ms Goh Wan Yee</b></div>
+               <div align="center"><h5>Ms Goh Wan Yee</h5></div>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
 					 <a href="/biography/board-of-oversight-committee/dr-goh-khean-teik/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/dr%20goh%20khean%20teik.jpg">
 					 </a>
-               <div align="center"><b>Dr Goh Khean Teik</b></div>
+               <div align="center"><h5>Dr Goh Khean Teik</h5></div>
             <div align="center"><b>BOC Member</b></div>
          </td>
       </tr>
