@@ -4,9 +4,11 @@ permalink: /biography/management-team/dr-francesca-lim/
 description: ""
 third_nav_title: Management Team
 ---
-<img src="/images/Biography/Management%20Team/dr%20francesca%20lim.jpg" style="width:300px" align="right">
-
 ### Dr Francesca Lim
+
+<img src="/images/Biography/Management%20Team/dr%20francesca%20lim.jpg" style="width:300px">
+
+<h4> Profile </h4>
 
 Dr Francesca Lim is a Senior Consultant with the Department of Haematology at the Singapore General Hospital and the Deputy Head of the Singhealth Duke NUS Cell Therapy Center. She is also the Assistant Medical Director at Health Science Authority at the Cell Therapy Facility.
 
