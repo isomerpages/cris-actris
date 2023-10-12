@@ -30,7 +30,7 @@ third_nav_title: Our People
          </td>
          <td width="25%">
 					 <a href="/biography/board-of-oversight-committee/professor-lee-eng-hin/">
-            <img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20david%20tan%20shao%20peng.jpg">
+            <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20lee%20eng%20hin.jpg">
 					 </a>
                <div align="center"><h5>Professor Lee Eng Hin</h5></div>
             <div align="center"><b>BOC Member</b></div>
@@ -47,7 +47,7 @@ third_nav_title: Our People
          </td>
          <td width="25%">
 					 <a href="/biography/board-of-oversight-committee/professor-david-tan-shao-peng/">
-            <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20william%20hwang.jpg">
+            <img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20david%20tan%20shao%20peng.jpg">
 					 </a>
                <div align="center"><h5>Associate Professor David Tan Shao Peng</h5></div>
             <div align="center"><b>BOC Member</b></div>
