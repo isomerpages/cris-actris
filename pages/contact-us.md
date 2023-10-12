@@ -12,9 +12,9 @@ locations:
     maps_link: ""
     title: Admin Facility
   - address:
-      - "30 Hospital Blvd, #16-02,"
-      - NCCS Building,
+      - "30 Hospital Boulevard, #19-02"
       - Singapore 168583
+      - ""
     operating_hours: []
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
     title: Lab Facility
