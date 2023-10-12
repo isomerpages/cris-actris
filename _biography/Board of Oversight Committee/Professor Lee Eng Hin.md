@@ -6,7 +6,13 @@ third_nav_title: Board of Oversight Committee
 ---
 ### Professor Lee Eng Hin
 
+<img src="/images/Biography/Board%20of%20Oversight%20Committee/professor-chee-yam-cheng.jpg" style="width:300px">
+
+
+<h4> Affiliation </h4>
 MD, FRCS(C), FRCS(Edin), FRCS(Glas), FAMS
+
+<h4> Profile </h4>
 
 Dr Lee is currently Professor of Orthopaedic Surgery in the National University of Singapore and Emeritus Consultant in Orthopaedic Surgery at the National University Hospital. Dr Lee specializes in Paediatric Orthopaedics and is acknowledged internationally as a leader in his field by being elected a member of the International Paediatric Orthopaedic Think Tank.
 
