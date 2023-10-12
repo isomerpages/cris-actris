@@ -38,7 +38,7 @@ To enable the growth of Singapore as an innovation-led biomedical hub, ACTRIS wi
 
 ### Our Vision
 
-To be the national and regional Centre of Excellence for discovery, process development and manufacturing of cellular-based therapeutics.
+- To be the national and regional Centre of Excellence for discovery, process development and manufacturing of cellular-based therapeutics.
 
 
 ### Our Core Values
