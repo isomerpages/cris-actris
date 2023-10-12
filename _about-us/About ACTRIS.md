@@ -3,7 +3,7 @@ title: About ACTRIS
 permalink: /about-us/about-actris/
 description: ""
 ---
-<img src="/images/About%20Us/actris-logo-1.png" style="width:150px" align="right">
+<img src="/images/About%20Us/actris-logo-1.png" style="width:150px" align="left">
 
 <br><br>
 
