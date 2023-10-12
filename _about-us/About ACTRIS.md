@@ -30,11 +30,11 @@ To enable the growth of Singapore as an innovation-led biomedical hub, ACTRIS wi
 
 ### Our Mission
 
-To spearhead quality manufacturing of&nbsp; cellular-based therapeutics &amp; develop cell therapy services.
+- To spearhead quality manufacturing of&nbsp; cellular-based therapeutics &amp; develop cell therapy services.
 
-Support and foster collaboration in research &amp; development within cell therapy ecosystem.
+- Support and foster collaboration in research &amp; development within cell therapy ecosystem.
 
-Train and educate next generation of scientists and clinicians in cellular-based therapy.
+- Train and educate next generation of scientists and clinicians in cellular-based therapy.
 
 ### Our Vision
 
