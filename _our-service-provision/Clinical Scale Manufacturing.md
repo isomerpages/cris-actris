@@ -24,7 +24,7 @@ description: ""
 
 a)	Cell Manufacturing
 - Minimal Manipulation 
--	i.e., Plasma and Red Cell Reduction, Buffy Coat Enrichment and Cell Selection
+	-	i.e., Plasma and Red Cell Reduction, Buffy Coat Enrichment and Cell Selection
 - More Than Minimal Manipulation 
 -	i.e., CTGT Product Manufacturing
 
