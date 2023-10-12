@@ -8,8 +8,12 @@ third_nav_title: Board of Oversight Committee
 
 <img src="/images/Biography/Board%20of%20Oversight%20Committee/dr%20cheong%20wei%20yang.jpg" style="width:300px">
 
+<h4> Affiliation </h4>
+
 <b>Deputy Secretary (Technology)  
 Ministry of Health </b>
+
+<h4> Profile </h4>
 
 As Deputy Secretary (Technology) at MOH, Dr Cheong deploys technology against
 COVID-19, and is developing the health innovation ecosystem to achieve MOH’s 3
