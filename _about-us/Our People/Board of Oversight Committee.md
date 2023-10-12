@@ -39,55 +39,55 @@ third_nav_title: Our People
       <tr>
          <!-- Row 2 -->
          <td width="25%">
+					 <a href="/biography/board-of-oversight-committee/professor-tan-sze-wee/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20tan%20sze%20wee.jpg">
-            <a href="/biography/board-of-oversight-committee/professor-tan-sze-wee/">
+					 </a>
                <div align="center"><b>Professor Tan Sze Wee</b></div>
-            </a>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
+					 <a href="/biography/board-of-oversight-committee/professor-david-tan-shao-peng/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20william%20hwang.jpg">
-            <a href="/biography/board-of-oversight-committee/professor-david-tan-shao-peng/">
+					 </a>
                <div align="center"><b>Associate Professor David Tan Shao Peng</b></div>
-            </a>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
+					 <a href="/biography/board-of-oversight-committee/associate-professor-yen-choo/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20yen%20choo%20associate%20professor%20yen%20choo.jpg">
-            <a href="/biography/board-of-oversight-committee/associate-professor-yen-choo/">
+					 </a>
                <div align="center"><b>Associate Professor Yen Choo</b></div>
-            </a>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
+					  <a href="/biography/board-of-oversight-committee/associate-professor-tan-poh-lin/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20tan%20poh%20lin.jpg">
-            <a href="/biography/board-of-oversight-committee/associate-professor-tan-poh-lin/">
+					 </a>
                <div align="center"><b>Associate Professor Tan Poh Lin</b></div>
-            </a>
             <div align="center"><b>BOC Member</b></div>
          </td>
       </tr>
       <tr>
          <!-- Row 3 -->
          <td width="25%">
+					  <a href="/biography/board-of-oversight-committee/dr-vincent-ho/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/dr-vincent-ho.jpg">
-            <a href="/biography/board-of-oversight-committee/dr-vincent-ho/">
+					 </a>
                <div align="center"><b>Dr Vincent Ho</b></div>
-            </a>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
+					 <a href="/biography/board-of-oversight-committee/ms-goh-wan-yee/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/ms%20goh%20wan%20yee.jpg">
-            <a href="/biography/board-of-oversight-committee/ms-goh-wan-yee/">
+					 </a>
                <div align="center"><b>Ms Goh Wan Yee</b></div>
-            </a>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
+					 <a href="/biography/board-of-oversight-committee/dr-tan-lip-kun/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/dr%20goh%20khean%20teik.jpg">
-            <a href="/biography/board-of-oversight-committee/dr-tan-lip-kun/">
+					 </a>
                <div align="center"><b>Dr Goh Khean Teik</b></div>
-            </a>
             <div align="center"><b>BOC Member</b></div>
          </td>
       </tr>
