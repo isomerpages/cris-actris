@@ -6,13 +6,19 @@ third_nav_title: Board of Oversight Committee
 ---
 ### Ms Goh Wan Yee
 
+<img src="/images/Biography/Board%20of%20Oversight%20Committee/ms%20goh%20wan%20yee.jpg" style="width:300px">
+
+<h4> Affiliation </h4>
+
 Senior Vice President and Head, Healthcare
 
 Economic Development Board
 
+<h4> Profile </h4>
+
 Wan Yee is the Senior Vice President and Head for Healthcare in the Singapore Economic  
 Development Board.  
-She oversees the Health & Wellness industry development strategies and engagement  
+She oversees the Health &amp; Wellness industry development strategies and engagement  
 of international companies to facilitate investments in Singapore.
 
 Prior to this, Wan Yee led EDB’s Human Capital team and was responsible for working  
