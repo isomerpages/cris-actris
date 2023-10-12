@@ -8,31 +8,31 @@ third_nav_title: Our People
    <tbody>
       <tr>
          <td width="25%">
+					 <a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor-chee-yam-cheng.jpg">
-            <a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/">
-               <div align="center"><b>Professor Chee Yam Cheng</b></div>
-            </a>
+					 </a>
+               <div align="center"><h5>Professor Chee Yam Cheng</h5></div>
             <div align="center"><b>Chairman</b></div>
          </td>
          <td width="25%">
+					 <a href="/biography/board-of-oversight-committee/dr-cheong-wei-yang/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/dr%20cheong%20wei%20yang.jpg">
-            <a href="/biography/board-of-oversight-committee/dr-cheong-wei-yang/">
-               <div align="center"><b>Dr Cheong Wei Yang</b></div>
-            </a>
+					 </a>
+               <div align="center"><h5>Dr Cheong Wei Yang</h5></div>
             <div align="center"><b>Deputy Chairman</b></div>
          </td>
          <td width="25%">
+					 <a href="/biography/board-of-oversight-committee/professor-william-hwang/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20william%20hwang.jpg">
-            <a href="/biography/board-of-oversight-committee/professor-william-hwang/">
-               <div align="center"><b>Professor William Hwang</b></div>
-            </a>
+					 </a>
+               <div align="center"><h5>Professor William Hwang</h5></div>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
+					 <a href="/biography/board-of-oversight-committee/professor-lee-eng-hin/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20david%20tan%20shao%20peng.jpg">
-            <a href="/biography/board-of-oversight-committee/professor-lee-eng-hin/">
-               <div align="center"><b>Professor Lee Eng Hin</b></div>
-            </a>
+					 </a>
+               <div align="center"><h5>Professor Lee Eng Hin</h5></div>
             <div align="center"><b>BOC Member</b></div>
          </td>
       </tr>
