@@ -4,11 +4,11 @@ permalink: /biography/management-team/a-prof-danny-soon/
 description: ""
 third_nav_title: Management Team
 ---
-
-<img src="/images/Biography/Management%20Team/a'prof%20danny%20soon.jpg" style="width:300px" align="right">
-
-
 ### A/Prof Danny Soon
+
+<img src="/images/Biography/Management%20Team/a'prof%20danny%20soon.jpg" style="width:300px">
+
+<h4> Affiliation </h4>
 
 Chief Executive Officer
 
@@ -21,6 +21,8 @@ Singapore Clinical Research Institute
 Interim Executive Director
 
 Advanced Cell Therapy and Research Institute, Singapore
+
+<h4> Profile </h4>
 
 Assoc. Prof. Danny Soon is Chief Executive Officer at the Consortium for Clinical Research and Innovation, Singapore (CRIS) and concurrent Executive Director at the Singapore Clinical Research Institute (SCRI). Danny is appointed as the Interim Executive Director, Advanced Cell Therapy and Research Institute, Singapore (ACTRIS) effective from 1 September 2022, for a period of 2 years, or until a new Executive Director is appointed for ACTRIS. As the inaugural CEO, Danny has the responsibility of bringing together five research programmes and platforms under the auspices of CRIS, promulgating synergies and strategies, building corporate functions to service the entire entity.
 
