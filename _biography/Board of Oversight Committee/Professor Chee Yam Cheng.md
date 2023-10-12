@@ -4,14 +4,18 @@ permalink: /biography/board-of-oversight-committee/professor-chee-yam-cheng/
 description: ""
 third_nav_title: Board of Oversight Committee
 ---
-<img src="/images/Biography/Board%20of%20Oversight%20Committee/professor-chee-yam-cheng.jpg" style="width:300px" align="right">
-
 ### Professor Chee Yam Cheng
+
+<img src="/images/Biography/Board%20of%20Oversight%20Committee/professor-chee-yam-cheng.jpg" style="width:300px">
+
+<h4> Affiliation </h4>
 
 <b>Senior Advisor, National Healthcare Group (NHG)  
 Emeritus Consultant, Department of General Medicine,  
 Tan Tock Seng Hospital (TTSH)  
 President, Singapore Medical Council </b>
+
+<h4> Profile </h4>
 
 Prof Chee is one of the renowned senior physicians in the field of general medicine in Singapore. He was TTSH’s Chairman of Medical Board for two terms: 1991 – 1993, and 2000 – 2003 and Master of the Academy of Medicine, Singapore 1998 – 2000.
 
