@@ -23,15 +23,15 @@ sections:
         - title: About Us
           description: Know more about ACTRIS
           url: about-us/about-actris/
-        - title: Key Highlight Title
+        - title: Our Facilities
           description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
+          url: /our-facilities/about-our-facilities/
+        - title: Learning Portal
           description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+          url: /newsroom-and-events/learning-portal/
+        - title: Careers
+          description: Join our growing team
+          url: /careers/
   - infopic:
       title: About Us
       subtitle: WE ARE ACTRIS
