@@ -84,7 +84,7 @@ third_nav_title: Our People
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
-					 <a href="/biography/board-of-oversight-committee/dr-tan-lip-kun/">
+					 <a href="/biography/board-of-oversight-committee/dr-goh-khean-teik/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/dr%20goh%20khean%20teik.jpg">
 					 </a>
                <div align="center"><b>Dr Goh Khean Teik</b></div>
