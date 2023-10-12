@@ -6,9 +6,15 @@ third_nav_title: Board of Oversight Committee
 ---
 ### Associate Professor David Tan Shao Peng
 
+<img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20david%20tan%20shao%20peng.jpg" style="width:300px">
+
+<h4> Affiliation </h4>
+
 BSc(Hons)(London), MBBS(Distinction)(London), PG Dip(Oncology), MRCP(UK)(Medical Oncology), PhD(London), FRCP(Edin)
 
 Associate Professor, Department of Medicine, Yong Loo Lin School of Medicine, National University of Singapore
+
+<h4> Profile </h4>
 
 Dr Tan is a consultant medical oncologist and clinician scientist at the National University Cancer Institute, Singapore, National University Hospital, and an Associate Professor in the Department of Medicine at the Yong Loo Lin School of Medicine, National University of Singapore. He graduated MBBS with Distinction from Guy’s, King’s and St Thomas’ School of Medicine in London, UK and trained in internal medicine at Hammersmith Hospital and Guy’s and St Thomas’ Hospitals in London.
 
