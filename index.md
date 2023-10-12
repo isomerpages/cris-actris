@@ -19,6 +19,19 @@ sections:
       background: /images/Homepage/service-excellence.png
       button: Learn more
       url: /contact-us/
+      key_highlights:
+        - title: About Us
+          description: Know more about ACTRIS
+          url: about-us/about-actris/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: About Us
       subtitle: WE ARE ACTRIS
