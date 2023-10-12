@@ -4,11 +4,13 @@ permalink: /biography/management-team/dr-tan-lip-kun/
 description: ""
 third_nav_title: Management Team
 ---
-<img src="/images/Biography/Management%20Team/dr%20tan%20lip%20kun.jpg" style="width:300px" align="right">
-
 ### Dr Tan Lip Kun
 
-Senior Consultant
+<img src="/images/Biography/Management%20Team/dr%20tan%20lip%20kun.jpg" style="width:300px">
+
+<h4> Affiliation </h4>
+
+<b>Senior Consultant
 
 Department of Laboratory Medicine, National University Hospital  
 Department of Haematology-Oncology, National University Cancer Institute, Singapore (NCIS)  
@@ -16,7 +18,9 @@ Medical Director : Processing Facility, Stem Cell Laboratory
 Medical Director : Tissue Engineering Cell Therapy Laboratory  
 Medical Director : Collection Facility, Apheresis Unit  
 Medical Director : Blood Bank  
-Protem Executive Director, National Cell Therapy Program, ACTRIS (CRIS)
+Protem Executive Director, National Cell Therapy Program, ACTRIS (CRIS)</b>
+
+<h4> Profile </h4>
 
 Dr Tan Lip Kun graduated from Leicester Medical School, UK, in 1989. She obtained her MRCP in 1993, subsequently FRCP in 2020. She completed her post-graduate training in Haematology in 1998 and obtained her MRCPath in 1998. She was conferred FRCPath in 2006. Dr Tan has experience in both laboratory and clinical haematology.
 
