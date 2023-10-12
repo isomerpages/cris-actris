@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Example Title.md
       - About ACTRIS.md
       - Our People/.keep
       - Our People/Board of Oversight Committee.md
