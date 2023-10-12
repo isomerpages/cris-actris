@@ -10,7 +10,7 @@ description: ""
 				<img src="/images/shutterstock_376756795-1.jpg" align="right">
 			</td>
 			<td style="width:60%">
-				<b>JOIN OUR GROWING TEAM</b>
+				<h3>JOIN OUR GROWING TEAM</h3>
 				<br><br>
 At ACTRIS, we are committed to attracting and developing talents in the field of cell and gene therapies and non-healthcare segment from diverse background and experiences.
 <br><br>
