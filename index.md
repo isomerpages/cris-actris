@@ -53,14 +53,6 @@ sections:
       url: /our-facilities/about-our-facilities/
       image: /images/Our Facilities/lark20210224-164900.png
       alt: Our-Facilities-Image
-  - infopic:
-      title: Our Service Provision
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Our-Service-Provision-Image
-      image: /images/Our Service Provision/shutterstock_519817903.jpg
   - resources:
       title: News & Events
       id: resources
