@@ -3,23 +3,15 @@ title: cGMP Guidelines
 permalink: /resources/cgmp-guidelines/
 description: ""
 ---
-<table>
-	<tbody>
-		<tr>
-			<td style="width:30%">
-				<img src="/images/Resources/CGMP%20Guidelines/shutterstock_1073659382.jpg">
-			</td>
-			<td style="width:70%">
-				Find out more about the current Good Manufacturing Practices, and regulations set forth by the U.S.  
+<img src="/images/Resources/CGMP%20Guidelines/shutterstock_1073659382.jpg" style="width:300px" align="left">
+
+Find out more about the current Good Manufacturing Practices, and regulations set forth by the U.S.  
 Food and Drug Administration (FDA), European Medicines Agency (EMA), Health Sciences Authority (HSA), International Council for Harmonisation (ICH), Standards Coordinating Body (SCB), Alliance for Regenerative Medicines (ARM), Therapeutics Goods Administration (TGA), Pharmaceuticals and Medical Device Agency (PMDA) and Pharmaceutical Inspection Co-operation Scheme (PIC/S) in this  
 section.
 
-It contains minimum requirements for the methods, facilities, and controls used in  
+It contains minimum requirements for the methods, facilities, and controls used in
 manufacturing and processing.
-			</td>
-		</tr>
-	</tbody>
-	</table>
+
 	
 Below are the links:
 
