@@ -14,11 +14,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ACTRIS
+      title: Advanced Cell Therapy and Research Institute, Singapore
       subtitle: To Our Partners And Our Patients
       background: /images/Homepage/service-excellence.png
       button: Learn more
-      url: /contact-us/
+      url: /about-us/about-actris/
       key_highlights:
         - title: About Us
           description: Know more about ACTRIS
