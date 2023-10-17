@@ -60,6 +60,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      url: /our-service-provision/clinical-scale-manufacturing/
   - infopic:
       title: Resources
       subtitle: Add an image and text
