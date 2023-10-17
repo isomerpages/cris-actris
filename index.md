@@ -24,10 +24,10 @@ sections:
           description: Know more about ACTRIS
           url: about-us/about-actris/
         - title: Our Facilities
-          description: Key Highlight description
+          description: State-of-the-Art Facility
           url: /our-facilities/about-our-facilities/
         - title: Learning Portal
-          description: Key Highlight description
+          description: Training and Education
           url: /newsroom-and-events/learning-portal/
         - title: Careers
           description: Join our growing team
