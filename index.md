@@ -14,7 +14,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Advanced Cell Therapy and Research Institute, Singapore
+      title: ACTRIS
       subtitle: To Our Partners And Our Patients
       background: /images/Homepage/service-excellence.png
       button: Learn more
