@@ -53,9 +53,6 @@ sections:
       url: /our-facilities/about-our-facilities/
       image: /images/Our Facilities/lark20210224-164900.png
       alt: Our-Facilities-Image
-  - resources:
-      title: News & Events
-      id: resources
   - infopic:
       title: Our Service Provision
       subtitle: Add an image and text
@@ -71,4 +68,7 @@ sections:
       button: Learn more
       url: /resources/cgmp-guidelines/
       alt: Image alt text
+  - resources:
+      title: News & Events
+      id: resources
 ---
