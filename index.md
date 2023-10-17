@@ -14,7 +14,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: SERVICE EXCELLENCE
+      title: ACTRIS
       subtitle: To Our Partners And Our Patients
       background: /images/Homepage/service-excellence.png
       button: Learn more
