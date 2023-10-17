@@ -56,4 +56,19 @@ sections:
   - resources:
       title: News & Events
       id: resources
+  - infopic:
+      title: Our Service Provision
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Resources
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Learn more
+      url: /resources/cgmp-guidelines/
+      alt: Image alt text
 ---
