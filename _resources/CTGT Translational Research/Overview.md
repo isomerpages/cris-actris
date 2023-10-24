@@ -15,27 +15,24 @@ CTGT Translational Research focuses on efforts to build on basic scientific rese
 				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1104131693.jpg">
 				<br>
 				<a href="/resources/ctgt-translational-research/process-gap-analysis/">
-				<b>PROCESS GAP ANALYSIS</b>
+				<h5>PROCESS GAP ANALYSIS</h5>
 				</a>
-				<br><br>
 				No info.
 			</td>
 			<td style="width:33%">
 				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1268263936.jpg">
 				<br>
 				<a href="/resources/ctgt-translational-research/process-improvement/">
-				<b>PROCESS IMPROVEMENT</b>
+				<h5>PROCESS IMPROVEMENT</h5>
 				</a>
-				<br><br>
 				No info.
 			</td>
 			<td style="width:33%">
 				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1190376445.jpg">
 				<br>
 				<a href="/resources/ctgt-translational-research/sop-establishment/">
-				<b>SOP ESTABLISHMENT</b>
+				<h5>SOP ESTABLISHMENT</h5>
 				</a>
-				<br><br>
 				No info.
 			</td>
 		</tr>
@@ -44,20 +41,18 @@ CTGT Translational Research focuses on efforts to build on basic scientific rese
 				<img src="/images/Resources/CTGT%20Translational%20Research/service-1-2.jpg">
 				<br>
 				<a href="/resources/ctgt-translational-research/process-implementation-in-cgmp/">
-				<b>PROCESS IMPLEMENTATION IN CGMP</b>
+				<h5>PROCESS IMPLEMENTATION IN CGMP</h5>
 				</a>
-				<br><br>
 				No info.
 			</td>
 			<td style="width:33%">
 				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_519817903.jpg">
 				<br>
 				<a href="/resources/ctgt-translational-research/clinical-scale-and-grade-manufacturing-of-ctgt-products/">
-				<b> CLINICAL-SCALE AND GRADE MANUFACTURING OF CTGT PRODUCTS FOR PATIENT USE</b>
+				<h5>CLINICAL-SCALE AND GRADE MANUFACTURING OF CTGT PRODUCTS FOR PATIENT USE</h5>
 				</a>
-				<br><br>
 				No info.
 			</td>
 		</tr>
 	</tbody>
-	</table>
+</table>
