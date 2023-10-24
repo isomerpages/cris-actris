@@ -10,18 +10,6 @@ The **Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)** located
 </div>
 <div style="margin-left: 20px;">
 	<p>The facility envisions to house state-of-art technologies that will enable manufacturing of CTGT products to serve both the public and private sector of Singapore. The facility aims to attain all national level certifications/accreditations that will be administered by Health Science Authority and Ministry of Health, Singapore with regards to CTGT manufacturing. ACTRIS will also aim to meet
-CTGT manufacturing standards set by international organisations and regulatory authorities such as FDA, PIC/S, EMA and ISCT. 
-
-The facility will work towards attaining international accreditation such as
-FACT/JACIE and is anticipated to be fully operational by 1st Quarter of 2022, with National Certification for CTGT in keeping with cGMP standards of practice being completed by early-2023.</p>
-	</div>
+CTGT manufacturing standards set by international organisations and regulatory authorities such as FDA, PIC/S, EMA and ISCT. </p>
+</div>
 	
-
-<div style="margin-right: 20px; float: right;">
-	<img src="/images/Our%20Facilities/lark20210224-164911.png" style="width:200px" align="right">
-</div>
-
-<div style="margin-left: 20px;">
-<p>Pictures shown are placeholders and are not representative of the actual facilities.<br>
-- Timeframe for attaining international accreditation and National Certification for CTGT – Information to be confirmed.</p>
-</div>
