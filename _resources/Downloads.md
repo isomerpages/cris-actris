@@ -3,6 +3,8 @@ title: Downloads
 permalink: /resources/downloads/
 description: ""
 ---
-<img src="/images/Resources/Downloads/shutterstock_376756795.jpg" align="left" style="width:300px">
+<div style="margin-right: 20px; float: left;">
+    <img src="/images/Resources/Downloads/shutterstock_376756795.jpg" style="width:300px">
+</div>
 
 No data. Please check back soon!
