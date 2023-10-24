@@ -9,7 +9,6 @@ third_nav_title: Regulatory Facilitation
         <tr>
             <td style="width:33%">
                 <img src="/images/Our%20Service%20Provision/service-1-1.jpg">
-                <br>
                 <a href="/our-service-provision/regulatory-facilitation/regulatory-facilitation/">
                 <h5>REGULATORY FACILITATION</h5>
                 </a>
@@ -17,7 +16,6 @@ third_nav_title: Regulatory Facilitation
             </td>
             <td style="width:33%">
                 <img src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
-                <br>
                 <a href="/our-service-provision/regulatory-facilitation/regulatory-affair-life-cycle/">
                 <h5>REGULATORY AFFAIR LIFE CYCLE</h5>
                 </a>
@@ -25,7 +23,6 @@ third_nav_title: Regulatory Facilitation
             </td>
             <td style="width:33%">
                 <img src="/images/Our%20Service%20Provision/shutterstock_1268263936.jpg">
-                <br>
                 <a href="/our-service-provision/regulatory-facilitation/relevant-international-local-regulations/">
                 <h5>RELEVANT INTERNATIONAL &amp; LOCAL REGULATIONS</h5>
                 </a>
