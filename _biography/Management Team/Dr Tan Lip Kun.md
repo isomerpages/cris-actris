@@ -12,7 +12,7 @@ third_nav_title: Management Team
 
 <b>Senior Consultant<br>
 Department of Laboratory Medicine, National University Hospital<br> 
-Department of Haematology-Oncology, National University Cancer Institute<br>Singapore (NCIS)
+Department of Haematology-Oncology, National University Cancer Institute Singapore (NCIS)<br>
 Medical Director : Processing Facility, Stem Cell Laboratory<br> 
 Medical Director : Tissue Engineering Cell Therapy Laboratory<br>
 Medical Director : Collection Facility, Apheresis Unit<br>
