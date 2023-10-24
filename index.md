@@ -75,6 +75,6 @@ sections:
       alt: Resources
       image: /images/Homepage/shutterstock_1104131693.jpg
   - resources:
-      title: News & Events
+      title: Newsroom & Events
       id: resources
 ---
