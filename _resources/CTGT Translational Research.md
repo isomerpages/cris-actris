@@ -33,15 +33,54 @@ No info.
 	<tbody>
 		<tr>
 			<td style="width:40%">
-				<img src="/images/Our%20Service%20Provision/shutterstock_1104131693.jpg">
+				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1268263936.jpg">
 			</td>
 			<td style="width:60%">
-				<b>
-OTHERS</b>
+				<b>PROCESS IMPROVEMENT</b>
 				<br><br>
-We are constantly looking for partners who are keen to contribute to cell therapy education and training in one way or another, like sponsoring scholarships and events, content and training. Please get in touch with us.
+				No info.
+			</td>
+	</tr></tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width:40%">
+				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1190376445.jpg">
+			</td>
+			<td style="width:60%">
+				<b>SOP ESTABLISHMENT</b>
 				<br><br>
-				<a href="/newsroom-and-events/learning-portal/">LEARN MORE</a>
+				No info.
+			</td>
+	</tr></tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width:40%">
+				<img src="/images/Resources/CTGT%20Translational%20Research/service-1-2.jpg">
+			</td>
+			<td style="width:60%">
+				<b>PROCESS IMPLEMENTATION IN CGM</b>
+				<br><br>
+				No info.
+			</td>
+	</tr></tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width:40%">
+				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_519817903.jpg">
+			</td>
+			<td style="width:60%">
+				<b>CLINICAL-SCALE AND GRADE MANUFACTURING OF CTGT PRODUCTS FOR PATIENT USE</b>
+				<br><br>
+				No info.
 			</td>
 	</tr></tbody>
 </table>
