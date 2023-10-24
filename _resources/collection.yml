@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Overview.md
       - cGMP Guidelines.md
       - Clinical Trial & Beta Testing.md
       - CTGT Translational Research/.keep
