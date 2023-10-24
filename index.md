@@ -74,7 +74,7 @@ sections:
       button: Learn more
       url: /resources/cgmp-guidelines/
       alt: Resources
-      image: /images/Homepage/shutterstock_1104131693.jpg
+      image: /images/shutterstock_376756795-1.jpg
   - resources:
       title: Newsroom & Events
       id: resources
