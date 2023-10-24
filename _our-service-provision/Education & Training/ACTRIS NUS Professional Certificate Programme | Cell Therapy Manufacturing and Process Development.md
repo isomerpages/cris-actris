@@ -13,5 +13,4 @@ third_nav_title: Education & Training
         <p>We’ve had overwhelming response for the first intake of our ‘Professional Certificate in Principles &amp; Practice of Cell Therapy with Emphasis on CAR-T’ from Apr till July 2022. Join our upcoming 16-week Professional Certificate programme and gain knowledge in immunology, CAR-T Biology and Research, CAR-T regulations and clinical aspects of CAR-T from distinguished faculty and industry experts.</p>
         <p>Registration for our second intake opens now with limited seats available! To learn more, download our brochure and visit the website <a href="https://nus.edu/3CNUuKw">here</a>.</p>
     </div>
-</div><table>
-</table>
+</div>
