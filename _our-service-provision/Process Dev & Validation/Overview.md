@@ -8,10 +8,11 @@ third_nav_title: Process Dev & Validation
     <tbody>
         <tr>
             <td style="width:33%;">
+							<a href="/our-service-provision/process-dev-and-validation/scientific-analysis/">
                 <img src="/images/Our%20Service%20Provision/service-1-1.jpg">
-                <a href="/our-service-provision/process-dev-and-validation/scientific-analysis/">
+							</a>
                     <h5>SCIENTIFIC ANALYSIS</h5>
-                </a>
+                
                 There will be an engagement by a team of cell manufacturing specialists of ACTRIS with the clients to better understand the basic scientific findings so as to develop the roadmap of translational activities to enable transition of projects to clinical studies. The key aspects of this service would include: Evaluation of available in vitro and ...
             </td>
             <td style="width:33%;">
