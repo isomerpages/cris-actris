@@ -62,16 +62,19 @@ sections:
       description: Clinical Scale Manufacturing , Process Dev & Validation ,
         Regulatory Facilitation and Education and Training .
       button: Learn More
-      alt: Image alt text
+      alt: Our Service Provision
       url: /our-service-provision/clinical-scale-manufacturing/
+      image: /images/Homepage/our service provision.jpg
   - infopic:
       title: Resources
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
+      description: cGMP Guidelines , Clinical Trial & Beta Testing , CTGT
+        Translational Research , Learning Portal and Downloads .
       button: Learn more
       url: /resources/cgmp-guidelines/
-      alt: Image alt text
+      alt: Resources
+      image: /images/Homepage/shutterstock_1104131693.jpg
   - resources:
       title: News & Events
       id: resources
