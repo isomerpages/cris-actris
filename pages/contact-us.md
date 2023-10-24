@@ -22,7 +22,7 @@ contacts:
   - content:
       - phone: +65 6239 5097
       - email: enquiry@actris.cris.sg
-      - other: Enquiry Form
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
