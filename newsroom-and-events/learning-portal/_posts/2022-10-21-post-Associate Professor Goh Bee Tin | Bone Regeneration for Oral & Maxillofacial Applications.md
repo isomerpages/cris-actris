@@ -16,10 +16,6 @@ Bone is the world’s second-most transplanted tissue. Bone grafts are in high d
 The current gold standard for bone graft is autogenous bone. The donor site may be at various locations, such as the mandibular ramus, chin, iliac crest, or calvarium.
 
 To meet the clinical needs of bone reconstruction or augmentation in the oral-maxillofacial region, the team at the National Dental Research Institute Singapore has been collaborating with bioengineers and material scientists to develop novel devices and innovative approaches to bone regeneration. The techniques are kept simple, minimally invasive and relatively inexpensive so that they may be easily adopted in clinical practice. An overview of the latest research and development will be presented in this lecture.
-			
-		
-	
-
 
 <div class="bp-youtube">
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gHCOGe7hdwY?si=P6dakM0DxDy5j3zz" height="315" width="560">
