@@ -4,6 +4,12 @@ permalink: /our-service-provision/process-dev-and-validation/overview/
 description: ""
 third_nav_title: Process Dev & Validation
 ---
+<style>
+table b {
+    text-decoration: none;
+    color: inherit;
+}
+</style>
 <table>
     <tbody>
         <tr>
