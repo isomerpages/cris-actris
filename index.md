@@ -58,10 +58,10 @@ sections:
       alt: Our-Facilities-Image
   - infopic:
       title: Our Service Provision
-      subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Clinical Scale Manufacturing , Process Dev & Validation ,
+        Regulatory Facilitation and Education and Training .
+      button: Learn More
       alt: Image alt text
       url: /our-service-provision/clinical-scale-manufacturing/
   - infopic:
