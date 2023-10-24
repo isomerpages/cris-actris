@@ -67,7 +67,6 @@ sections:
       image: /images/Homepage/our service provision.jpg
   - infopic:
       title: Resources
-      subtitle: Add an image and text
       id: infopic
       description: cGMP Guidelines , Clinical Trial & Beta Testing , CTGT
         Translational Research , Learning Portal and Downloads .
