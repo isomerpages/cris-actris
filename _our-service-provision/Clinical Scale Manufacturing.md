@@ -3,46 +3,52 @@ title: Clinical Scale Manufacturing
 permalink: /our-service-provision/clinical-scale-manufacturing/
 description: ""
 ---
-#### The facility equipment capabilities will include the followings:
+### Facility Equipment Capabilities
 
-**1.	Hardware**
-- Cytiva
-- Miltenyi Biotec
-- Terumo BCT
-- ThermoFisher Scientific 
-- &amp; Other emerging manufacturing platform
+#### 1\. Hardware
 
-**2.	Quality Control / Assurance**
-- Real-Time PCR
-- Multi-mode plate reader
-- 12 parameters flow cytometer
-- 50 parameters flow cytometer,   etc.
+*   **Cytiva**
+*   **Miltenyi Biotec**
+*   **Terumo BCT**
+*   **ThermoFisher Scientific**
+*   _And other emerging manufacturing platforms_
 
-#### Manufacturing
+#### 2\. Quality Control / Assurance
 
-**1.	Manufacturing Services**
+*   **Real-Time PCR**
+*   **Multi-mode Plate Reader**
+*   **12 Parameters Flow Cytometer**
+*   **50 Parameters Flow Cytometer** _(and more)_
 
-a)	Cell Manufacturing
-- Minimal Manipulation 
-	-	i.e., Plasma and Red Cell Reduction, Buffy Coat Enrichment and Cell Selection
-- More Than Minimal Manipulation 
-	-	i.e., CTGT Product Manufacturing
+### Manufacturing
 
-b)	Cell Banking
-- Master Cell Bank Generation
-- Working Cell Bank Generation
+#### 1\. Manufacturing Services
 
-c)	Cryopreservation and Storage
+a) **Cell Manufacturing**
 
-**2.	Manufacturing Support**
+*   _Minimal Manipulation_
+    *   _e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection_
+*   _More Than Minimal Manipulation_
+    *   _e.g., CTGT Product Manufacturing_
 
-a)	On-Site QC Testing Capability
+b) **Cell Banking**
 
--	Rapid Release Test 
-	-	i.e., Mycoplasma, Endotoxin, Bacteria etc
--	Potency Test 
-	-	i.e., Cytokine Release Assay etc
+*   _Master Cell Bank Generation_
+*   _Working Cell Bank Generation_
 
-b)	On-Site QA/Audit Support
+c) **Cryopreservation and Storage**
 
-c)	Cold Chain Management Using Validated In-House as well as External Logistics Provider
+#### 2\. Manufacturing Support
+
+a) **On-Site QC Testing Capability**
+
+*   _Rapid Release Test_
+    *   _e.g., Mycoplasma, Endotoxin, Bacteria, etc._
+*   _Potency Test_
+    *   _e.g., Cytokine Release Assay, etc._
+
+b) **On-Site QA/Audit Support**
+
+c) **Cold Chain Management**
+
+*   _Using Validated In-House as well as External Logistics Providers_
