@@ -14,7 +14,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: "Advanced Cell Therapy and Research Institute, Singapore "
+      title: Advanced Cell Therapy and Research Institute, Singapore
       subtitle: To Our Partners And Our Patients
       background: /images/Homepage/service-excellence.png
       button: Learn more
@@ -26,12 +26,15 @@ sections:
         - title: Our Facilities
           description: State-of-the-Art Facility
           url: /our-facilities/about-our-facilities/
-        - title: Learning Portal
+        - title: Our Service Provision
+          description: Clinical Scale Manufacturing
+          url: /our-service-provision/clinical-scale-manufacturing/
+        - title: Resources
           description: Training and Education
-          url: /newsroom-and-events/learning-portal/
-        - title: Careers
-          description: Join our growing team
-          url: /careers/
+          url: /resources/cgmp-guidelines/
+      variant: floating
+      alignment: left
+      backgroundColor: gray
   - infopic:
       title: About Us
       subtitle: WE ARE ACTRIS
