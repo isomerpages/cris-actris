@@ -10,9 +10,9 @@ third_nav_title: Board of Oversight Committee
 
 <h4> Affiliation </h4>
 
-<b>BSc(Hons)(London), MBBS(Distinction)(London), PG Dip(Oncology), MRCP(UK)(Medical Oncology), PhD(London), FRCP(Edin)
-
-Associate Professor, Department of Medicine, Yong Loo Lin School of Medicine, National University of Singapore</b>
+<b>BSc(Hons)(London), MBBS(Distinction)(London), PG Dip(Oncology), MRCP(UK)(Medical Oncology), PhD(London), FRCP(Edin)</b>
+<br>
+<b>Associate Professor, Department of Medicine, Yong Loo Lin School of Medicine, National University of Singapore</b>
 
 <h4> Profile </h4>
 
