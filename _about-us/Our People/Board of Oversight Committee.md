@@ -36,7 +36,7 @@ third_nav_title: Our People
             <div align="center"><b>BOC Member</b></div>
          </td>
       </tr>
-      <tr>
+      <tr height="350px">
          <!-- Row 2 -->
          <td width="25%">
 					 <a href="/biography/board-of-oversight-committee/professor-tan-sze-wee/">
@@ -67,7 +67,7 @@ third_nav_title: Our People
             <div align="center"><b>BOC Member</b></div>
          </td>
       </tr>
-      <tr>
+      <tr height="350px">
          <!-- Row 3 -->
          <td width="25%">
 					  <a href="/biography/board-of-oversight-committee/dr-vincent-ho/">
