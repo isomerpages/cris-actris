@@ -6,7 +6,15 @@ third_nav_title: CTGT Translational Research
 ---
 CTGT Translational Research focuses on efforts to build on basic scientific research carried out by clients or in-house R&amp;D team to create new CTGT products by offering services such as:
 
-(i) process gap analysis; (ii) process development; (iii) process improvement; (iv) process validation; (v) process verification; (vi) SOP establishment; (vi) process implementation in cGMP; and (iv) clinical-scale and grade manufacturing of CTGT products for patient use.
+(i) Process Gap Analysis
+(ii) Process Development
+(iii) Process Improvement
+(iv) Process Validation
+(v) Process Verification
+(vi) SOP Establishment
+(vii) Process Implementation in cGMP
+(viii) Clinical-Scale and Grade Manufacturing of CTGT Products for Patient Use
+
 
 <table>
   <tbody>
