@@ -35,6 +35,7 @@ sections:
       variant: floating
       alignment: left
       backgroundColor: gray
+      size: sm
   - infopic:
       title: About Us
       subtitle: WE ARE ACTRIS
