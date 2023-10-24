@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 <table>
    <tbody>
-      <tr>
+      <tr height="350px">
          <td width="25%">
 					 <a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor-chee-yam-cheng.jpg">
