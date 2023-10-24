@@ -1,0 +1,9 @@
+collections:
+  resources:
+    output: true
+    order:
+      - cGMP Guidelines.md
+      - Clinical Trial & Beta Testing.md
+      - CTGT Translational Research.md
+      - Learning Portal.md
+      - Downloads.md
