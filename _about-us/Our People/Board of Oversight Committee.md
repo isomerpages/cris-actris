@@ -82,6 +82,7 @@ third_nav_title: Our People
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/ms%20goh%20wan%20yee.jpg">
 					 </a>
                <div align="center"><h5>Ms Goh Wan Yee</h5></div>
+					 <br>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
@@ -89,6 +90,7 @@ third_nav_title: Our People
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/dr%20goh%20khean%20teik.jpg">
 					 </a>
                <div align="center"><h5>Dr Goh Khean Teik</h5></div>
+					 <br>
             <div align="center"><b>BOC Member</b></div>
          </td>
       </tr>
