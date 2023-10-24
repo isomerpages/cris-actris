@@ -6,7 +6,7 @@ third_nav_title: Regulatory Facilitation
 ---
 <table>
     <tbody>
-        <tr>
+        <tr height="350px">
             <td style="width:33%">
 							<a href="/our-service-provision/regulatory-facilitation/regulatory-facilitation/">
                 <img src="/images/Our%20Service%20Provision/service-1-1.jpg">
