@@ -10,14 +10,13 @@ third_nav_title: Management Team
 
 <h4> Affiliation </h4>
 
-<b>Senior Consultant
-
-Department of Laboratory Medicine, National University Hospital  
-Department of Haematology-Oncology, National University Cancer Institute, Singapore (NCIS)  
-Medical Director : Processing Facility, Stem Cell Laboratory  
-Medical Director : Tissue Engineering Cell Therapy Laboratory  
-Medical Director : Collection Facility, Apheresis Unit  
-Medical Director : Blood Bank  
+<b>Senior Consultant<br>
+Department of Laboratory Medicine, National University Hospital<br> 
+Department of Haematology-Oncology, National University Cancer Institute<br>Singapore (NCIS)
+Medical Director : Processing Facility, Stem Cell Laboratory<br> 
+Medical Director : Tissue Engineering Cell Therapy Laboratory<br>
+Medical Director : Collection Facility, Apheresis Unit<br>
+Medical Director : Blood Bank<br>
 Protem Executive Director, National Cell Therapy Program, ACTRIS (CRIS)</b>
 
 <h4> Profile </h4>
