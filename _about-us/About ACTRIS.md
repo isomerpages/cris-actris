@@ -44,7 +44,3 @@ To enable the growth of Singapore as an innovation-led biomedical hub, ACTRIS wi
 **Innovative:** in promoting research and development
 
 **Service Excellence:** to our partners and our patients
-
-<!--
-<span style="font-size: 18pt;"><span style="color: #ffc000;">Accessibility:</span></span> <span style="font-size: 14pt;"><strong>to cellular therapeutics</strong></span>
--->
