@@ -3,7 +3,9 @@ title: Clinical Trial & Beta Testing
 permalink: /resources/clinical-trial-and-beta-testing/
 description: ""
 ---
-<img src="/images/Resources/CGMP%20Guidelines/shutterstock_1073659382.jpg" style="width:300px" align="left">
+<div style="margin-right: 20px; float: left;">
+    <img src="/images/Resources/CGMP%20Guidelines/shutterstock_1073659382.jpg" style="width:300px">
+</div>
 
 Clinical trials are essential stages for the testing of cancer therapies to ensure the safety and efficacy of the new findings, it involves the investigation of the effectiveness of new treatment.
 
