@@ -10,9 +10,8 @@ third_nav_title: Board of Oversight Committee
 
 <h4> Affiliation </h4>
 
-<b>Senior Vice President and Head, Healthcare</b>
-
-<b>Economic Development Board</b>
+<b>Senior Vice President and Head, Healthcare<br>
+Economic Development Board</b>
 
 <h4> Profile </h4>
 
