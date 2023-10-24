@@ -16,14 +16,15 @@ third_nav_title: Process Dev & Validation
          </td>
          <td style="width:33%;">
             <a href="/our-service-provision/process-dev-and-validation/process-development-validation/">
-            </a>
             <img src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
+							</a>
 					 <div><h5>PROCESS DEVELOPMENT &amp; VALIDATION</h5></div>
             The journey from lab bench to bed side is very much dependent on process development which could address manufacturing scale up and reproducibility. ACTRIS would facilitate by partnering with the clients to convert their research protocols into operational manuals and workflows in compliance with relevant cGMP, safety, and regulatory standards. The process development services …
          </td>
          <td style="width:33%;">
-            <a href="/our-service-provision/process-dev-and-validation/release-assy/"></a>
+            <a href="/our-service-provision/process-dev-and-validation/release-assy/">
             <img src="/images/Our%20Service%20Provision/shutterstock_1268263936.jpg">
+							</a>
             <div><h5>RELEASE ASSAY</h5></div>
             Quality and safety check are achieved via release assays and tests. There will be quality oversight to ensure the suitability, reproducibility, accuracy and sensitivity of the associated assays for each procedure, in accordance to the regulatory requirements for the study phases. Investigators are able to select a panel of in-house assays to suit their specific …
          </td>
