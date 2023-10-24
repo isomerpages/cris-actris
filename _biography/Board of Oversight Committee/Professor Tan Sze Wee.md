@@ -10,7 +10,7 @@ third_nav_title: Board of Oversight Committee
 
 <h4> Affiliation </h4>
 
-<b>A\*STAR ASSISTANT CHIEF EXECUTIVE (SERC)</b>
+<b>Assistant Chief Executive , A\*STAR Science and Engineering Research Council (SERC)</b>
 
 <h4> Profile </h4>
 
