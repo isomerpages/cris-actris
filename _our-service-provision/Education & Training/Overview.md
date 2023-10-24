@@ -4,20 +4,16 @@ permalink: /our-service-provision/education-and-training/overview/
 description: ""
 third_nav_title: Education & Training
 ---
-<table>
-	<tbody>
-		<tr>
-			<td style="width:40%">
-				<img src="/images/Our%20Service%20Provision/shutterstock_1104131693.jpg">
-			</td>
-			<td>
-				<b>Education and Training</b>
-				<br><br>
-	ACTRIS Education and Training is set up to support ACTRIS in one of the three aspects of its mission, that is, to equip those involved in various aspects of cellular-based therapy’s value chain with skills and knowledge. Cell therapy training is critical in stepping up cell, tissue and gene therapy work in Singapore and region and we are able to leverage on our internal expertise in process development &amp; validation, product characterization, clinical trials, clinical care and clinical cell manufacturing for training and education. We develop public and customized training courses which cover various aspects of immunotherapy and regenerative medicine to meet the manpower needs in cell, tissue and gene therapy.
-		</td>
-	</tr>
-</tbody>
-</table>
+<div style="display: flex;">
+    <div style="width: 40%;">
+        <img src="/images/Our%20Service%20Provision/shutterstock_1104131693.jpg">
+    </div>
+    <div style="width: 60%; padding-left: 20px;">
+        <h4>Education and Training</h4>
+        <p>ACTRIS Education and Training is set up to support ACTRIS in one of the three aspects of its mission, that is, to equip those involved in various aspects of cellular-based therapy’s value chain with skills and knowledge. Cell therapy training is critical in stepping up cell, tissue and gene therapy work in Singapore and region and we are able to leverage on our internal expertise in process development &amp; validation, product characterization, clinical trials, clinical care and clinical cell manufacturing for training and education. We develop public and customized training courses which cover various aspects of immunotherapy and regenerative medicine to meet the manpower needs in cell, tissue and gene therapy.</p>
+    </div>
+</div>
+
 
 
 It aims to be a leading and innovative education and training platform for the cell, tissue and gene therapy community in Singapore and beyond as well as a community builder of knowledge experts and passionate learners.
