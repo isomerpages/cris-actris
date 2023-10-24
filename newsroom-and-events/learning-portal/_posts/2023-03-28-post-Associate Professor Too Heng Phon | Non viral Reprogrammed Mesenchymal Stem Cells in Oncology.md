@@ -8,7 +8,7 @@ description: ""
 image: ""
 ---
 <div style="margin-right: 20px; float: left;">
-    <img src="/images/Learning%20Portal/2023/webinar_square-prof-too.png" style="width:300px">
+    <img src="/images/Learning%20Portal/2023/webinar_square-prof-too.png" style="width:400px">
 </div>
 
 There is currently over a thousand clinical trials using Mesenchymal Stem Cells (MSC) for various indications. While MSCs demonstrate an exceptional safety profile, it is increasingly clear that MSC therapies fail to progress beyond pre-clinical studies and are unsuccessful in late-stage clinical trials.
