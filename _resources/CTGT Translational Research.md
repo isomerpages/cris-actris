@@ -19,7 +19,7 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="width:40%">
-				<img src="/images/Our%20Service%20Provision/shutterstock_519817903.jpg">
+				<img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1104131693.jpg">
 			</td>
 			<td style="width:60%">
 				<b>PROCESS GAP ANALYSIS</b>
