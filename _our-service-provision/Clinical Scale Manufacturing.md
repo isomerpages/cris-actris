@@ -5,6 +5,8 @@ description: ""
 ---
 ### Facility Equipment Capabilities
 
+<img src="/images/Our%20Service%20Provision/clinical_scale.jpg" style="width:350px" align="right">
+
 #### 1\. Hardware
 
 *   **Cytiva**
