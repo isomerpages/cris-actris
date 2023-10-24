@@ -16,35 +16,32 @@ CTGT Translational Research focuses on efforts to build on basic scientific rese
 
 
 <table>
-  <tbody>
-    <tr>
-      <td style="width:33%">
-        <img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1104131693.jpg">
-        <h5>PROCESS GAP ANALYSIS</h5>
-        No info.
-      </td>
-      <td style="width:33%">
-        <img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1268263936.jpg">
-        <h5>PROCESS IMPROVEMENT</h5>
-        No info.
-      </td>
-      <td style="width:33%">
-        <img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_1190376445.jpg">
-        <h5>SOP ESTABLISHMENT</h5>
-        No info.
-      </td>
-    </tr>
-    <tr>
-      <td style="width:33%">
-        <img src="/images/Resources/CTGT%20Translational%20Research/service-1-2.jpg">
-        <h5>PROCESS IMPLEMENTATION IN CGMP</h5>
-        No info.
-      </td>
-      <td style="width:33%">
-        <img src="/images/Resources/CTGT%20Translational%20Research/shutterstock_519817903.jpg">
-        <h5>CLINICAL-SCALE AND GRADE MANUFACTURING OF CTGT PRODUCTS FOR PATIENT USE</h5>
-        No info.
-      </td>
-    </tr>
-  </tbody>
+	<tbody>
+		<tr>
+			<td style="width:40%">
+				<img src="/images/Our%20Service%20Provision/shutterstock_519817903.jpg">
+			</td>
+			<td style="width:60%">
+				<b>PROCESS GAP ANALYSIS</b>
+				<br><br>
+No info.
+			</td>
+	</tr></tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width:40%">
+				<img src="/images/Our%20Service%20Provision/shutterstock_1104131693.jpg">
+			</td>
+			<td style="width:60%">
+				<b>
+OTHERS</b>
+				<br><br>
+We are constantly looking for partners who are keen to contribute to cell therapy education and training in one way or another, like sponsoring scholarships and events, content and training. Please get in touch with us.
+				<br><br>
+				<a href="/newsroom-and-events/learning-portal/">LEARN MORE</a>
+			</td>
+	</tr></tbody>
 </table>
