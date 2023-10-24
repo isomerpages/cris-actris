@@ -7,8 +7,7 @@ description: ""
 image: ""
 ---
 <div style="margin-right: 20px; float: left;">
-    <img src="/images/Learning%20Portal/2022/webinar_arun
-.png" style="width:500px">
+    <img src="/images/Learning%20Portal/2022/webinar_arun.png" style="width:500px">
 </div>
 
 Since the first successful cord blood transplant in 1988, cord blood has been studied extensively for treating haematological malignancies and disorders.
