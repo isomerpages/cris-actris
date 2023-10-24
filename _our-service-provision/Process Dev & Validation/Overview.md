@@ -5,16 +5,13 @@ description: ""
 third_nav_title: Process Dev & Validation
 ---
 <style>
-table h5 {
+table a h5,
+table a b {
     text-decoration: none;
     color: inherit;
 }
-	
-table b{
-	text-decoration: none;
-    color: inherit;
-}
 </style>
+
 <table>
     <tbody>
         <tr>
