@@ -14,7 +14,7 @@ third_nav_title: Education & Training
     </div>
 </div>
 
- clinical trials, clinical care and clinical cell manufacturing for training and education. We develop public and customized training courses which cover various aspects of immunotherapy and regenerative medicine to meet the manpower needs in cell, tissue and gene therapy.
+clinical trials, clinical care and clinical cell manufacturing for training and education. We develop public and customized training courses which cover various aspects of immunotherapy and regenerative medicine to meet the manpower needs in cell, tissue and gene therapy.
 
 
 
