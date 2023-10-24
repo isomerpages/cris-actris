@@ -6,7 +6,7 @@ third_nav_title: Education & Training
 ---
 <div style="display: flex;">
     <div style="width: 40%;">
-        <img src="/images/Our%20Service%20Provision/shutterstock_1104131693.jpg">
+        <img src="/images/Our%20Service%20Provision/shutterstock_519817903.jpg">
     </div>
     <div style="width: 60%; padding-left: 20px;">
         <h4>Education and Training</h4>

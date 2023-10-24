@@ -11,3 +11,5 @@ The key aspects of this service would include:
 *   Evaluation of available in vitro and in vivo findings.
 *   Suggestions for additional in vitro and in vivo experiments to ascertain pre-clinical safety, toxicity, dosing, route of delivery and product stability; and
 *   Survey of competitive landscape and current standard products and technology to create a target product profile and value proposition for the new product.
+
+![](/images/Shutterstock%20Images/picture6.jpg)

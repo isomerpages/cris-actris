@@ -8,7 +8,7 @@ description: ""
 image: ""
 ---
 <div style="margin-right: 20px; float: left;">
-    <img src="/images/Learning%20Portal/2023/webinar_square-prof-herbert-s.png" style="width:450px">
+    <img src="/images/Learning%20Portal/2023/webinar_square-prof-herbert-s.png" style="width:500px">
 </div>
 
 Epstein-Barr virus (EBV) is associated with many cancers, including nasopharyngeal carcinoma (NPC). Induction of an immune response against EBV could potentially be employed for elimination of NPC and other EBV-associated cancers. Dendritic cells (DC) are potent induces of immune responses, and are being tested for cancer immunotherapy.

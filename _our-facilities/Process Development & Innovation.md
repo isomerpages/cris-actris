@@ -4,7 +4,7 @@ permalink: /our-facilities/process-development-innovation/
 description: ""
 ---
 <div style="margin-right: 20px; float: left;">
-    <img src="/images/Our%20Facilities/lark20210224-164900.png" style="width:300px">
+    <img src="/images/Our%20Facilities/process%20development%20&amp;%20innovation.jpg" style="width:300px">
 </div>
 
 <div style="margin-left: 20px;">

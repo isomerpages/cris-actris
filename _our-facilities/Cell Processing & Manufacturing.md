@@ -4,7 +4,7 @@ permalink: /our-facilities/cell-processing-and-manufacturing/
 description: ""
 ---
 <div style="margin-right: 20px; float: left;">
-    <img src="/images/Our%20Facilities/lark20210224-164900.png" style="width:300px">
+    <img src="/images/Our%20Facilities/cell%20processing%20&amp;%20manufacturing.jpg" style="width:300px">
 </div>
 
 <div style="margin-left: 20px;">
