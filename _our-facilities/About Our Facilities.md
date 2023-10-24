@@ -22,6 +22,6 @@ FACT/JACIE and is anticipated to be fully operational by 1st Quarter of 2022, wi
 </div>
 
 <div style="margin-left: 20px;">
-<p>Pictures shown are placeholders and are not representative of the actual facilities.
+<p>Pictures shown are placeholders and are not representative of the actual facilities.<br>
 - Timeframe for attaining international accreditation and National Certification for CTGT – Information to be confirmed.</p>
 </div>
