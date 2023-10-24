@@ -9,6 +9,11 @@ table h5 {
     text-decoration: none;
     color: inherit;
 }
+	
+table b{
+	text-decoration: none;
+    color: inherit;
+}
 </style>
 <table>
     <tbody>
