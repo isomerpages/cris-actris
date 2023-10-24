@@ -43,7 +43,7 @@ third_nav_title: Our People
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20tan%20sze%20wee.jpg">
 					 </a>
                <div align="center"><h5>Professor Tan Sze Wee</h5></div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					 <br>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
