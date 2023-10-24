@@ -3,11 +3,13 @@ title: cGMP Guidelines
 permalink: /resources/cgmp-guidelines/
 description: ""
 ---
-<img src="/images/Resources/CGMP%20Guidelines/shutterstock_1073659382.jpg" style="width:300px" align="left">
-
-Find out more about the current Good Manufacturing Practices, and regulations set forth by the U.S.  
-Food and Drug Administration (FDA), European Medicines Agency (EMA), Health Sciences Authority (HSA), International Council for Harmonisation (ICH), Standards Coordinating Body (SCB), Alliance for Regenerative Medicines (ARM), Therapeutics Goods Administration (TGA), Pharmaceuticals and Medical Device Agency (PMDA) and Pharmaceutical Inspection Co-operation Scheme (PIC/S) in this  
-section.
+<div style="margin-right: 20px; float: left;">
+    <img src="/images/Resources/CGMP%20Guidelines/shutterstock_1073659382.jpg" style="width:300px">
+</div>
+<div style="margin-left: 20px;">	
+<p>Find out more about the current Good Manufacturing Practices, and regulations set forth by the U.S.  
+Food and Drug Administration (FDA), European Medicines Agency (EMA), Health Sciences Authority (HSA), International Council for Harmonisation (ICH), Standards Coordinating Body (SCB), Alliance for Regenerative Medicines (ARM), Therapeutics Goods Administration (TGA), Pharmaceuticals and Medical Device Agency (PMDA) and Pharmaceutical Inspection Co-operation Scheme (PIC/S) in this section.</p>
+</div>
 
 It contains minimum requirements for the methods, facilities, and controls used in
 manufacturing and processing.
