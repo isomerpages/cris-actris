@@ -4,7 +4,11 @@ permalink: /our-service-provision/process-dev-and-validation/process-development
 description: ""
 third_nav_title: Process Dev & Validation
 ---
-The journey from lab bench to bed side is very much dependent on process development which could address manufacturing scale up and reproducibility. ACTRIS would facilitate by partnering with the clients to convert their research protocols into operational manuals and workflows in compliance with relevant cGMP, safety, and regulatory standards. The process development services will also aim at incorporating various regulatory-compliant manufacturing equipment to incorporate automations. Considerations for process development would include facility requirements, equipment, reagents, consumables, and personnel training. Developmental studies and mock-ups would be initiated as part of the process. Therefore, the partnership strives to resolve translational hurdles thereby paving the way for clinical applications of the novel technologies.      
+<div style="margin-right: 20px; float: left;">
+    <img src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg" style="width:400px">
+</div>
+
+The journey from lab bench to bed side is very much dependent on process development which could address manufacturing scale up and reproducibility. ACTRIS would facilitate by partnering with the clients to convert their research protocols into operational manuals and workflows in compliance with relevant cGMP, safety, and regulatory standards. The process development services will also aim at incorporating various regulatory-compliant manufacturing equipment to incorporate automations. Considerations for process development would include facility requirements, equipment, reagents, consumables, and personnel training. Developmental studies and mock-ups would be initiated as part of the process. Therefore, the partnership strives to resolve translational hurdles thereby paving the way for clinical applications of the novel technologies.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Process Validation and SOP Development**
 
