@@ -28,7 +28,7 @@ If you would like to find out more about education and training courses and init
 	<tbody>
 		<tr>
 			<td style="width:40%">
-				<img src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
+				<img src="/images/Shutterstock%20Images/picture6.jpg">
 			</td>
 			<td style="width:60%">
 				<b>EDUCATION PROGRAMMES</b>
@@ -61,7 +61,7 @@ Our lecture series in the year 2021 focuses on Immunotherapy while the current s
 	<tbody>
 		<tr>
 			<td style="width:40%">
-				<img src="/images/Our%20Service%20Provision/shutterstock_519817903.jpg">
+				<img src="/images/Shutterstock%20Images/picture9.jpg">
 			</td>
 			<td style="width:60%">
 				<b>CUSTOMISED &amp; SPECIALISED TRAINING</b>
