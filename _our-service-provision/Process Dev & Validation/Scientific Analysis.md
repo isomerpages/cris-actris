@@ -12,7 +12,7 @@ There will be an engagement by a team of cell manufacturing specialists of ACTRI
 
 <br><br>
 
-The key aspects of this service would include:
+**The key aspects of this service would include:**
 
 *   Evaluation of available in vitro and in vivo findings.
 *   Suggestions for additional in vitro and in vivo experiments to ascertain pre-clinical safety, toxicity, dosing, route of delivery and product stability; and
