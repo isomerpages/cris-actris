@@ -75,6 +75,7 @@ third_nav_title: Our People
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/dr-vincent-ho.jpg">
 					 </a>
                <div align="center"><h5>Dr Vincent Ho</h5></div>
+					 <br>
             <div align="center"><b>BOC Member</b></div>
          </td>
          <td width="25%">
