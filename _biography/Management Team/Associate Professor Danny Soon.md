@@ -10,7 +10,7 @@ third_nav_title: Management Team
 
 <h4> Affiliation </h4>
 
-<b>Chief Executive Officer, Consortium for Clinical Research and Innovation, <br>Singapore<br>
+<b>Chief Executive Officer, Consortium for Clinical Research and Innovation, Singapore<br>
 Executive Director, Singapore Clinical Research Institute<br>
 Interim Executive Director, Advanced Cell Therapy and Research Institute, Singapore</b>
 
