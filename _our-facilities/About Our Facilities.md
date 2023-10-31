@@ -11,7 +11,5 @@ description: ""
 
 <p>The facility envisions to house state-of-art technologies that will enable manufacturing of CTGT products to serve both the public and private sector of Singapore.</p>
 
-<br>
-
 <p>The facility aims to attain all national level certifications/accreditations that will be administered by Health Science Authority and Ministry of Health, Singapore with regards to CTGT manufacturing. ACTRIS will also aim to meet
 CTGT manufacturing standards set by international organisations and regulatory authorities such as FDA, PIC/S, EMA, and ISCT.</p>
