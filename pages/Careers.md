@@ -15,6 +15,6 @@ variant: markdown
 				<br><br>
 At ACTRIS, we are committed to attracting and developing talents in the field of cell and gene therapies and non-healthcare segment from diverse background and experiences.
 <br><br>
-<a href="https://careers.mohh.com.sg/CRIS/go/CRIS/680844/">View our job openings here!</a>
+<h4 href="https://careers.mohh.com.sg/CRIS/go/CRIS/680844/">View our job openings here!</h4>
 
 </td></tr></tbody></table>
