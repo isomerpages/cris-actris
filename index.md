@@ -15,7 +15,6 @@ notification: ""
 sections:
   - hero:
       title: Advanced Cell Therapy and Research Institute, Singapore
-      subtitle: To Our Partners And Our Patients
       background: /images/Homepage/service-excellence.png
       button: Learn more
       url: /about-us/about-actris/
