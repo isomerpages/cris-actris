@@ -24,11 +24,5 @@ contacts:
       - email: enquiry@actris.cris.sg
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ""
-      - other: Proceed to <a href="https://careers.mohh.com.sg/CRIS/go/CRIS/680844/">
-          CRIS Career Page</a>
-    title: Careers
 feedback: ""
 ---
