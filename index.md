@@ -15,7 +15,6 @@ notification: ""
 sections:
   - hero:
       title: Advanced Cell Therapy and Research Institute, Singapore
-      subtitle: To Our Partners And Our Patients
       background: /images/Homepage/service-excellence.png
       button: Learn more
       url: /about-us/about-actris/
@@ -32,7 +31,7 @@ sections:
         - title: Resources
           description: Training and Education
           url: /resources/cgmp-guidelines/
-      variant: center
+      variant: side
       alignment: left
       backgroundColor: gray
       size: sm
