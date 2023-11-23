@@ -29,8 +29,7 @@ variant: markdown
 
 1.1 Cell Manufacturing
 
-* Minimal Manipulation
-*(e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection)*
+* Minimal Manipulation *(e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection)*
 	
 * More Than Minimal Manipulation *(e.g., CTGT Product Manufacturing)*
 
