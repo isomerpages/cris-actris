@@ -13,7 +13,7 @@ variant: markdown
 *   Cytiva
 *   Miltenyi Biotec
 *   Terumo BCT
-*   ThermoFisher Scientific
+*   Thermo Fisher Scientific
 *   _Other Emerging Manufacturing Platforms_
 
 ##### 2\. Quality Control / Assurance
@@ -29,10 +29,8 @@ variant: markdown
 
 1.1 Cell Manufacturing
 
-*   Minimal Manipulation <div>
-    - e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection
-*  More Than Minimal Manipulation <div>
-	-  e.g., CTGT Product Manufacturing
+*   Minimal Manipulation <div> - e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection
+*  More Than Minimal Manipulation <div> -  e.g., CTGT Product Manufacturing
 
 1.2 Cell Banking
 
@@ -45,13 +43,10 @@ variant: markdown
 
 2.1 On-Site QC Testing Capability
 
-a)   Rapid Release Test <div>
-     - e.g., Mycoplasma, Endotoxin, Bacteria, etc.
-	
-b)   Potency Test <div>
-     - e.g., Cytokine Release Assay, etc.
+*   Rapid Release Test <div> - e.g., Mycoplasma, Endotoxin, Bacteria, etc.
+*   Potency Test <div> - e.g., Cytokine Release Assay, etc.
 
 2.2 On-Site QA/Audit Support
 
 2.3 Cold Chain Management <div>
-	- Using Validated In-House as well as External Logistics Providers.</div></div></div></div></div>
+* Using Validated In-House as well as External Logistics Providers.</div></div></div></div></div>
