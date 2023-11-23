@@ -31,6 +31,7 @@ variant: markdown
 
 *   Minimal Manipulation 
 <div>- e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection
+	
 *  More Than Minimal Manipulation 
 <div>- e.g., CTGT Product Manufacturing
 
@@ -45,9 +46,12 @@ variant: markdown
 
 2.1 On-Site QC Testing Capability
 
-*   Rapid Release Test 
+*   Rapid Release Test
+
 <div>- e.g., Mycoplasma, Endotoxin, Bacteria, etc.
-*   Potency Test 
+	
+*   Potency Test
+
 <div>- e.g., Cytokine Release Assay, etc.
 
 2.2 On-Site QA/Audit Support
