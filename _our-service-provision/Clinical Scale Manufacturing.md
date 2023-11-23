@@ -29,11 +29,10 @@ variant: markdown
 
 1.1 Cell Manufacturing
 
-a)   Minimal Manipulation
-<div> - e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection
+* Minimal Manipulation
+*(e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection)*
 	
-b)  More Than Minimal Manipulation
-* e.g., CTGT Product Manufacturing
+* More Than Minimal Manipulation *(e.g., CTGT Product Manufacturing)*
 
 1.2 Cell Banking
 
@@ -55,4 +54,4 @@ b)  More Than Minimal Manipulation
 2.2 On-Site QA/Audit Support
 
 2.3 Cold Chain Management  
-* Using Validated In-House as well as External Logistics Providers.</div></div></div>
+* Using Validated In-House as well as External Logistics Providers.</div></div>
