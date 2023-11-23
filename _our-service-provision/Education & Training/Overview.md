@@ -16,7 +16,7 @@ variant: markdown
 		
 <p>We develop public and customized training courses which cover various aspects of immunotherapy and regenerative medicine to meet the manpower needs in cell, tissue and gene therapy. It aims to be a leading and innovative education and training platform for the cell, tissue and gene therapy community in Singapore and beyond as well as a community builder of knowledge experts and passionate learners.</p>
 
-<p>If you would like to participate or contribute in one way or another, please contact us at [education@actris.cris.sg](mailto:education@actris.cris.sg).</p>
+<p>If you would like to participate or contribute in one way or another, please contact us at [education@actris.cris.sg](/mailto:education@actris.cris.sg).</p>
 
 <p>If you would like to find out more about education and training courses and initiatives, please check out the product and service offerings at the [Learning Portal](/www.newsroom-and-events/learning-portal/).</p>
 
