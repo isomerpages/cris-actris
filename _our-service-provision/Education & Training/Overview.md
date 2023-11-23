@@ -18,7 +18,7 @@ variant: markdown
 
 If you would like to participate or contribute in one way or another, please contact us at [education@actris.cris.sg] (mailto:education@actris.cris.sg).
 
-<p>If you would like to find out more about education and training courses and initiatives, please check out the product and service offerings at the [Learning Portal] (/newsroom-and-events/learning-portal/).
+If you would like to find out more about education and training courses and initiatives, please check out the product and service offerings at the [Learning Portal] (/newsroom-and-events/learning-portal/).
 	
 <table>
 	<tbody>
@@ -84,4 +84,4 @@ We are constantly looking for partners who are keen to contribute to cell therap
 				<a href="/newsroom-and-events/learning-portal/" style="text-decoration:none"><h5>LEARN MORE</h5></a>
 			</td>
 	</tr></tbody>
-</table></p></div></div>
+</table><p></p></div></div>
