@@ -2,25 +2,26 @@
 title: Clinical Scale Manufacturing
 permalink: /our-service-provision/clinical-scale-manufacturing/
 description: ""
+variant: markdown
 ---
 ### Facility Equipment Capabilities
 
 <img src="/images/Our%20Service%20Provision/clinical_scale.jpg" style="width:350px" align="right">
 
-#### 1\. Hardware
+##### 1\. Hardware
 
-*   **Cytiva**
-*   **Miltenyi Biotec**
-*   **Terumo BCT**
-*   **ThermoFisher Scientific**
-*   _And other emerging manufacturing platforms_
+*   Cytiva
+*   Miltenyi Biotec
+*   Terumo BCT
+*   ThermoFisher Scientific
+*   _Other Emerging Manufacturing Platforms_
 
-#### 2\. Quality Control / Assurance
+##### 2\. Quality Control / Assurance
 
-*   **Real-Time PCR**
-*   **Multi-mode Plate Reader**
-*   **12 Parameters Flow Cytometer**
-*   **50 Parameters Flow Cytometer** _(and more)_
+*   Real-Time PCR
+*   Multi-mode Plate Reader
+*   12 Parameters Flow Cytometer
+*   50 Parameters Flow Cytometer _(and more)_
 
 ### Manufacturing
 
