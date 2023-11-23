@@ -29,11 +29,11 @@ variant: markdown
 
 1.1 Cell Manufacturing
 
-*   Minimal Manipulation 
-<div>- e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection
+*   Minimal Manipulation <div>
+- e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection
 	
-*  More Than Minimal Manipulation 
-<div>- e.g., CTGT Product Manufacturing
+*  More Than Minimal Manipulation <div>
+	- e.g., CTGT Product Manufacturing
 
 1.2 Cell Banking
 
@@ -47,15 +47,12 @@ variant: markdown
 2.1 On-Site QC Testing Capability
 
 *   Rapid Release Test
-
 <div>- e.g., Mycoplasma, Endotoxin, Bacteria, etc.
 	
 *   Potency Test
-
 <div>- e.g., Cytokine Release Assay, etc.
 
 2.2 On-Site QA/Audit Support
 
 2.3 Cold Chain Management  
-
 * Using Validated In-House as well as External Logistics Providers.</div></div></div></div>
