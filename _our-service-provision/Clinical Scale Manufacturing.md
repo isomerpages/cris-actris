@@ -44,13 +44,11 @@ variant: markdown
 
 2.1 On-Site QC Testing Capability
 
-*   Rapid Release Test
-<div>- e.g., Mycoplasma, Endotoxin, Bacteria, etc.
+*   Rapid Release Test *(e.g., Mycoplasma, Endotoxin, Bacteria, etc.)*
 	
-*   Potency Test
-<div>- e.g., Cytokine Release Assay, etc.
+*   Potency Test *(e.g., Cytokine Release Assay, etc.)*
 
 2.2 On-Site QA/Audit Support
 
 2.3 Cold Chain Management  
-* Using Validated In-House as well as External Logistics Providers.</div></div>
+* Using Validated In-House as well as External Logistics Providers.
