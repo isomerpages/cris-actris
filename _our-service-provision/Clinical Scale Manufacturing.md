@@ -27,31 +27,31 @@ variant: markdown
 
 ##### 1\. Manufacturing Services
 
-a) Cell Manufacturing
+1.1 Cell Manufacturing
 
-*   Minimal Manipulation
-    *   e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection
-*  More Than Minimal Manipulation
-    *   e.g., CTGT Product Manufacturing
+*   Minimal Manipulation <div>
+    - e.g., Plasma and Red Cell Reduction, Buffy Coat Enrichment, and Cell Selection
+*  More Than Minimal Manipulation <div>
+	-  e.g., CTGT Product Manufacturing
 
-b) Cell Banking
+1.2 Cell Banking
 
 *   Master Cell Bank Generation
 *   Working Cell Bank Generation
 
-c) Cryopreservation and Storage
+1.3 Cryopreservation and Storage
 
 ##### 2\. Manufacturing Support
 
-a) On-Site QC Testing Capability
+2.1 On-Site QC Testing Capability
 
-*   Rapid Release Test
-    *   e.g., Mycoplasma, Endotoxin, Bacteria, etc.
-*   Potency Test
-    *   e.g., Cytokine Release Assay, etc.
+a)   Rapid Release Test <div>
+     - e.g., Mycoplasma, Endotoxin, Bacteria, etc.
+	
+b)   Potency Test <div>
+     - e.g., Cytokine Release Assay, etc.
 
-b) On-Site QA/Audit Support
+2.2 On-Site QA/Audit Support
 
-c) Cold Chain Management
-
-*   Using Validated In-House as well as External Logistics Providers
+2.3 Cold Chain Management <div>
+	- Using Validated In-House as well as External Logistics Providers.</div></div></div></div></div>
