@@ -8,4 +8,6 @@ variant: markdown
     <img src="/images/Resources/Downloads/shutterstock_376756795.jpg" style="width:300px">
 </div>
 
-This page is under construction. Please check back soon!
+This page is under construction. 
+
+Please check back soon!
