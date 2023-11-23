@@ -84,4 +84,4 @@ We are constantly looking for partners who are keen to contribute to cell therap
 				<a href="/newsroom-and-events/learning-portal/" style="text-decoration:none"><h5>LEARN MORE</h5></a>
 			</td>
 	</tr></tbody>
-</table><p></p></div></div>
+</table></div></div>
