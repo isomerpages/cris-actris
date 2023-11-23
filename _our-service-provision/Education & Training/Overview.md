@@ -9,7 +9,7 @@ variant: markdown
     <div style="width: 40%;">
         <img src="/images/Our%20Service%20Provision/shutterstock_519817903.jpg">
     </div>
-    <div style="width: 60%; padding-left: 20px;">
+    <div style="width: 60%; padding-centre: 20px;">
         <h4>Education and Training</h4>
         <p>ACTRIS Education and Training is set up to support ACTRIS in one of the three aspects of its mission, that is, to equip those involved in various aspects of cellular-based therapy’s value chain with skills and knowledge.<br>Cell therapy training is critical in stepping up cell, tissue and gene therapy work in Singapore and region and we are able to leverage on our internal expertise in process development &amp; validation, product characterization, clinical trials, clinical care and clinical cell manufacturing for training and education.
 		
