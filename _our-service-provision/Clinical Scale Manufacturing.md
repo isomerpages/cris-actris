@@ -25,7 +25,7 @@ variant: markdown
 
 ### Manufacturing
 
-#### 1\. Manufacturing Services
+##### 1\. Manufacturing Services
 
 a) **Cell Manufacturing**
 
