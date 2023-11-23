@@ -16,10 +16,11 @@ variant: markdown
 		
 <p>We develop public and customized training courses which cover various aspects of immunotherapy and regenerative medicine to meet the manpower needs in cell, tissue and gene therapy. It aims to be a leading and innovative education and training platform for the cell, tissue and gene therapy community in Singapore and beyond as well as a community builder of knowledge experts and passionate learners.</p>
 
-<p>If you would like to participate or contribute in one way or another, please contact us at [education@actris.cris.sg](/mailto:education@actris.cris.sg).</p>
+<p>If you would like to participate or contribute in one way or another, please contact us at <a href="https:// mailto:education@actris.cris.sg">education@actris.cris.sg</a>.
+</p>
 
-<p>If you would like to find out more about education and training courses and initiatives, please check out the product and service offerings at the [Learning Portal](/www.newsroom-and-events/learning-portal/).</p>
-
+<p>If you would like to find out more about education and training courses and initiatives, please check out the product and service offerings at the <a href="https:// actris.sg/newsroom-and-events/learning-portal/">Learning Portal</a>.
+	
 <table>
 	<tbody>
 		<tr>
@@ -84,4 +85,4 @@ We are constantly looking for partners who are keen to contribute to cell therap
 				<a href="/newsroom-and-events/learning-portal/" style="text-decoration:none"><h5>LEARN MORE</h5></a>
 			</td>
 	</tr></tbody>
-</table><p></p></div></div>
+</table></p></div></div>
