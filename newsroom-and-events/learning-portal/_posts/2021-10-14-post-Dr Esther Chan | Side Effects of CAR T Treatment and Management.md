@@ -1,10 +1,11 @@
 ---
-title: Dr Esther Chan | Side Effects Of Car T Treatment And Management
+title: Dr Esther Chan | Side Effects of CAR T Treatment and Management
 permalink: /newsroom-and-events/learning-portal/side-effects-of-car-treatment-and-management/
 date: 2021-10-14
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 <div style="margin-right: 20px; float: left;">
     <img src="/images/Learning%20Portal/2021/esther-chan_webinar_square-.png" style="width:500px">
