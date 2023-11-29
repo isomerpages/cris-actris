@@ -18,4 +18,4 @@ This lecture aims to present the preclinical understanding of the mechanisms and
 
 Given the current issues and complications surrounding chronic wounds, it is believed that developing clinical applications of stem cell therapies is the next rational step in improving wound care.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jfayjblidko?si=jxede33bllc-0dhq" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JfAYjBliDKo?si=t\_tiLvtySUFRHGXI" height="315" width="560"></iframe>
