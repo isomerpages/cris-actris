@@ -1,7 +1,7 @@
 ---
 title: "Dr Lim Fui Ping | Stem Cell Therapy for Chronic Skin Wounds: from Bench
   to Bedside"
-permalink: /newsroom-and-events/learning-portal/permalink/
+permalink: /newsroom-and-events/learning-portal/stem-cell-therapy-for-chronic-skin-wounds-from-bench-to-bedside/
 date: 2023-11-24
 layout: post
 description: ""
@@ -17,3 +17,5 @@ Chronic wounds persist as a significant health care problem, particularly with i
 This lecture aims to present the preclinical understanding of the mechanisms and effects of MSCs as well as current clinical trials which showcase their therapeutic potential. 
 
 Given the current issues and complications surrounding chronic wounds, it is believed that developing clinical applications of stem cell therapies is the next rational step in improving wound care.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JfAYjBliDKo?si=t\_tiLvtySUFRHGXI" height="315" width="560"></iframe>
