@@ -28,14 +28,7 @@ variant: markdown
 					 </a>
                <div align="center"><h5>Professor William Hwang</h5></div>
             <div align="center"><b>BOC Member</b></div>
-         </td>
-         <td width="25%">
-					 <a href="/biography/board-of-oversight-committee/professor-lee-eng-hin/">
-            <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20lee%20eng%20hin.jpg">
-					 </a>
-               <div align="center"><h5>Professor Lee Eng Hin</h5></div>
-            <div align="center"><b>BOC Member</b></div>
-         </td>
+				</td>   
       </tr>
       <tr height="350px">
          <!-- Row 2 -->
@@ -56,19 +49,11 @@ variant: markdown
          </td>
          <td width="25%">
 					 <a href="/biography/board-of-oversight-committee/associate-professor-yen-choo/">
-            <img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20yen%20choo%20associate%20professor%20yen%20choo.jpg">
+            <img src="/images/Biography/Board%20of%20Oversight%20Committee/Profile_Pic_AProf_Yen_Choo_v2.jpg">
 					 </a>
                <div align="center"><h5>Associate Professor Yen Choo</h5></div>
             <div align="center"><b>BOC Member</b></div>
-         </td>
-         <td width="25%">
-					  <a href="/biography/board-of-oversight-committee/associate-professor-tan-poh-lin/">
-            <img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20tan%20poh%20lin.jpg">
-					 </a>
-               <div align="center"><h5>Associate Professor Tan Poh Lin</h5></div>
-            <div align="center"><b>BOC Member</b></div>
-         </td>
-      </tr>
+      </td></tr>
       <tr height="350px">
          <!-- Row 3 -->
          <td width="25%">
