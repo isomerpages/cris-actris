@@ -24,7 +24,7 @@ variant: markdown
          </td>
          <td width="25%">
 					 <a href="/biography/board-of-oversight-committee/professor-william-hwang/">
-            <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20william%20hwang.jpg">
+            <img src="/images/Biography/Board%20of%20Oversight%20Committee/Profile_Picture___Prof_William_Hwang_v4.jpg">
 					 </a>
                <div align="center"><h5>Professor William Hwang</h5></div>
             <div align="center"><b>BOC Member</b></div>
