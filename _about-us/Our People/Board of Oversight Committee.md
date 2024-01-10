@@ -3,22 +3,23 @@ title: Board of Oversight Committee
 permalink: /about-us/our-people/board-of-oversight-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <table>
    <tbody>
       <tr height="350px">
-         <td width="25%">
-					 <a href="/biography/board-of-oversight-committee/professor-chee-yam-cheng/">
-            <img src="/images/Biography/Board%20of%20Oversight%20Committee/professor-chee-yam-cheng.jpg">
-					 </a>
-               <div align="center"><h5>Professor Chee Yam Cheng</h5></div>
-            <div align="center"><b>Chairman</b></div>
-         </td>
-         <td width="25%">
+				<td width="25%">
 					 <a href="/biography/board-of-oversight-committee/dr-cheong-wei-yang/">
             <img src="/images/Biography/Board%20of%20Oversight%20Committee/dr%20cheong%20wei%20yang.jpg">
 					 </a>
                <div align="center"><h5>Dr Cheong Wei Yang</h5></div>
+            <div align="center"><b>Chairman</b></div>
+         </td>
+         <td width="25%">
+					 <a href="/biography/board-of-oversight-committee/dr-cheong-wei-yang/">
+            <img src="/images/Biography/Board%20of%20Oversight%20Committee/DS_Philip_Ong_Profile_Pic_realigned_v3.jpg">
+					 </a>
+               <div align="center"><h5>Mr Philip Ong</h5></div>
             <div align="center"><b>Deputy Chairman</b></div>
          </td>
          <td width="25%">
