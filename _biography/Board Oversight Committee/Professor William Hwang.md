@@ -3,10 +3,15 @@ title: Professor William Hwang
 permalink: /biography/board-of-oversight-committee/professor-william-hwang/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: markdown
 ---
 ### Professor William Hwang
 
-<img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20william%20hwang.jpg" style="width:300px">
+<img src="/images/Biography/Board%20Oversight%20Committee/Profile_Picture___Prof_William_Hwang_v3.jpg" style="width:300px">
+
+<h4> Affiliation </h4>
+
+<b>Assistant Chief Executive , A\*STAR Science and Engineering Research Council (SERC)</b>
 
 <h4> Profile </h4>
 
