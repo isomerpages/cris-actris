@@ -10,15 +10,13 @@ variant: markdown
 <img src="/images/Biography/Board%20Oversight%20Committee/Profile_Picture___Prof_William_Hwang_v3.jpg" style="width:300px">
 
 <h4> Affiliation </h4>
+<b> Senior Advisor, Singapore Health Services </b>
 
-<b>Assistant Chief Executive , A\*STAR Science and Engineering Research Council (SERC)</b>
+<h4> Profile </h4>   
+Professor William Hwang is Co-Director of the Regenerative Medicine Institute of Singapore (REMEDIS) and a Senior Consultant, Department of Haematology at National Cancer Centre Singapore (NCCS) and Singapore General Hospital (SGH). He previously served as the Chief Executive Officer of NCCS and is currently Senior Advisor, SingHealth, to the SingHealth Board of Advisors. As the founding Medical Director of the Singapore Cord Blood Bank, Singapore’s first public cord blood bank, Prof Hwang also initiated and set up the SingHealth Duke-NUS Cell Therapy Centre and REMEDIS as a joint institute of SingHealth Duke-NUS Academic Medical Centre.
 
-<h4> Profile </h4>
+Prof Hwang is currently Deputy Chairman of Ministry of Health’s (MOH) Clinical Services Strategy Committee for Cell Therapy, and also on the Board Oversight Committee of two entities in MOH Holdings – the Singapore Translational Cancer Consortium, and ACTRIS. He currently serves as Chairman of the Lien Centre for Palliative Care and Co-Chair of the National Advisory Committee on Cancer Care. He is also Chair of the Biobanking Advisory, MOH; Co-Chair of the Cell, Tissue and Gene Therapy Regulations workgroup, and Co-Chair of the HSCT Regulations workgroup.
 
-Professor William Hwang is currently Medical Director of the National Cancer Centre of Singapore (NCCS), Chair of the Oncology Academic Clinical Programme (ACP) in the SingHealth Duke-NUS Academic Medical Centre, Head of the SingHealth Duke-NUS Cell Therapy Centre, and one of the research faculty in the Duke-NUS Cancer and Stem Cell Biology (CSCB) programme. He is serving as Chairman, Biobanking Advisory, Ministry of Health (MOH); Co-Chair, National Advisory Committee on Cancer Care (NACC), MOH; Co-Chair, Cell, Tissue and Gene Therapy (CTGT) Regulations workgroup, MOH; Member, Hematopoietic Stem Cell Transplant Regulations workgroup, MOH. He is also Board Organising Committee (BOC) member of the Singapore Translational Cancer Consortium.
+He was previously President of the World Marrow Donor Association and an Executive Board member of the Asia Pacific Blood and Marrow Transplant Group. He currently serves as a Global Committee member of the European Blood and Marrow Transplant Group and Regional Vice-President (Asia) of the International Society of Cell and Gene Therapy.
 
-He has previously served as Medical Director of the Singapore Cord Blood Bank, Head for the Department of Haematology in the Singapore General Hospital and Head of the SingHealth Duke-NUS Blood Cancer Centre as well as Director for SingHealth Transplant.
-
-He was previously President of the World Marrow Donor Association (WMDA), and Advisory Board member of the Centre for International Blood and Marrow Transplant Research (CIBMTR, based in the USA). He served as Congress President for the 2016 Asia Pacific Blood and Marrow Transplant Group (APBMT) meeting and currently serves as Executive Board member of the APBMT.
-
-Prof Hwang has published over 120 papers in medicine and science, particularly in the field of haematology and HSCT.
+A recipient of the National Outstanding Clinician Award at the National Medical Excellence Awards 2023, Prof Hwang has published over 140 scientific papers, and conducted clinical trials and laboratory research in haematology.
