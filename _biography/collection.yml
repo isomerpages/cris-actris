@@ -2,10 +2,10 @@ collections:
   biography:
     output: true
     order:
-      - Board Oversight Committee/Mr Philip Ong.md
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Professor Chee Yam Cheng.md
       - Board Oversight Committee/Dr Cheong Wei Yang.md
+      - Board Oversight Committee/Mr Philip Ong.md
       - Board Oversight Committee/Professor William Hwang.md
       - Board Oversight Committee/Professor Lee Eng Hin.md
       - Board Oversight Committee/Professor Tan Sze Wee.md
