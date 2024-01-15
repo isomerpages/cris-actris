@@ -5,18 +5,4 @@ description: ""
 third_nav_title: Board Oversight Committee
 variant: tiptap
 ---
-### Professor Tan Sze Wee
-
-<img src="/images/Biography/Board%20of%20Oversight%20Committee/professor%20tan%20sze%20wee.jpg" style="width:300px">
-
-<h4> Affiliation </h4>
-
-<b>Assistant Chief Executive , A\*STAR Science and Engineering Research Council (SERC)</b>
-
-<h4> Profile </h4>
-
-Professor Tan Sze Wee is currently the Assistant Chief Executive of A\*STAR’s Enterprise Division (ENT). He previously held the appointments of Executive Director in the Science and Engineering Council, Deputy Executive Director in the Biomedical Research Council, Director of SERC’s Strategic Initiatives, and Programme Director of the Medical Technology initiative in SERC. Professor Tan is Adjunct Professor at Nanyang Technological University’s School of Chemical and Biomedical Engineering and Lee Kong Chian School of Medicine, and Adjunct Professor at Duke-NUS Medical School Singapore.
-
-Professor Tan was formerly the Managing Director and Chief Executive Officer of Rockeby Biomed Limited and the Asia-Pacific Associate Regional Medical Director for Mead Johnson Nutritionals from 1997 to 2001. Professor Tan was a former Nominated Member of Parliament of Singapore.
-
-Professor Tan graduated with a Bachelor of Medicine and a Bachelor of Surgery from the National University of Singapore, and attained his Masters of Business Administration from Warwick University, UK.
+<h3>Professor Tan Sze Wee</h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/professor tan sze wee.jpg"></div><h4>Affiliation</h4><p>Assistant Chief Executive, Biomedical Research Council</p><p>Senior Advisor, Innovation and Enterprise (National Platforms), Agency for Science, Technology and Research</p><h4>Profile</h4><p>Prof Tan Sze Wee is currently the Assistant Chief Executive of A*STAR’s Biomedical Research Council (BMRC) and Senior Advisor of the Innovation and Enterprise (I&amp;E) Group.</p><p>Professor Tan is Adjunct Professor at Nanyang Technological University’s (NTU) Lee Kong Chian School of Medicine, as well as an Adjunct Professor at Duke-NUS Medical School Singapore.</p><p>Professor Tan was a former Nominated Member of Parliament of Singapore, and is a recipient of Friend of Labour Award and the Public Administration Medal (Silver).</p><p>Professor Tan is a member of the board of Ministry of Health’s Consortium for Clinical Research and Innovation Singapore Pte Ltd (CRIS) and a member of the steering committee for Programme for Research in Epidemic Preparedness and Response (PREPARE).&nbsp; He is a board member of Singapore Eye Research Institute (SERI). He is a council member of the Singapore Medical Association (SMA), as well as a board director for SMA Pte Ltd and SMA Charity Pte Ltd. Prof Tan is also the Chairman of Unlocking ADHD Ltd.&nbsp;</p>
