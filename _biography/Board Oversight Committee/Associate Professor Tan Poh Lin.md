@@ -3,20 +3,6 @@ title: Associate Professor Tan Poh Lin
 permalink: /biography/board-of-oversight-committee/associate-professor-tan-poh-lin/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: tiptap
 ---
-### Associate Professor Tan Poh Lin
-
-<img src="/images/Biography/Board%20of%20Oversight%20Committee/associate%20professor%20tan%20poh%20lin.jpg" style="width:300px">
-
-<h4> Affiliation </h4>
-
-<b>MBBS (Singapore), MMED (Paediatrics) (Singapore), FRCPCH (UK)<br>
-Associate Professor, Department of Paediatrics, Yong Loo Lin School of Medicine, National University of Singapore<br>
-Senior Consultant, Khoo Teck Puat – National University Children’s Medical Institute, National University Hospital, National University Health System, Singapore<br>
-Senior Consultant, National University Cancer Institute, National University Hospital, National University Health System, Singapore</b>
-
-<h4> Profile </h4>
-
-Dr Tan is currently Medical Director of Paediatric Haematopoietic Stem Cell Transplantation (HSCT) and Cellular Therapy Programme at the National University Health System (NUHS), Paediatric Haemato-Oncologist at the National University Hospital (NUH), and an Associate Professor in the Department of Paediatrics at the Yong Loo Lin School of Medicine, National University of Singapore.
-
-Her primary work focuses on HSCT in paediatric high-risk cancers, haematological and immunological conditions, and the development of innovative HSCT and cellular therapy. She is the founding Chairwoman of VIVA-Asia BMT Consortium, a subsidiary of the VIVA Foundation for Children with Cancer, a regional collaborative clinical network for paediatric HSCT in Asia. She is Programme Director of Diploma in Paediatric Cancer Care at the Academy of Medicine, Singapore, and Programme Director of Advanced Clinical Fellowship in Paediatric HSCT at NUHS.
+<h3>Dr Su Xinyi</h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/Profile_Picture___Dr_Su_Xinyi.jpg"></div><h4>Affiliations</h4><p>Senior Consultant, Ophthalmology, National University Hospital</p><p>Acting Executive Director, Institute of Molecular and Cell Biology, Agency for Science, Technology and Research</p><h4>Profile</h4><p>Dr Su Xinyi took on the role as Acting Executive Director at IMCB with effect 15 July 2023, stepping up from her previous role as Deputy Executive Director (Strategy and Transformation).&nbsp;</p><p>Dr Su, an A*STAR scholar, graduated with MB BChir PhD from the University of Cambridge (UK) and joined IMCB in 2016 as a clinician-scientist. She balances her time leading a broad retinal research program as Senior Principal Investigator at IMCB, with providing clinical leadership as Senior Consultant Vitreo-Retinal Surgeon at the National University Hospital. Dr Su also holds joint appointments as Research Director at the Department of Ophthalmology (NUS) and Clinician-Scientist at SERI.&nbsp;</p><p>Her research interests focus on harnessing biomaterial, regenerative stem-cell, and nucleic acid technologies for the treatment of age-related retinal degenerative disease. Her research has been published in, inter alia, Nature Biomedical Engineering, Nature Communications, Lancet Global Health, PNAS, and Advanced Materials. She is a recipient of multiple global and national awards, including the Asia-Pacific Academy of Ophthalmology’s Young Ophthalmologist Award (2019), the Asia-Pacific Vitreo-Retinal Society Leadership Development Program Gold Award (2020), Singapore Ten Outstanding Young Persons of Singapore Award (for Medical Innovation, 2021), Susan Lim Outstanding Stem Cell Young Investigator Award (2022) and National Medical Research Council Clinician Scientist Award (2022). In 2022, she was accepted into the prestigious international membership of The Macular Society.&nbsp;&nbsp;</p><p>Passionate about clinical translation of research, Dr Su holds several patents and co-founded an ISO 13485 (Medical Device Quality System) accredited spin-off company, Vitreogel Innovations, focussed on developing the next generation of vitreous substitutes. Beyond research, Dr Su is committed to people development and has mentored numerous clinician-scientists as the Deputy Director of the Clinician-Scientist Academy at NUHS.</p><p></p>
