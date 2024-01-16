@@ -2,7 +2,6 @@ collections:
   biography:
     output: true
     order:
-      - Board Oversight Committee/Prof Chng Wee Joo.md
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Dr Cheong Wei Yang.md
       - Board Oversight Committee/Mr Philip Ong.md
@@ -14,6 +13,7 @@ collections:
       - Board Oversight Committee/Ms Goh Wan Yee.md
       - Board Oversight Committee/Ms Amanda Ang.md
       - Board Oversight Committee/Dr Su Xinyi.md
+      - Board Oversight Committee/Prof Chng Wee Joo.md
       - Management Team/.keep
       - Management Team/Associate Professor Danny Soon.md
       - Management Team/Dr Francesca Lim.md
