@@ -5,37 +5,4 @@ description: ""
 third_nav_title: Board Oversight Committee
 variant: tiptap
 ---
-### Dr Cheong Wei Yang
-
-<img src="/images/Biography/Board%20of%20Oversight%20Committee/dr%20cheong%20wei%20yang.jpg" style="width:300px">
-
-<h4> Affiliation </h4>
-
-<b>Deputy Secretary (Technology), Ministry of Health </b>
-
-<h4> Profile </h4>
-
-As Deputy Secretary (Technology) at MOH, Dr Cheong deploys technology against
-COVID-19, and is developing the health innovation ecosystem to achieve MOH’s 3
-Beyonds – beyond healthcare to health; beyond hospital to community, and beyond quality to value.
-
-Prior to MOH, he was Deputy CEO of NRF, where he implemented the S$19 billion
-RIE 2020 plan and led an inter-agency effort to develop the S$25 billion RIE 2025
-plan.
-
-He served on the Boards of URA; ISEAS-Yusof Ishak Institute; NMRC; EDDC; DxD
-Hub; National Additive Manufacturing Programme; Singapore Food Story R&amp;D
-Programme; Centre for Research &amp; Development in Learning; and NRF Holdings.
-
-Dr Cheong was Divisional Director (Planning) in MOE. Beyond educational policies,
-he shaped educational research at National Institute of Education and led
-international benchmarking and partnership efforts. As Deputy Director
-(Manufacturing &amp; Services) at MTI overseeing EDB, he led the Secretariat for the
-Economic Strategies Committee chaired by Senior Minister Tharman
-Shanmugaratnam.
-
-As Head Fiscal Strategy at Ministry of Finance, he shaped
-Singapore’s long-term fiscal sustainability.
-As a Rhodes Scholar and PSC Scholar, he obtained his DPhil/MPhil in Economics
-from Oxford, and his S.B. in Chemical Engineering and S.B. in Economics from
-Massachusetts Institute of Technology respectively.
+<h3>Dr Cheong Wei Yang</h3><div class="isomer-image-wrapper"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/Profile_CheongWeiYang_v2.jpg"></div><h4>Affiliation</h4><p>Deputy Secretary (Technology), Ministry of Health</p><h4>Profile</h4><p>As Deputy Secretary (Technology) at MOH, Dr Cheong deploys technology against COVID-19, and is developing the health innovation ecosystem to achieve MOH’s 3 Beyonds – beyond healthcare to health; beyond hospital to community, and beyond quality to value.</p><p>Prior to MOH, he was Deputy CEO of NRF, where he implemented the S$19 billion RIE 2020 plan and led an inter-agency effort to develop the S$25 billion RIE 2025 plan.</p><p>He served on the Boards of URA; ISEAS-Yusof Ishak Institute; NMRC; EDDC; DxD Hub; National Additive Manufacturing Programme; Singapore Food Story R&amp;D Programme; Centre for Research &amp; Development in Learning; and NRF Holdings.</p><p>Dr Cheong was Divisional Director (Planning) in MOE. Beyond educational policies, he shaped educational research at National Institute of Education and led international benchmarking and partnership efforts. As Deputy Director (Manufacturing &amp; Services) at MTI overseeing EDB, he led the Secretariat for the Economic Strategies Committee chaired by Senior Minister Tharman Shanmugaratnam.</p><p>As Head Fiscal Strategy at Ministry of Finance, he shaped Singapore’s long-term fiscal sustainability. As a Rhodes Scholar and PSC Scholar, he obtained his DPhil/MPhil in Economics from Oxford, and his S.B. in Chemical Engineering and S.B. in Economics from Massachusetts Institute of Technology respectively.</p>
