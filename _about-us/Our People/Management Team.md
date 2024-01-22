@@ -3,6 +3,7 @@ title: Management Team
 permalink: /about-us/our-people/management-team/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -22,14 +23,4 @@ third_nav_title: Our People
 				<div align="center"><b>Chief Medical Officer</b></div>
 			</td>
 			<td width="25%">
-				<a href="/biography/management-team/dr-tan-lip-kun/">
-					<img src="/images/Biography/Management%20Team/dr%20tan%20lip%20kun.jpg">
-				</a>
-				<div align="center"><h5>Dr Tan Lip Kun</h5></div>
-				<div align="center"><b>Senior Advisor</b></div>
-			</td>
-			<td>
-			</td>
-		</tr>
-	</tbody>
-</table>
+</td></tr></tbody></table>
