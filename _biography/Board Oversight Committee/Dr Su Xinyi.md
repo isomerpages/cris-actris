@@ -1,6 +1,6 @@
 ---
 title: Dr Su Xinyi
-permalink: /biography/board-of-oversight-committee/dr-su-xinyi/
+permalink: /biography/board-oversight-committee/dr-su-xinyi/
 description: ""
 third_nav_title: Board Oversight Committee
 variant: tiptap
