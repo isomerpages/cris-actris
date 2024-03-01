@@ -11,7 +11,7 @@ description: The Advanced Cell Therapy and Research Institute, Singapore
   for the local market.
 image: /images/Logos/actris logo_white bg.png
 permalink: /
-notification: "Open for Registration: CliniMACS Prodigy® Mini Workshop (22 April 2024)"
+notification: ""
 sections:
   - hero:
       title: Advanced Cell Therapy and Research Institute, Singapore
