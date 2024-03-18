@@ -22,7 +22,7 @@ Leveraging these developments to advance healthcare capabilities and create econ
 
 These are:  
 1.&nbsp;[Singapore Clinical Research Institute](https://www.scri.edu.sg/)&nbsp;(SCRI)  
-2.&nbsp;[National Health Innovation Centre, Singapore](https://nhic.sg/web/)&nbsp;(NHIC)  
+2.&nbsp;[National Health Innovation Centre, Singapore](https://nhic.sg)&nbsp;(NHIC)  
 3.&nbsp;[Advanced Cell Therapy and Research Institute, Singapore](https://www.actris.sg/)&nbsp;(ACTRIS)  
 4.&nbsp;[Precision Health Research, Singapore](https://www.npm.sg/)&nbsp;(PRECISE)  
 5.&nbsp;[Singapore Translational Cancer Consortium](https://www.stcc.sg/)&nbsp;(STCC)
