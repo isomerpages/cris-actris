@@ -6,6 +6,7 @@ date: 2022-04-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <img src="/images/Newsroom%20&amp;%20Events/In%20The%20News%20And%20Media%20Releases/cris-image.png" style="width:300px">
 
@@ -26,7 +27,6 @@ These are:
 4.&nbsp;[Precision Health Research, Singapore](https://www.npm.sg/)&nbsp;(PRECISE)  
 5.&nbsp;[Singapore Translational Cancer Consortium](https://www.stcc.sg/)&nbsp;(STCC)
 
-Refer to&nbsp;[Annex 1](https://www.cris.sg/wp-content/uploads/2022/04/02-Press-Release-Annex-1-About-CRIS-and-its-Programmes.pdf)&nbsp;for more information about each initiative.
 
 “As Singapore’s basic science capabilities and talent base have begun to mature, and as our research initiatives find footing to deliver impact, it is timely to bring them under one roof. Together as CRIS, we seek to ensure a unity of mission across our programmes, synergise our capabilities, scientific resources and industry engagement. This way, we stay relevant and aligned to the needs of Singapore
 
