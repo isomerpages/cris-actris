@@ -5,6 +5,7 @@ date: 2021-09-23
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <img src="/images/Newsroom%20&amp;%20Events/In%20The%20News%20And%20Media%20Releases/adobestock_143340083-scaled.jpg" style="width:300px">
 
@@ -46,7 +47,7 @@ To meet the growing demands of CGT manufacturing,&nbsp;**a centralised facility 
 
 A new national enabler for CGT manufacturing – the&nbsp;[Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)](https://www.actris.sg/)&nbsp;– was established to meet the increasing clinical demand of using CGTs.&nbsp;**ACTRIS’s vision is to be the national and regional Centre of Excellence for facilitating discovery, process development and manufacturing of cellular-based therapeutics.**
 
-ACTRIS is a research programme of the Consortium for Clinical Research and Innovation, Singapore (CRIS), which&nbsp;[brings together five key national-level R&amp;D initiatives and clinical services](https://www.cris.sg/media-release-launch-of-a-new-national-consortium-to-advance-clinical-research-and-innovation-for-singapore/). CRIS aims to make a positive difference to Singapore patients and researchers by ensuring that clinical research platforms and programmes such as ACTRIS, are at the cutting edge of capability development and innovation.
+ACTRIS is a research programme of the Consortium for Clinical Research and Innovation, Singapore (CRIS), which&nbsp;[brings together five key national-level R&amp;D initiatives and clinical services](https://www.cris.sg/news-and-events/media-releases/220406-CRIS-launch/). CRIS aims to make a positive difference to Singapore patients and researchers by ensuring that clinical research platforms and programmes such as ACTRIS, are at the cutting edge of capability development and innovation.
 
 ##### Promising developments for CGT to reach patients
 
