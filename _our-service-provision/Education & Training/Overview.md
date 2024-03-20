@@ -33,7 +33,7 @@ If you would like to find out more about education and training courses and init
 				<br><br>
 We develop and curate programmes in various formats and sub-specialisations to meet different needs that may lead to professional certifications. Grow your expertise and start your skills upgrading journey here at ACTRIS.
 				<br><br>
-				<a href="/our-service-provision/education-and-training/actris-nus-professional-certificate-programme-cell/" style="text-decoration:none"><h5>LEARN MORE</h5></a>
+				<a href="/https://www.actris.sg/our-service-provision/education-and-training/actris-nus-professional-certificate-programme-cell/" style="text-decoration:none"><h5>LEARN MORE</h5></a>
 			</td>
 	</tr></tbody>
 </table>
