@@ -20,7 +20,7 @@ We develop public and customized training courses which cover various aspects of
 
 If you would like to participate or contribute in one way or another, please contact us at [education@actris.cris.sg](mailto:education@actris.cris.sg).
 
-If you would like to find out more about education and training courses and initiatives, please check out the product and service offerings at the [Learning Portal](/newsroom-and-events/learning-portal/).
+If you would like to find out more about education and training courses and initiatives, please check out the product and service offerings at the [Learning Portal](https://www.actris.sg/newsroom-and-events/learning-portal/).
 	
 <table>
 	<tbody>
@@ -33,7 +33,7 @@ If you would like to find out more about education and training courses and init
 				<br><br>
 We develop and curate programmes in various formats and sub-specialisations to meet different needs that may lead to professional certifications. Grow your expertise and start your skills upgrading journey here at ACTRIS.
 				<br><br>
-				<a href="/our-service-provision/education-and-training/actris-nus-professional-certificate-programme-cell/" style="text-decoration:none"><h5>LEARN MORE</h5></a>
+				<a href="https://www.actris.sg/our-service-provision/education-and-training/actris-nus-professional-certificate-programme-cell/" style="text-decoration:none"><h5>LEARN MORE</h5></a>
 			</td>
 	</tr></tbody>
 </table>
@@ -50,7 +50,7 @@ We develop and curate programmes in various formats and sub-specialisations to m
 				<br><br>
 Our lecture series in the year 2021 focuses on Immunotherapy while the current series in 2022 focuses on regenerative medicine. If you have missed our lectures, fret not, we have compiled the recorded lecturers for your viewing.
 				<br><br>
-				<a href="/newsroom-and-events/learning-portal/" style="text-decoration:none"><h5>LEARN MORE</h5></a>
+				<a href="https://www.actris.sg/newsroom-and-events/learning-portal/" style="text-decoration:none"><h5>LEARN MORE</h5></a>
 			</td>
 	</tr></tbody>
 </table>
@@ -66,7 +66,7 @@ Our lecture series in the year 2021 focuses on Immunotherapy while the current s
 				<br><br>
 We provide customization of training programmes to meet the needs of your company. Areas include cell, tissue and gene therapy laboratory skills, regulation and quality management. Contact us at for a discussion.
 				<br><br>
-				<a href="https://www.actris.sg/contact-us//" style="text-decoration:none"><h5>LEARN MORE</h5>
+				<a href="https://www.actris.sg/newsroom-and-events/learning-portal/" style="text-decoration:none"><h5>LEARN MORE</h5>
 			</a></td>
 	</tr></tbody>
 </table>
@@ -83,7 +83,7 @@ OTHERS</b>
 				<br><br>
 We are constantly looking for partners who are keen to contribute to cell therapy education and training in one way or another, like sponsoring scholarships and events, content and training. Please get in touch with us.
 				<br><br>
-				<a href="/newsroom-and-events/learning-portal/" style="text-decoration:none"><h5>LEARN MORE</h5></a>
+				<a href="https://www.actris.sg/contact-us/" style="text-decoration:none"><h5>LEARN MORE</h5></a>
 			</td>
 	</tr></tbody>
 </table>
