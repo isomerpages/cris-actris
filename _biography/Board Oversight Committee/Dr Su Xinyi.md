@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Board Oversight Committee
 variant: tiptap
 ---
-<h3>Dr Su Xinyi</h3>
+<h3>A/Prof Su Xinyi</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 48%;" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/Profile_Picture___Dr_Su_Xinyi.jpg">
 </div>
@@ -17,14 +17,14 @@ Hospital, Singapore</p>
 <p>Assoc Prof &amp; Co-Director, Centre of Innovation and Precision Eye Health
 (NUS)</p>
 <h4>Profile</h4>
-<p>Dr Su Xinyi took on the role as Acting Executive Director at IMCB with
-effect 15 July 2023, stepping up from her previous role as Deputy Executive
-Director (Strategy and Transformation).&nbsp;</p>
-<p>Dr Su, an A*STAR scholar, graduated with MB BChir PhD from the University
+<p>A/Prof Su Xinyi took on the role as Acting Executive Director at IMCB
+with effect 15 July 2023, stepping up from her previous role as Deputy
+Executive Director (Strategy and Transformation).&nbsp;</p>
+<p>A/Prof Su, an A*STAR scholar, graduated with MB BChir PhD from the University
 of Cambridge (UK) and joined IMCB in 2016 as a clinician-scientist. She
 balances her time leading a broad retinal research program as Senior Principal
 Investigator at IMCB, with providing clinical leadership as Senior Consultant
-Vitreo-Retinal Surgeon at the National University Hospital. Dr Su also
+Vitreo-Retinal Surgeon at the National University Hospital. A/Prof Su also
 holds joint appointments as Research Director at the Department of Ophthalmology
 (NUS) and Clinician-Scientist at SERI.&nbsp;</p>
 <p>Her research interests focus on harnessing biomaterial, regenerative stem-cell,
@@ -39,10 +39,10 @@ Award (for Medical Innovation, 2021), Susan Lim Outstanding Stem Cell Young
 Investigator Award (2022) and National Medical Research Council Clinician
 Scientist Award (2022). In 2022, she was accepted into the prestigious
 international membership of The Macular Society.&nbsp;&nbsp;</p>
-<p>Passionate about clinical translation of research, Dr Su holds several
+<p>Passionate about clinical translation of research, A/Prof Su holds several
 patents and co-founded an ISO 13485 (Medical Device Quality System) accredited
 spin-off company, Vitreogel Innovations, focussed on developing the next
-generation of vitreous substitutes. Beyond research, Dr Su is committed
+generation of vitreous substitutes. Beyond research, A/Prof Su is committed
 to people development and has mentored numerous clinician-scientists as
 the Deputy Director of the Clinician-Scientist Academy at NUHS.</p>
 <p></p>
