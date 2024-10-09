@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>A/Prof Su Xinyi</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/AProf_Su_Xinyi_Profile_Picture.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/09oct24_aprof_su_xinyi_profile_picture.jpg">
 </div>
 <h4>Affiliations</h4>
 <p>Executive Director, Institute of Molecular and Cell Biology, Agency for
