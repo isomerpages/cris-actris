@@ -18,7 +18,7 @@ variant: tiptap
 <div class="isomer-card-description">Deputy Chairman</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/professor-william-hwang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof William Hwang" src="/images/Biography/Board Oversight Committee/2024_01_22_William_Hwang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof William Hwang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/professor-william-hwang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof William Hwang" src="/images/Biography/Board Oversight Committee/Profile_Picture___Prof_William_Hwang_v2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof William Hwang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/professor-tan-sze-wee/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
