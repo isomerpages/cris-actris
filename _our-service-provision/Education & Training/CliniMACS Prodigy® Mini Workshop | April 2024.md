@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Education & Training
 ---
+<p><strong>(This registration is now closed.)</strong>
+</p>
 <p>We are excited to announce our collaboration with <a href="https://www.miltenyibiotec.com/SG-en/" rel="noopener noreferrer nofollow" target="_blank">Miltenyi Biotec</a> for a CliniMACS
 Prodigy® Mini Workshop this coming April! 🧬</p>
 <p>Join us for an insightful session on the latest advancement in cell processing
