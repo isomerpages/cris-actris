@@ -30,6 +30,6 @@ applications in targeted therapeutic interventions and improving patient
 outcomes. We hope to cultivate a community of knowledge experts in cell
 and gene therapy.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Miltenyi_Prodigy_Workshop__April_2024_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Miltenyi_Biotec_Prodigy_Workshop___April_2024.png">
 </div>
 <p></p>
