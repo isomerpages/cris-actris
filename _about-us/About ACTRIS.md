@@ -22,6 +22,7 @@ services. Our common goal is to promote and foster the entire value chain
 of the cellular therapy ecosystem through enabling translational research
 and development, manufacturing, clinical service provision and commercialisation
 by serving the healthcare, academic and industrial sectors.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:300px" height="auto" width="100%" src="/images/About%20Us/intro-pic-1.png">
 </div>
