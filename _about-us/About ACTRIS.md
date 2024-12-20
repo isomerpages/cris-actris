@@ -8,8 +8,8 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/About%20Us/actris-logo-1.png">
 </div>
 <h2>We Are ACTRIS</h2>
-<p>The Advanced Cell Therapy and Research Institute, Singapore (ACTRIS),
-was established on 20 April 2020 to meet the increasing demand of cellular
+<p>Advanced Cell Therapy and Research Institute, Singapore (ACTRIS), was
+established on 20 April 2020 to meet the increasing demand of cellular
 therapy process development and product manufacturing to enable clinical
 utility.</p>
 <p>To enable the growth of Singapore as an innovation-led biomedical hub,
