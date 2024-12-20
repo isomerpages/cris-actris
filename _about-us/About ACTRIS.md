@@ -12,9 +12,6 @@ variant: tiptap
 was established on 20 April 2020 to meet the increasing demand of cellular
 therapy process development and product manufacturing to enable clinical
 utility.</p>
-<div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" src="/images/About%20Us/intro-pic-1.png">
-</div>
 <p>To enable the growth of Singapore as an innovation-led biomedical hub,
 ACTRIS will provide value-added services such as workforce training and
 regulatory facilitation, pertaining to delivery of cellular therapy to
@@ -25,6 +22,9 @@ services. Our common goal is to promote and foster the entire value chain
 of the cellular therapy ecosystem through enabling translational research
 and development, manufacturing, clinical service provision and commercialisation
 by serving the healthcare, academic and industrial sectors.</p>
+<div class="isomer-image-wrapper">
+<img style="width:300px" height="auto" width="100%" src="/images/About%20Us/intro-pic-1.png">
+</div>
 <h3>Our Mission</h3>
 <ul>
 <li>
