@@ -40,7 +40,6 @@ the <a href="https://www.actris.sg/newsroom-and-events/learning-portal/" rel="no
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>EDUCATION PROGRAMMES</strong> 
-<br>
 <br>We develop and curate programmes in various formats and sub-specialisations
 to meet different needs that may lead to professional certifications. Grow
 your expertise and start your skills upgrading journey here at ACTRIS.</p>
@@ -63,7 +62,6 @@ your expertise and start your skills upgrading journey here at ACTRIS.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>CELL THERAPY LECTURE SERIES</strong> 
-<br>
 <br>Our lecture series in the year 2021 focuses on Immunotherapy while the
 current series in 2022 focuses on regenerative medicine. If you have missed
 our lectures, fret not, we have compiled the recorded lecturers for your
@@ -87,9 +85,7 @@ viewing.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>CUSTOMISED &amp; SPECIALISED TRAINING</strong> 
-<br>
 <br>We are constantly looking for partners who are keen to contribute to cell
 therapy education and training in one way or another, like sponsoring scholarships
 and events, content and training. Please get in touch with us.</p>
