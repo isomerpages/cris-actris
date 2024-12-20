@@ -6,7 +6,7 @@ third_nav_title: Education & Training
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Our%20Service%20Provision/shutterstock_519817903.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Our%20Service%20Provision/shutterstock_519817903.jpg">
 </div>
 <h4>Education and Training</h4>
 <p>ACTRIS Education and Training is set up to support ACTRIS in one of the
@@ -59,7 +59,7 @@ your expertise and start your skills upgrading journey here at ACTRIS.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Our%20Service%20Provision/young-asia-businesswoman-using-laptop-talk-colleague-about-plan-video-call-meeting.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Our%20Service%20Provision/young-asia-businesswoman-using-laptop-talk-colleague-about-plan-video-call-meeting.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
