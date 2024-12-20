@@ -33,8 +33,9 @@ the <a href="https://www.actris.sg/newsroom-and-events/learning-portal/" rel="no
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Shutterstock%20Images/picture6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shutterstock Images/picture6.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,8 +56,9 @@ your expertise and start your skills upgrading journey here at ACTRIS.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Our%20Service%20Provision/young-asia-businesswoman-using-laptop-talk-colleague-about-plan-video-call-meeting.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shutterstock Images/picture7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,11 +81,13 @@ viewing.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Our%20Service%20Provision/shutterstock_1104131693.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shutterstock Images/picture10.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>CUSTOMISED &amp; SPECIALISED TRAINING</strong> 
 <br>
 <br>We are constantly looking for partners who are keen to contribute to cell
