@@ -66,7 +66,8 @@ your expertise and start your skills upgrading journey here at ACTRIS.</p>
 current series in 2022 focuses on regenerative medicine. If you have missed
 our lectures, fret not, we have compiled the recorded lecturers for your
 viewing.</p>
-<h5><a href="https://www.actris.sg/newsroom-and-events/learning-portal/" rel="noopener nofollow" target="_blank">LEARN MORE</a></h5>
+<p><a href="https://www.actris.sg/newsroom-and-events/learning-portal/" rel="noopener nofollow" target="_blank">LEARN MORE</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -89,7 +90,8 @@ viewing.</p>
 <br>We are constantly looking for partners who are keen to contribute to cell
 therapy education and training in one way or another, like sponsoring scholarships
 and events, content and training. Please get in touch with us.</p>
-<h5><a href="https://www.actris.sg/contact-us/" rel="noopener nofollow" target="_blank">CONTACT US</a></h5>
+<p><a href="https://www.actris.sg/contact-us/" rel="noopener nofollow" target="_blank">CONTACT US</a>
+</p>
 </td>
 </tr>
 </tbody>
