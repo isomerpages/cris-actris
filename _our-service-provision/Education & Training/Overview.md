@@ -3,7 +3,7 @@ title: Overview
 permalink: /our-service-provision/education-and-training/overview/
 description: ""
 third_nav_title: Education & Training
-variant: markdown
+variant: tiptap
 ---
 <h4>Education and Training</h4>
 <p>ACTRIS Education and Training is set up to support ACTRIS in one of the
@@ -11,8 +11,8 @@ three aspects of its mission, that is, to equip those involved in various
 aspects of cellular-based therapy’s value chain with skills and knowledge.
 Cell therapy training is critical in stepping up cell, tissue and gene
 therapy work in Singapore and region and we are able to leverage on our
-internal expertise in process development &amp; validation, product characterization,</p>
-<p>clinical trials, clinical care and clinical cell manufacturing for training
+internal expertise in process development &amp; validation, product characterization,
+clinical trials, clinical care and clinical cell manufacturing for training
 and education.</p>
 <p>We develop public and customized training courses which cover various
 aspects of immunotherapy and regenerative medicine to meet the manpower
@@ -67,9 +67,8 @@ current series in 2022 focuses on regenerative medicine. If you have missed
 our lectures, fret not, we have compiled the recorded lecturers for your
 viewing.
 <br>
-<br>
 </p>
-<h5>LEARN MORE</h5>
+<h5><a href="https://www.actris.sg/newsroom-and-events/learning-portal/" rel="noopener nofollow" target="_blank">LEARN MORE</a></h5>
 </td>
 </tr>
 </tbody>
@@ -93,9 +92,8 @@ viewing.
 company. Areas include cell, tissue and gene therapy laboratory skills,
 regulation and quality management. Contact us at for a discussion.
 <br>
-<br>
 </p>
-<h5>LEARN MORE</h5>
+<h5><a href="https://www.actris.sg/contact-us/" rel="noopener nofollow" target="_blank">LEARN MORE</a></h5>
 </td>
 </tr>
 </tbody>
@@ -119,9 +117,8 @@ regulation and quality management. Contact us at for a discussion.
 therapy education and training in one way or another, like sponsoring scholarships
 and events, content and training. Please get in touch with us.
 <br>
-<br>
 </p>
-<h5>LEARN MORE</h5>
+<h5><a href="https://www.actris.sg/contact-us/" rel="noopener nofollow" target="_blank">LEARN MORE</a></h5>
 </td>
 </tr>
 </tbody>
