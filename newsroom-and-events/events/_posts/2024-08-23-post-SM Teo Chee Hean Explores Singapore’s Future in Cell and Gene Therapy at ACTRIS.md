@@ -12,7 +12,7 @@ variant: tiptap
 </div>
 <p>We had the pleasure of hosting Mr Teo Chee Hean, Senior Minister and Coordinating
 Minister for National Security and Special Advisor to <a href="https://www.linkedin.com/company/nrfsg/" class="wVkswPqfFJemBuesOohtSFOOfIrNteBxRA" rel="noopener noreferrer nofollow" target="_self">National Research Foundation Singapore</a>,
-at our cell therapy facility last week.
+at our cell therapy facility.
 <br>
 <br>Adj A/Prof <a href="https://www.linkedin.com/in/danny-soon-97434a9/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Danny Soon</a>,
 CRIS CEO and ACTRIS Interim Executive Director, provided an overview of
