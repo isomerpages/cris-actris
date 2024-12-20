@@ -65,35 +65,8 @@ your expertise and start your skills upgrading journey here at ACTRIS.</p>
 <br>Our lecture series in the year 2021 focuses on Immunotherapy while the
 current series in 2022 focuses on regenerative medicine. If you have missed
 our lectures, fret not, we have compiled the recorded lecturers for your
-viewing.
-<br>
-</p>
+viewing.</p>
 <h5><a href="https://www.actris.sg/newsroom-and-events/learning-portal/" rel="noopener nofollow" target="_blank">LEARN MORE</a></h5>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Shutterstock%20Images/picture9.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CUSTOMISED &amp; SPECIALISED TRAINING</strong> 
-<br>
-<br>We provide customization of training programmes to meet the needs of your
-company. Areas include cell, tissue and gene therapy laboratory skills,
-regulation and quality management. Contact us at for a discussion.
-<br>
-</p>
-<h5><a href="https://www.actris.sg/contact-us/" rel="noopener nofollow" target="_blank">LEARN MORE</a></h5>
 </td>
 </tr>
 </tbody>
@@ -111,14 +84,12 @@ regulation and quality management. Contact us at for a discussion.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>OTHERS</strong> 
+<p><strong>CUSTOMISED &amp; SPECIALISED TRAINING</strong> 
 <br>
 <br>We are constantly looking for partners who are keen to contribute to cell
 therapy education and training in one way or another, like sponsoring scholarships
-and events, content and training. Please get in touch with us.
-<br>
-</p>
-<h5><a href="https://www.actris.sg/contact-us/" rel="noopener nofollow" target="_blank">LEARN MORE</a></h5>
+and events, content and training. Please get in touch with us.</p>
+<h5><a href="https://www.actris.sg/contact-us/" rel="noopener nofollow" target="_blank">CONTACT US</a></h5>
 </td>
 </tr>
 </tbody>
