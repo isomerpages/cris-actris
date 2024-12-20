@@ -12,7 +12,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/22_Nov___Visit_of_Swedish_Delegates_Picture_1.jpg">
 </div>
 <p>We are honoured to have hosted Swedish delegates during their state visit
-to Singapore last week, which celebrated over 50 years of bilateral ties
+to Singapore in November, which celebrated over 50 years of bilateral ties
 between the two countries and set the stage for stronger collaboration.
 <br>
 <br>Our staff introduced ACTRIS's role as a national facility for clinical-scale
