@@ -34,11 +34,7 @@ we are excited to collaborate with our academic institutes, hospital clusters,
 local biotechnology and pharmaceutical industry partners. This facility
 will be a welcome boost to the CGT ecosystem in Singapore and the region.”
 <br>
-<br>Our full press release is available at <a href="https://www.cris.sg/news-and-events/media-releases/230804-actris-cell-therapy-facility/" rel="noopener nofollow" target="_blank">here.</a>
-<a href="https://www.linkedin.com/feed/hashtag/?keywords=cellandgenetherapy&amp;amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7093097600819625986" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>
-</p>
+<br>Our full press release is available at <a href="https://www.cris.sg/news-and-events/media-releases/230804-actris-cell-therapy-facility/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Check out highlights of the launch event below!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/ACTRIS___Launch_of_National_Facility__AUG_2023_.png">
