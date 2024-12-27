@@ -34,6 +34,5 @@ Sweden.
 alignment, operational strategies, and collaborative approaches to meet
 current needs. It was a wonderful way to wrap up a fulfilling week.</p>
 <p></p>
-<p></p>
-<p><em>You may view our LinkedIn Post <a href="https://www.linkedin.com/feed/update/urn:li:activity:7267718862790418432" rel="noopener nofollow" target="_blank">here</a>.</em>
+<p><em>You may view our LinkedIn post <a href="https://www.linkedin.com/feed/update/urn:li:activity:7267718862790418432" rel="noopener nofollow" target="_blank">here</a>.</em>
 </p>
