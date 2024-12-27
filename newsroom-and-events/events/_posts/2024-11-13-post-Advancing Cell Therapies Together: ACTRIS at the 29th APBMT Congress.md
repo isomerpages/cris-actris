@@ -27,8 +27,10 @@ commitment to advancing breakthrough therapies and improving patient outcomes.
 about ACTRIS and our initiatives in the clinical translation of advanced
 cell therapies. Together, we are shaping the future of healthcare and making
 meaningful strides toward better patient outcomes!</p>
-<p></p>
+<p><em>You may view our LinkedIn post <a href="https://www.linkedin.com/feed/update/urn:li:activity:7254657792664379393" rel="noopener nofollow" target="_blank">here</a>.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/29th_APBMT_Photo_Collage.png">
 </div>
+<p></p>
 <p></p>
