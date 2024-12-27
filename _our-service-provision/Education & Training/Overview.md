@@ -35,14 +35,17 @@ the <a href="https://www.actris.sg/newsroom-and-events/learning-portal/" rel="no
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shutterstock Images/picture6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shutterstock Images/picture7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>EDUCATION PROGRAMMES</strong> 
-<br>We develop and curate programmes in various formats and sub-specialisations
-to meet different needs that may lead to professional certifications. Grow
-your expertise and start your skills upgrading journey here at ACTRIS.</p>
+<p><strong>CELL THERAPY LECTURE SERIES</strong> 
+<br>Our lecture series in the year 2021 focuses on Immunotherapy while the
+current series in 2022 focuses on regenerative medicine. If you have missed
+our lectures, fret not, we have compiled the recorded lecturers for your
+viewing.</p>
+<p><a href="https://www.actris.sg/newsroom-and-events/learning-portal/" rel="noopener nofollow" target="_blank">LEARN MORE</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -57,17 +60,14 @@ your expertise and start your skills upgrading journey here at ACTRIS.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shutterstock Images/picture7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shutterstock Images/picture6.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CELL THERAPY LECTURE SERIES</strong> 
-<br>Our lecture series in the year 2021 focuses on Immunotherapy while the
-current series in 2022 focuses on regenerative medicine. If you have missed
-our lectures, fret not, we have compiled the recorded lecturers for your
-viewing.</p>
-<p><a href="https://www.actris.sg/newsroom-and-events/learning-portal/" rel="noopener nofollow" target="_blank">LEARN MORE</a>
-</p>
+<p><strong>EDUCATION PROGRAMMES</strong> 
+<br>We develop and curate programmes in various formats and sub-specialisations
+to meet different needs that may lead to professional certifications. Grow
+your expertise and start your skills upgrading journey here at ACTRIS.</p>
 </td>
 </tr>
 </tbody>
