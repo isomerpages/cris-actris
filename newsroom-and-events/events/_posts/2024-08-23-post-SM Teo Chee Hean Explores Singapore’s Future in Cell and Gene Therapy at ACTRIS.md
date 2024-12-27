@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/SM_Teo_Visit_Photo_Collage.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/SM_Teo_Visit_Photo_Collage.png">
 </div>
 <p>We had the pleasure of hosting Mr Teo Chee Hean, Senior Minister and Coordinating
 Minister for National Security and Special Advisor to <a href="https://www.linkedin.com/company/nrfsg/" class="wVkswPqfFJemBuesOohtSFOOfIrNteBxRA" rel="noopener noreferrer nofollow" target="_self">National Research Foundation Singapore</a>,
@@ -43,3 +43,6 @@ for patients’ access in our local hospitals.
 <br>It was an insightful afternoon of knowledge exchange with strategic partners.
 We are excited about the possibilities that lie ahead as we continue to
 explore synergies and push the boundaries of cell therapy together.</p>
+<p></p>
+<p><em>You may view our LinkedIn Post <a href="https://www.linkedin.com/feed/update/urn:li:activity:7235073741892767744" rel="noopener nofollow" target="_blank">here</a>.</em>
+</p>
