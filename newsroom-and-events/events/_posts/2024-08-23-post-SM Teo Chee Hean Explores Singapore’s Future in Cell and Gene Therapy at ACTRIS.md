@@ -1,6 +1,6 @@
 ---
 title: SM Teo Chee Hean Explores Singapore’s Future in Cell and Gene Therapy at ACTRIS
-permalink: /example-title/
+permalink: /smteo-explores-singapore-future-in-cgt-actris/
 date: 2024-08-23
 layout: post
 description: ""
