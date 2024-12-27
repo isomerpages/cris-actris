@@ -44,5 +44,5 @@ for patients’ access in our local hospitals.
 We are excited about the possibilities that lie ahead as we continue to
 explore synergies and push the boundaries of cell therapy together.</p>
 <p></p>
-<p><em>You may view our LinkedIn Post <a href="https://www.linkedin.com/feed/update/urn:li:activity:7235073741892767744" rel="noopener nofollow" target="_blank">here</a>.</em>
+<p><em>You may view our LinkedIn post <a href="https://www.linkedin.com/feed/update/urn:li:activity:7235073741892767744" rel="noopener nofollow" target="_blank">here</a>.</em>
 </p>
