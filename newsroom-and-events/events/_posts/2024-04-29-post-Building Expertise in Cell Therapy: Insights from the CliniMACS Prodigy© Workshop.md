@@ -33,3 +33,6 @@ to effectively utilise new technologies, paving the way for greater innovation
 applications in targeted therapeutic interventions and improving patient
 outcomes. We hope to cultivate a community of knowledge experts in cell
 and gene therapy.</p>
+<p></p>
+<p><em>You may view our LinkedIn post <a href="https://www.linkedin.com/feed/update/urn:li:activity:7192024754520793088" rel="noopener nofollow" target="_blank">here</a>.</em>
+</p>
