@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>(This registration is now closed.)</strong>
+<p><strong>Registration is now closed. </strong>
 </p>
 <p>Jointly offered by @<a href="https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fwww.linkedin.com%2fcompany%2fnusmicroimmuno%2fabout%2f&amp;umid=B06A7CC2-264D-F906-BF9A-F6AA6655818B&amp;auth=1e4be8166c0e95fa5701eaa3515f34fbdd8d125c-ed5f6783489e2d6cbcf4fdf392603734e097b34a" rel="noopener noreferrer nofollow" target="_blank"><u>NUS Microbiology and Immunology</u></a> and
 @<a href="https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fwww.linkedin.com%2fcompany%2f72026534%2f&amp;umid=B06A7CC2-264D-F906-BF9A-F6AA6655818B&amp;auth=1e4be8166c0e95fa5701eaa3515f34fbdd8d125c-697783fc27bb1a73f8a6f7ae7dcf79b2ed6a2e79" rel="noopener noreferrer nofollow" target="_blank"><u>ACTRIS</u></a>,
