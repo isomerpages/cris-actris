@@ -1,5 +1,4 @@
 collections:
   learning-portal:
     output: true
-    order:
-      - Main Page.md
+    order: []
