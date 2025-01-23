@@ -11,8 +11,7 @@ description: The Advanced Cell Therapy and Research Institute, Singapore
   for the local market.
 image: /images/Logos/actris logo_white bg.png
 permalink: /
-notification: Open for Registration! NUS Professional Certificate in Application
-  of Immune Effector Cells in Cell Therapy (Feb 2025 Intake)
+notification: ""
 sections:
   - hero:
       title: Advanced Cell Therapy and Research Institute, Singapore
