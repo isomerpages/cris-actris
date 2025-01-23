@@ -1,6 +1,0 @@
-collections:
-  learning-portal:
-    output: true
-    order:
-      - Main Page.md
-      - Natural Killer (NK) Cell Therapeutics in Nasopharyngeal Cancer (NPC).md
