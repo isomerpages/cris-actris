@@ -68,7 +68,7 @@ viewing.</p>
 <br>We develop and curate programmes in various formats and sub-specialisations
 to meet different needs that may lead to professional certifications. Grow
 your expertise and start your skills upgrading journey here at ACTRIS.</p>
-<p><a href="actris.sg/newsroom-and-events/workshops-and-training/" rel="noopener nofollow" target="_blank">EXPLORE MORE</a>
+<p><a href="https://www.actris.sg/newsroom-and-events/workshops-and-training/" rel="noopener nofollow" target="_blank">EXPLORE MORE</a>
 </p>
 </td>
 </tr>
