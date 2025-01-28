@@ -9,7 +9,6 @@ variant: tiptap
 ---
 <p><strong>ACTRIS Townhall 2025: Celebrating success, unity, and new beginnings</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/1.jpg">
 </div>
