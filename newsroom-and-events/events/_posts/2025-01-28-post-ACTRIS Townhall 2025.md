@@ -12,9 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/1.jpg">
 </div>
-<p>ACTRIS leadership and staff held an advance lunar new year celebration
-at our town hall last week! We re-capped our achievements and shared our
-plans for collaboration and partnerships as we look forward to strengthening
+<p>Two weeks ago, ACTRIS leadership and staff held an advanced Lunar New
+Year celebration at our town hall! We re-capped our achievements and shared
+our plans for collaboration and partnerships as we look forward to strengthening
 our bonds as a community.</p>
 <p>Key highlights include:</p>
 <ul data-tight="true" class="tight">
@@ -44,5 +44,8 @@ event highlights below.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Untitled_design__1_.png">
 </div>
 <p></p>
