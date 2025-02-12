@@ -29,23 +29,23 @@ by serving the healthcare, academic and industrial sectors.</p>
 <h3>Our Mission</h3>
 <ul>
 <li>
-<p>To spearhead quality manufacturing of&nbsp; cellular-based therapeutics
+<p>To spearhead quality manufacturing of&nbsp;cellular-based therapeutics
 &amp; develop cell therapy services.</p>
 </li>
 <li>
-<p>Support and foster collaboration in research &amp; development within
+<p>To support and foster collaboration in research &amp; development within
 cell therapy ecosystem.</p>
 </li>
 <li>
-<p>Train and educate next generation of scientists and clinicians in cellular-based
+<p>To train and educate next generation of scientists and clinicians in cellular-based
 therapy.</p>
 </li>
 </ul>
 <h3>Our Vision</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>To be the national and regional Centre of Excellence for discovery, process
-development and manufacturing of cellular-based therapeutics.</p>
+<p>To be the national and regional Centre of Excellence for facilitating
+discovery, process development and manufacturing of cellular-based therapeutics.</p>
 </li>
 </ul>
 <h3>Our Core Values</h3>
