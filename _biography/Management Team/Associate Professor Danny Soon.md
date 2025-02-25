@@ -14,8 +14,7 @@ variant: tiptap
 <p>Chief Executive Officer, Consortium for Clinical Research and Innovation,
 Singapore</p>
 <p>Executive Director, Singapore Clinical Research Institute</p>
-<p>Interim Executive Director, Advanced Cell Therapy and Research Institute,
-Singapore</p>
+<p>Senior Advisor, Advanced Cell Therapy and Research Institute, Singapore</p>
 <h4>Profile</h4>
 <p>Assoc. Prof. Danny Soon is Chief Executive Officer at the Consortium for
 Clinical Research and Innovation, Singapore (CRIS) and concurrent Executive
