@@ -141,3 +141,7 @@ clinicians in the field of CGT.</p>
 <p>We extend our heartfelt gratitude to Asst Prof Lim for her years of dedication
 and guidance to the team at ACTRIS.</p>
 <p></p>
+<hr>
+<p></p>
+<p><em>The Advanced Cell Therapy and Research Institute, Singapore (ACTRIS) is a programme of the <a href="https://www.cris.sg" rel="noopener nofollow" target="_blank">Consortium for Clinical Research and Innovation, Singapore (CRIS).</a></em>
+</p>
