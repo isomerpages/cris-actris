@@ -43,8 +43,13 @@ and regenerative medicine in the Singapore and the region.</p>
 <p>We warmly welcome A/Prof Ho and look forward to his leadership in guiding
 ACTRIS to become the national and regional Centre of Excellence for discovery,
 process development and manufacturing of cellular-based therapeutics.</p>
+<p></p>
 <p><strong>Appointment of Adjunct Associate Professor Yap Eng Soo as Chief Medical Officer, ACTRIS, from 1 March 2025</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/In The News And Media Releases/Isomer_Dr_Yap_Eng_Soo.jpg">
+</div>
 <p>Adjunct Associate Professor Yap Eng Soo will be appointed as the Chief
 Medical Officer, ACTRIS from 1 March 2025 to 28 February 2028.</p>
 <p>Adj A/Prof Yap has been serving as Chief Medical Officer (Designate) from
@@ -66,8 +71,13 @@ Loo Lin School of Medicine, National University of Singapore and was the
 past President of the Singapore Society of Haematology.</p>
 <p>We warmly welcome Adj A/Prof Yap and look forward to his leadership alongside
 Executive Director, ACTRIS, A/Prof Aloysius Ho.</p>
+<p></p>
 <p><strong>Adjunct Associate Professor Danny Soon completes term of office as Interim Executive Director, ACTRIS on 28 Feb 2025</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/In The News And Media Releases/Isomer_Dr_Danny_Soon.jpg">
+</div>
 <p>Adjunct Associate Professor Danny Soon, who is the Interim Executive Director,
 ACTRIS will complete his term of office on 28 February 2025.&nbsp;</p>
 <p>Under Adj A/Prof Soon’s stewardship, ACTRIS launched a state-of-the-art
@@ -99,8 +109,13 @@ plays in his concurrent appointment as Chief Executive Officer of the Consortium
 of Clinical Research and Innovation, Singapore (CRIS).</p>
 <p>We extend our heartfelt gratitude to Adj A/Prof Soon for his years of
 invaluable contributions to the formation, development and growth of ACTRIS.</p>
+<p></p>
 <p><strong>Assistant Professor Francesca Lim completes term of office as Chief Medical Officer, ACTRIS on 28 Feb 2025</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/In The News And Media Releases/Isomer_Dr_Francesca_Lim_Wei_Ing.jpg">
+</div>
 <p>Assistant Professor Francesca, who is Chief Medical Officer, ACTRIS will
 complete her term of office on 28 February 2025.&nbsp;</p>
 <p>Over the last two years, Asst Prof Lim has been instrumental in supporting
