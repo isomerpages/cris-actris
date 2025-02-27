@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3><strong>ACTRIS announces appointment of next Executive Director and Chief Medical Officer</strong></h3>
+<h2><strong>ACTRIS announces appointment of next Executive Director and Chief Medical Officer</strong></h2>
 <p><strong>Appointment of Associate Prof Aloysius Ho as Executive Director, ACTRIS from 1 March 2025</strong>
 </p>
 <p></p>
