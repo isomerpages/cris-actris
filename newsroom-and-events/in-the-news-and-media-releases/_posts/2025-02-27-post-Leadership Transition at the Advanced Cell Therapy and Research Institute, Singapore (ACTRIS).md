@@ -11,6 +11,10 @@ variant: tiptap
 <h3><strong>ACTRIS announces appointment of next Executive Director and Chief Medical Officer</strong></h3>
 <p><strong>Appointment of Associate Prof Aloysius Ho as Executive Director, ACTRIS from 1 March 2025</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/In The News And Media Releases/Isomer_Dr_Aloysius_Ho.jpg">
+</div>
 <p>Associate Professor Aloysius Ho Yew Leng will be appointed as the Executive
 Director, ACTRIS from 1 March 2025 to 31 August 2027.</p>
 <p>A/Prof Ho has been serving as Executive Director (Designate), ACTRIS since
