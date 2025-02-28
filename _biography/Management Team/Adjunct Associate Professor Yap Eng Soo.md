@@ -10,7 +10,7 @@ third_nav_title: Management Team
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Biography/Management Team/ACTRIS_CMO_Yap_Eng_Soo_1_Mar_2025.jpg">
 </div>
 <h4>Affiliations</h4>
-<p>Chief Medical Officer, ACTRIS</p>
+<p>Chief Medical Officer, Advanced Cell Therapy and Research Institute, Singapore</p>
 <p>Head &amp; Senior Consultant, Department of Laboratory Medicine, Ng Teng
 Fong General Hospital</p>
 <p>Senior Consultant, Division of Haematology, Department of Laboratory Medicine,
