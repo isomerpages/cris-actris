@@ -66,6 +66,6 @@ variant: tiptap
 <div class="isomer-card-description">Member</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/associate-professor-su-xinyi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A/Prof Su Xinyi" src="/images/Biography/Board Oversight Committee/09oct24_aprof_su_xinyi_profile_picture.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Su Xinyi</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/associate-professor-su-xinyi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A/Prof Su Xinyi" src="/images/Biography/Board Oversight Committee/Dr_Su_Xinyi_400x600.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Su Xinyi</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
