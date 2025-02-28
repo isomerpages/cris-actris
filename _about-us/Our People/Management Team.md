@@ -7,17 +7,16 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biography/management-team/a-prof-aloysius-ho/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Biography/Management Team/ACTRIS_Executive_Director_Aloysius_Ho_Cropped.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Aloysius Ho</div><div class="isomer-card-description">Executive Director</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/biography/management-team/a-prof-danny-soon/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/biography/management-team/adjunct-associate-professor-yap-eng-soo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Biography/Management Team/2024_01_22_Danny_Soon.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/Biography/Management Team/ACTRIS_CMO_Yap_Eng_Soo_Cropped.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">A/Prof Danny Soon</div>
-<div class="isomer-card-description">Senior Advisor</div>
+<div class="isomer-card-title">Adj A/Prof Yap Eng Soo</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/biography/management-team/a-prof-danny-soon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Biography/Management Team/2024_01_22_Danny_Soon.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Danny Soon</div><div class="isomer-card-description">Senior Advisor</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
