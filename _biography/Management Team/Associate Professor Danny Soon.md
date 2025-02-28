@@ -6,9 +6,8 @@ third_nav_title: Management Team
 variant: tiptap
 ---
 <h3>A/Prof Danny Soon</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/In The News And Media Releases/Isomer_Dr_Danny_Soon.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/In The News And Media Releases/Isomer_Dr_Danny_Soon.jpg">
 </div>
 <h4>Affiliations</h4>
 <p>Chief Executive Officer, Consortium for Clinical Research and Innovation,
