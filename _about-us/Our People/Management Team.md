@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biography/management-team/a-prof-aloysius-ho/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Biography/Management Team/ACTRIS_Executive_Director_Aloysius_Ho_Cropped.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Aloysius Ho</div><div class="isomer-card-description">Executive Director</div><div class="isomer-card-link">Bio</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biography/management-team/a-prof-aloysius-ho/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Biography/Management Team/Prof_Ho.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Aloysius Ho</div><div class="isomer-card-description">Executive Director</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/biography/management-team/adjunct-associate-professor-yap-eng-soo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
