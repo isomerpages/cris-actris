@@ -7,7 +7,7 @@ third_nav_title: Management Team
 ---
 <h3>Adj A/Prof Yap Eng Soo</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Biography/Management Team/ACTRIS_CMO_Yap_Eng_Soo_1_Mar_2025.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Biography/Management Team/ACTRIS_CMO_Yap_Eng_Soo_1_Mar_2025.jpg">
 </div>
 <h4>Affiliations</h4>
 <p>Chief Medical Officer, Advanced Cell Therapy and Research Institute, Singapore</p>
