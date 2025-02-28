@@ -6,11 +6,11 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biography/management-team/a-prof-aloysius-ho/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Newsroom &amp; Events/In The News And Media Releases/Isomer_Dr_Aloysius_Ho.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Aloysius Ho</div><div class="isomer-card-description">Executive Director</div><div class="isomer-card-link">Bio</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biography/management-team/a-prof-aloysius-ho/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Biography/Management Team/Dr_Ho_400x600.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Aloysius Ho</div><div class="isomer-card-description">Executive Director</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/biography/management-team/adjunct-associate-professor-yap-eng-soo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/Newsroom &amp; Events/In The News And Media Releases/Isomer_Dr_Yap_Eng_Soo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/Biography/Management Team/Dr_Yap_400x600.png">
 </div>
 </div>
 <div class="isomer-card-body">
