@@ -10,7 +10,7 @@ third_nav_title: Management Team
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Biography/Management Team/ACTRIS_Executive_Director_Aloysius_Ho_1_Mar_2025.jpg">
 </div>
 <h4>Affiliations</h4>
-<p>Executive Director, ACTRIS</p>
+<p>Executive Director, Advanced Cell Therapy and Research Institute, Singapore</p>
 <p>Medical Director, Singapore Cord Blood Bank</p>
 <p>Director of Cell Transplant, SD Transplant Centre, Programme Director,
 Haematopoietic Cell Therapy &amp; Transplant Programme, and Senior Consultant,
