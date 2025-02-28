@@ -8,7 +8,7 @@ variant: tiptap
 <h3>A/Prof Danny Soon</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Biography/Management Team/2024_01_22_Danny_Soon.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/In The News And Media Releases/Isomer_Dr_Danny_Soon.jpg">
 </div>
 <h4>Affiliations</h4>
 <p>Chief Executive Officer, Consortium for Clinical Research and Innovation,
