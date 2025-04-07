@@ -8,7 +8,7 @@ third_nav_title: Board Oversight Committee
 <h3>Dr Benjamin Toh</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/Dr_Benjamin_Toh.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/Dr_Benjamin_Toh.png">
 </div>
 <h4>Affiliations</h4>
 <p>Executive Director (Bioeconomy, Biomedical Research Council), Agency for
