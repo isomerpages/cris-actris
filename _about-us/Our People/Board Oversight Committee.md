@@ -27,10 +27,22 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Tan Sze Wee</div>
+<div class="isomer-card-description">Member (Personal-to-holder)</div>
+<div class="isomer-card-link">Bio</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/ms-amanda-ang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Biography/Board Oversight Committee/2024_01_22_Amanda_Ang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Amanda Ang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.actris.sg/biography/board-oversight-committee/dr-benjamin-toh/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Benjamin Toh" src="/images/Biography/Board Oversight Committee/Prof_Benjamin_Toh.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Benjamin Toh</div>
 <div class="isomer-card-description">Member</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/associate-professor-yen-choo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A/Prof Yen Choo" src="/images/Biography/Board Oversight Committee/2024_01_22_Yen_Choo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Yen Choo</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/prof-chng-wee-joo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Chng Wee Joo" src="/images/Biography/Board Oversight Committee/2024_01_22_Chng_Wee_Joo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Chng Wee Joo</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/dr-david-tan-shao-peng/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -54,18 +66,18 @@ variant: tiptap
 <div class="isomer-card-description">Member</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/ms-amanda-ang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Biography/Board Oversight Committee/2024_01_22_Amanda_Ang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Amanda Ang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/prof-chng-wee-joo/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/associate-professor-su-xinyi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A/Prof Su Xinyi" src="/images/Biography/Board Oversight Committee/Dr_Su_Xinyi_400x600.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Su Xinyi</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/associate-professor-yen-choo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Chng Wee Joo" src="/images/Biography/Board Oversight Committee/2024_01_22_Chng_Wee_Joo.png">
+<img style="width: 100%" height="auto" width="100%" alt="A/Prof Yen Choo" src="/images/Biography/Board Oversight Committee/2024_01_22_Yen_Choo.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof Chng Wee Joo</div>
+<div class="isomer-card-title">A/Prof Yen Choo</div>
 <div class="isomer-card-description">Member</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/associate-professor-su-xinyi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A/Prof Su Xinyi" src="/images/Biography/Board Oversight Committee/Dr_Su_Xinyi_400x600.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Su Xinyi</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+</a>
 </div>
 <p></p>
