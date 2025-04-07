@@ -10,7 +10,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/mr-philip-ong/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Philip Ong" src="/images/Biography/Board Oversight Committee/ds_philip_ong_profile_pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Philip Ong" src="/images/Biography/Board Oversight Committee/DS_Philip_Ong_400_x_600.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -22,7 +22,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/professor-tan-sze-wee/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee" src="/images/Biography/Board Oversight Committee/2024_01_22_Tan_Sze_Wee.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee" src="/images/Biography/Board Oversight Committee/Prof_Tan_Sze_Wee_400_x_600.png">
 </div>
 </div>
 <div class="isomer-card-body">
