@@ -17,10 +17,10 @@ variant: tiptap
 He spent more than a decade between a US corporate and biotech start-up.</p>
 <p>Prof Tan’s career in A*STAR started in 2009 and he spent his time across
 the Science and Engineering Research Council, Biomedical Research Council
-as a well as the Innovation and Enterprise Division. This involves the
-executive leadership and governance of the 19 Research Institutes as well
-as National Platforms Diagnostic Development Hub (DxDHub) and Experimental
-Drug Development Centre (EDDC).</p>
+as well as the Innovation and Enterprise Division. This involves the executive
+leadership and governance of the 19 Research Institutes as well as National
+Platforms Diagnostic Development Hub (DxDHub) and Experimental Drug Development
+Centre (EDDC).</p>
 <p>Professor Tan has also promoted international research, innovation and
 enterprise partnership between Singapore, A*STAR and its key scientific
 international partners.</p>
