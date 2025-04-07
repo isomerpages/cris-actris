@@ -31,7 +31,7 @@ variant: tiptap
 <div class="isomer-card-link">Bio</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/ms-amanda-ang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Biography/Board Oversight Committee/2024_01_22_Amanda_Ang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Amanda Ang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.actris.sg/biography/board-oversight-committee/dr-benjamin-toh/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/dr-benjamin-toh/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Benjamin Toh" src="/images/Biography/Board Oversight Committee/Prof_Benjamin_Toh.png">
