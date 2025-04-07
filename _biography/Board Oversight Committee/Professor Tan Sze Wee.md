@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Professor Tan Sze Wee</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/Prof_Tan_Sze_Wee.png">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/Prof_Tan_Sze_Wee.jpg">
 </div>
 <h4>Affiliations</h4>
 <p>Advisor, Investment (Healthcare &amp; Life Sciences-SEA), Temasek International</p>
