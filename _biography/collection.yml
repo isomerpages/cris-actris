@@ -2,7 +2,6 @@ collections:
   biography:
     output: true
     order:
-      - Board Oversight Committee/Dr Benjamin Toh.md
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Dr Cheong Wei Yang.md
       - Board Oversight Committee/Mr Philip Ong.md
@@ -15,6 +14,7 @@ collections:
       - Board Oversight Committee/Ms Amanda Ang.md
       - Board Oversight Committee/Prof Chng Wee Joo.md
       - Board Oversight Committee/Associate Professor Su Xinyi.md
+      - Board Oversight Committee/Dr Benjamin Toh.md
       - Management Team/.keep
       - Management Team/Associate Professor Aloysius Ho.md
       - Management Team/Adjunct Associate Professor Yap Eng Soo.md
