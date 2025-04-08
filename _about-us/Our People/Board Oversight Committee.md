@@ -42,7 +42,7 @@ variant: tiptap
 <div class="isomer-card-description">Member</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/prof-chng-wee-joo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Professor Chng Wee Joo" src="/images/Biography/Board Oversight Committee/2024_01_22_Chng_Wee_Joo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Professor Chng Wee Joo</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/prof-chng-wee-joo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Chng Wee Joo" src="/images/Biography/Board Oversight Committee/2024_01_22_Chng_Wee_Joo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Chng Wee Joo</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/dr-david-tan-shao-peng/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
