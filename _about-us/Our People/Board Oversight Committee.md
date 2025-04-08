@@ -18,18 +18,6 @@ variant: tiptap
 <div class="isomer-card-description">Deputy Chairman</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/professor-william-hwang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof William Hwang" src="/images/Biography/Board Oversight Committee/Prof_William_Hwang_400x600.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof William Hwang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/professor-tan-sze-wee/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee" src="/images/Biography/Board Oversight Committee/Prof_Tan_Sze_Wee_400_x_600.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Tan Sze Wee</div>
-<div class="isomer-card-description">Member</div>
-<div class="isomer-card-link">Bio</div>
-</div>
 </a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/ms-amanda-ang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Biography/Board Oversight Committee/2024_01_22_Amanda_Ang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Amanda Ang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/dr-benjamin-toh/" class="isomer-card">
 <div class="isomer-card-image">
@@ -67,6 +55,18 @@ variant: tiptap
 <div class="isomer-card-link">Bio</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/associate-professor-su-xinyi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A/Prof Su Xinyi" src="/images/Biography/Board Oversight Committee/Dr_Su_Xinyi_400x600.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Su Xinyi</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/professor-tan-sze-wee/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee" src="/images/Biography/Board Oversight Committee/Prof_Tan_Sze_Wee_400_x_600.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Tan Sze Wee</div>
+<div class="isomer-card-description">Member</div>
+<div class="isomer-card-link">Bio</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/professor-william-hwang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof William Hwang" src="/images/Biography/Board Oversight Committee/Prof_William_Hwang_400x600.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof William Hwang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/associate-professor-yen-choo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
