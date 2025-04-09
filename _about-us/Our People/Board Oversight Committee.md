@@ -18,7 +18,7 @@ variant: tiptap
 <div class="isomer-card-description">Deputy Chairman</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/ms-amanda-ang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Biography/Board Oversight Committee/Amanda_Ang_photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Amanda Ang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/ms-amanda-ang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Biography/Board Oversight Committee/Amanda_Ang_400_x_600.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Amanda Ang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/dr-benjamin-toh/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
