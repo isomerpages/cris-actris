@@ -17,10 +17,10 @@ deep into streamlining Chimeric Antigen Receptor -T cell (#CAR-T) manufacturing
 using the <strong>Sefia™ Platform.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Service Provision/A4__ACTRIS_Signature_Workshop_Series_Poster___Cytiva__Jun_2025__Page_1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Service Provision/A4__ACTRIS_Signature_Workshop_Series_Poster___Cytiva__Jun_2025__Page_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Service Provision/A4__ACTRIS_Signature_Workshop_Series_Poster___Cytiva__Jun_2025__Page_2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Service Provision/A4__ACTRIS_Signature_Workshop_Series_Poster___Cytiva__Jun_2025__Page_2.png">
 </div>
 <p>🔗 <strong>Register here:</strong>  <a href="https://for.sg/actris-signature-workshop-series-2025-cytiva-jun25" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.sg/actris-signature-workshop-series-2025-cytiva-jun25</u></a>
 </p>
