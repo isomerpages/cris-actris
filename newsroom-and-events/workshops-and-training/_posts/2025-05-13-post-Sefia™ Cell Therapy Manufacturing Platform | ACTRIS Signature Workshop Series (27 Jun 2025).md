@@ -24,6 +24,7 @@ using the <strong>Sefia™ Platform.</strong>
 </div>
 <p>🔗 <strong>Register here:</strong>  <a href="https://for.sg/actris-signature-workshop-series-2025-cytiva-jun25" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.sg/actris-signature-workshop-series-2025-cytiva-jun25</u></a>
 </p>
+<p>⏳ Registration closes on Friday, 6 June 2025, 2359 hrs.</p>
 <p>🌟 <strong>Workshop Highlights:</strong>
 <br>Led by Cytiva trainers <a href="https://www.linkedin.com/in/lilyongchinchin/" rel="noopener noreferrer nofollow" target="_blank"><u>Lily Ong, GenMed Workflow Manager</u></a>,
 and <a href="https://www.linkedin.com/in/ziyingtan/" rel="noopener noreferrer nofollow" target="_blank"><u>Ziying Tan, Field Application Specialist</u></a> this
