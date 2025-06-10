@@ -8,6 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Registration is now closed.</strong>
+</p>
 <p>🧬 <strong>ACTRIS Signature Workshop Series 2025</strong> 🧬</p>
 <p>We’re thrilled to launch the <strong>ACTRIS Signature Workshop Series 2025</strong>,
 focused on <strong>Cell Therapy Product Manufacturing and Characterization.</strong>
