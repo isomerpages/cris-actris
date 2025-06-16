@@ -30,10 +30,18 @@ of hope through chimeric antigen receptor-T (CAR-T) cell therapy.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/In The News And Media Releases/CRIS_News_Highlights_ACTRIS_CNA.jpg">
 </div>
 <p>Media coverage can be accessed below:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.channelnewsasia.com/watch/ongoing-rd-reduce-manufacturing-costs-cell-therapy-treatments-while-ensuring-quality-5002931" rel="noopener noreferrer nofollow" target="_blank">CNA</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.channelnewsasia.com/watch/ongoing-rd-reduce-manufacturing-costs-cell-therapy-treatments-while-ensuring-quality-5002931" rel="noopener noreferrer nofollow" target="_blank">CNA</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="viewer.truescope.com/ioqczs8C8QO%2bmZN%2fRUOXlwyceKXFKc%2fMVT%2bwlMnD%2bhTztH80Jz5tS0RI40i1HXCGhExlRQFBxTe2CbEA0s%2fLEhe1d%2b1GKWQzmcTiwm7BSboywWns0WSImd1QILobQtErru3zSIhYSH%2bbQqLu28vDAwqJ%2fZ1Bz%2fphfNnKNITfULqMt11Drupz8GPYWVfZfaJx" rel="noopener noreferrer nofollow" target="_blank">Channel 5</a>
+</li>
+<li>
+<p><a href="viewer.truescope.com/ioqczs8C8QO%2bmZN%2fRUOXlwyceKXFKc%2fMVT%2bwlMnD%2bhTztH80Jz5tS0RI40i1HXCGhExlRQFBxTe2CbEA0s%2fLEhe1d%2b1GKWQzmcTiwm7BSboywWns0WSImd1QILobQtErru3zSIhYSH%2bbQqLu28vDAwqJ%2fZ1Bz%2fphfNnKNITfULqMt11Drupz8GPYWVfZfaJx" rel="noopener noreferrer nofollow" target="_blank">Channel 5</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://viewer.truescope.com/ioqczs8C8QO%2bmZN%2fRUOXlwyceKXFKc%2fMVT%2bwlMnD%2bhTztH80Jz5tS0RI40i1HXCGhExlRQFBxTe2CbEA0s%2fLEt2vDTjJbjKbhxzl6x1vQLZW2OPOfy%2fshJb0OMH81JMj2F9qn8OTVpePt6iT%2fc3CR%2fPLD4FH9Imi6n%2fZS1i8ineOiY3Wr%2fXLHRMlHeCJjywN" rel="noopener noreferrer nofollow" target="_blank">CNA938</a>
+</li>
+<li>
+<p><a href="https://viewer.truescope.com/ioqczs8C8QO%2bmZN%2fRUOXlwyceKXFKc%2fMVT%2bwlMnD%2bhTztH80Jz5tS0RI40i1HXCGhExlRQFBxTe2CbEA0s%2fLEt2vDTjJbjKbhxzl6x1vQLZW2OPOfy%2fshJb0OMH81JMj2F9qn8OTVpePt6iT%2fc3CR%2fPLD4FH9Imi6n%2fZS1i8ineOiY3Wr%2fXLHRMlHeCJjywN" rel="noopener noreferrer nofollow" target="_blank">CNA938</a>
 </p>
+</li>
+</ul>
 <p></p>
