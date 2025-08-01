@@ -8,18 +8,22 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Register now for the Autumn Principles &amp; Applications of Cell Therapy
-Biomanufacturing, Characterization and Regulatory.</p>
-<p>&nbsp;</p>
-<p>COURSE DETAILS</p>
-<p>Title: Principles &amp;&nbsp;Applications of Cell Therapy Biomanufacturing,
-Characterization and Regulatory.</p>
-<p>• When: September&nbsp;22 - Nov 28, 2025, Live-Virtual</p>
-<p>• Master the principles and best practices of cell therapy biomanufacturing
-and global regulatory frameworks through self-paced modules and live virtual
-Q&amp;A sessions. Engage directly with global CGT experts and enhance your
-expertise in this rapidly evolving field.</p>
-<p>• This course is accredited by ANAB and ASCP for 16 CMLE credits.</p>
-<p>&nbsp;</p>
-<p>Sign up to access a rare and exclusive opportunity to learn, connect,
-and collaborate with global experts. We’d love to see you there.</p>
+<h4>Register now for ISCT Principles &amp; Applications of Cell Therapy Biomanufacturing, Characterization and Regulatory (2025 Autumn Intake)</h4>
+<p>ISCT and CMaT have jointly created this <strong>nine-week, part-time, virtual training</strong> course
+to train you on the fundamentals and best practices of CGT biomanufacturing,
+quality assurance, regulations, bioprocessing requirements, product characterization
+and assessments.</p>
+<p>This course consists of a total of <strong>12 hours of on-demand modules </strong>and <strong>four hours of live-virtual discussions</strong> with
+Subject Matter Experts working in leading academic institutes, regulatory
+agencies, clinical manufacturing laboratories, and industries.</p>
+<p>Learn fundamentals and best practices on CGT biomanufacturing, product
+characterizations, and regulatory-quality framework through on-demand modules
+and live-virtual discussions.&nbsp;</p>
+<p>Click <a href="https://www.isctglobal.org/workforce-development/principles-and-applications-of-cell-therapy" rel="noopener nofollow" target="_blank">here</a> to
+learn more &amp; register.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Service Provision/isct - cmat (autumn).jpg">
+</div>
+<p></p>
+<p></p>
