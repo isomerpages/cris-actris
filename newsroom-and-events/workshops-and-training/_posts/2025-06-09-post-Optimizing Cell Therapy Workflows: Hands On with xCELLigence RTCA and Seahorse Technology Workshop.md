@@ -39,7 +39,7 @@ in real time.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Service Provision/A4__Agilent___ACTRIS_Signature_Workshop_Series_Poster__Jun_2025__Page_3.jpg">
 </div>
 <p>
-<br>🔗 𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗵𝗲𝗿𝗲: <strong><a href="https://www.linkedin.com/company/agilent-technologies/" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gMZStq39</a></strong> 
+<br>🔗 𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗵𝗲𝗿𝗲: <a href="http://for.sg/actris-signature-workshop-series-2025-agilent-jul25" rel="noopener noreferrer nofollow" target="_blank">for.sg/actris-signature-workshop-series-2025-agilent-jul25</a>
 <br>⏳ 𝗥𝗲𝗴𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗰𝗹𝗼𝘀𝗲𝘀 𝗙𝗿𝗶𝗱𝗮𝘆, 𝟬𝟰 𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟱
 <br>
 <br>🌟 <strong>Workshop Highlights:</strong>
