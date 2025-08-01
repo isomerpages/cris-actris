@@ -8,6 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Registration is now closed.</strong>
+</p>
 <p>How can cell and gene therapy (CGT) workflows be made faster, more efficient,
 and insight-driven?
 <br>
