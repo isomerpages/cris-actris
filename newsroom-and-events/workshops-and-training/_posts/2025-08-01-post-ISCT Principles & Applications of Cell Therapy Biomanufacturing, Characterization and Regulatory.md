@@ -23,7 +23,7 @@ and live-virtual discussions.&nbsp;</p>
 learn more &amp; register.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Service Provision/isct - cmat (autumn).jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Service Provision/isct - cmat (autumn).jpg">
 </div>
 <p></p>
 <p></p>
