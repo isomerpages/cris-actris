@@ -7,7 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>🔬 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗖𝗔𝗥 𝗧 𝗖𝗲𝗹𝗹 𝗠𝗮𝗻𝘂𝗳𝗮𝗰𝘁𝘂𝗿𝗶𝗻𝗴 – 𝗝𝗼𝗶𝗻 𝘁𝗵𝗲 𝗔𝗖𝗧𝗥𝗜𝗦 𝗦𝗶𝗴𝗻𝗮𝘁𝘂𝗿𝗲 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗦𝗲𝗿𝗶𝗲𝘀 𝟮𝟬𝟮𝟱</h4>
+<p><strong>Registration is now closed.</strong>
+</p>
+<p><strong>🔬 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗖𝗔𝗥 𝗧 𝗖𝗲𝗹𝗹 𝗠𝗮𝗻𝘂𝗳𝗮𝗰𝘁𝘂𝗿𝗶𝗻𝗴 – 𝗝𝗼𝗶𝗻 𝘁𝗵𝗲 𝗔𝗖𝗧𝗥𝗜𝗦 𝗦𝗶𝗴𝗻𝗮𝘁𝘂𝗿𝗲 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗦𝗲𝗿𝗶𝗲𝘀 𝟮𝟬𝟮𝟱</strong>
+</p>
 <p>As part of the <strong>ACTRIS Signature Workshop Series 2025</strong>,
 we are pleased to launch a full-day workshop with <strong><a href="https://www.linkedin.com/company/miltenyi-biotec/" class="caiWCvyDugkegDgxnadiJHvVQjzWiGLzAs" rel="noopener noreferrer nofollow" target="_self">Miltenyi Biotec</a></strong>,
 focused on the next generation of CAR T cell manufacturing technologies.
