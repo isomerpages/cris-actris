@@ -26,7 +26,7 @@ with <strong><a href="https://www.linkedin.com/company/terumo-bct/" class="OIiVC
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Service Provision/A4__Terumo_BCT___ACTRIS_Signature_Workshop_Series_Poster__Sep_2025__Page_3.jpg">
 </div>
 <p>
-<br>🔗 𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗵𝗲𝗿𝗲: <a href="https://for.sg/actris-signature-workshop-series-terumobct-sep2025" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/actris-signature-workshop-series-terumobct-sep2025</a> 
+<br>🔗 𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗵𝗲𝗿𝗲: <a href="https://for.sg/actris-signature-workshop-series-terumobct-sep2025" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/actris-signature-workshop-series-terumobct-sep2025</a>
 </p>
 <p>⏳ 𝗥𝗲𝗴𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗰𝗹𝗼𝘀𝗲𝘀 𝗙𝗿𝗶𝗱𝗮𝘆, 𝟱 𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿
 𝟮𝟬𝟮𝟱</p>
@@ -34,7 +34,8 @@ with <strong><a href="https://www.linkedin.com/company/terumo-bct/" class="OIiVC
 <br>This full-day, in-person workshop will offer hands-on demonstrations,
 expert-led sessions, and practical case studies that walk through every
 stage of the cell therapy manufacturing process — from cell collection
-to expansion and fill &amp; finish.
+to expansion and fill &amp; finish.</p>
+<p>
 <br>🔍 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀
 <br>1️⃣ 𝗦𝗽𝗲𝗰𝘁𝗿𝗮 𝗢𝗽𝘁𝗶𝗮™ 𝗔𝗽𝗵𝗲𝗿𝗲𝘀𝗶𝘀 𝗦𝘆𝘀𝘁𝗲𝗺
 <br>A flexible, multi-procedure platform that streamlines cell collection
