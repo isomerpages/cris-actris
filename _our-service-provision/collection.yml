@@ -2,7 +2,7 @@ collections:
   our-service-provision:
     output: true
     order:
-      - Clinical Scale Manufacturing.md
+      - Product Manufacturing.md
       - Process Dev & Validation/.keep
       - Process Dev & Validation/Overview.md
       - Process Dev & Validation/Scientific Analysis.md
