@@ -23,7 +23,7 @@ of ACTRIS with the clients to better understand ...</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
 </div>
 <h5>PROCESS DEVELOPMENT &amp; VALIDATION</h5>
 <p>The journey from lab bench to bed side is very much dependent on process
@@ -49,7 +49,7 @@ as accompanied by the demands of ...</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Service Provision/shutterstock_1104131693.jpg">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Our Service Provision/shutterstock_1104131693.jpg">
 </div>
 <h5>ANCILLARY MATERIAL FILE</h5>
 <p>Reagents and consumables, commonly referred to as ancillary material,
