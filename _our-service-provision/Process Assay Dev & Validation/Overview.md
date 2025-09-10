@@ -18,7 +18,7 @@ variant: tiptap
 <p>There will be an engagement by a team of cell manufacturing specialists
 of ACTRIS with the clients to better understand ...</p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.actris.sg/our-service-provision/process-dev-and-validation/process-development-validation/"><img style="width: 76%;" height="auto" width="100%" src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.actris.sg/our-service-provision/process-assay-dev-and-validation/process-development-validation/"><img style="width: 76%;" height="auto" width="100%" src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg"></a>
 <h5>PROCESS/ASSAY DEVELOPMENT &amp; VALIDATION</h5>
 <p>The journey from lab bench to bed side is very much dependent on process
 development which could address ...</p>
