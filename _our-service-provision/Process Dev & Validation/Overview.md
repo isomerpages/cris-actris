@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Our%20Service%20Provision/service-1-1.jpg">
+<img style="width: 85%;" height="auto" width="100%" src="/images/Our%20Service%20Provision/service-1-1.jpg">
 </div>
 <h5>SCIENTIFIC ANALYSIS</h5>
 <p>There will be an engagement by a team of cell manufacturing specialists
@@ -41,7 +41,7 @@ will be quality oversight to ensure the suitability ...</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Service Provision/shutterstock_519817903.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our Service Provision/shutterstock_519817903.jpg">
 </div>
 <h5>TECHNOLOGY TRANSFER</h5>
 <p>The completion of clinical trial phases leads to commercial manufacturing
@@ -49,7 +49,7 @@ as accompanied by the demands of ...</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Our Service Provision/shutterstock_1104131693.jpg">
+<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/Our Service Provision/shutterstock_1104131693.jpg">
 </div>
 <h5>ANCILLARY MATERIAL FILE</h5>
 <p>Reagents and consumables, commonly referred to as ancillary material,
