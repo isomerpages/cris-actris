@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Product Manufacturing.md
-      - Process Dev & Validation/.keep
-      - Process Dev & Validation/Overview.md
-      - Process Dev & Validation/Scientific Analysis.md
-      - Process Dev & Validation/Process Assay Development & Validation.md
-      - Process Dev & Validation/Release Assay.md
-      - Process Dev & Validation/Technology Transfer.md
-      - Process Dev & Validation/Ancillary Material File.md
+      - Process Assay Dev & Validation/.keep
+      - Process Assay Dev & Validation/Overview.md
+      - Process Assay Dev & Validation/Scientific Analysis.md
+      - Process Assay Dev & Validation/Process Assay Development & Validation.md
+      - Process Assay Dev & Validation/Release Assay.md
+      - Process Assay Dev & Validation/Technology Transfer.md
+      - Process Assay Dev & Validation/Ancillary Material File.md
       - Regulatory Facilitation/.keep
       - Regulatory Facilitation/Overview.md
       - Regulatory Facilitation/Regulatory Facilitation.md
