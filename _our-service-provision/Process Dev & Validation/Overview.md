@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" src="/images/Our%20Service%20Provision/service-1-1.jpg">
+<img style="width: 81%;" height="auto" width="100%" src="/images/Our%20Service%20Provision/service-1-1.jpg">
 </div>
 <h5>SCIENTIFIC ANALYSIS</h5>
 <p>There will be an engagement by a team of cell manufacturing specialists
@@ -23,7 +23,7 @@ of ACTRIS with the clients to better understand ...</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
+<img style="width: 76%;" height="auto" width="100%" src="/images/Our%20Service%20Provision/shutterstock_1190376445.jpg">
 </div>
 <h5>PROCESS DEVELOPMENT &amp; VALIDATION</h5>
 <p>The journey from lab bench to bed side is very much dependent on process
