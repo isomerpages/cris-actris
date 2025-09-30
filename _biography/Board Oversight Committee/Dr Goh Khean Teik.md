@@ -12,7 +12,6 @@ variant: tiptap
 </div>
 <h4>Affiliation</h4>
 <p>Group Director, Hospital Services Group, Ministry of Health</p>
-<p>Director, Hospital Services</p>
 <h4>Profile</h4>
 <p>Dr Goh Khean Teik<strong> </strong>assumed the role of Group Director,
 Health Services Group, Ministry of Health Singapore (MOH) in September
