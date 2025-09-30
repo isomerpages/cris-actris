@@ -12,11 +12,14 @@ variant: tiptap
 </div>
 <h4>Affiliation</h4>
 <p>Group Director, Hospital Services Group, Ministry of Health</p>
+<p>Director, Hospital Services</p>
 <h4>Profile</h4>
-<p>Dr Goh Khean Teik is Director, Hospital Services Division, Ministry of
-Health Singapore (MOH). The division is tasked with oversight of clinical
-services and polices in acute and community hospitals, capacity planning
-and management, and strategic hospital services sector development.</p>
+<p>Dr Goh Khean Teik<strong> </strong>assumed the role of Group Director,
+Health Services Group, Ministry of Health Singapore (MOH) in September
+2025, in addition to his appointment as the Director of the Hospital Services
+Division. The division is tasked with oversight of clinical services and
+polices in acute and community hospitals, capacity planning and management,
+and strategic hospital services sector development.</p>
 <p>His previous position in MOH was Director, Manpower Standards &amp; Development.
 In this post, he was in charge of ensuring the practise standards of healthcare
 professionals through development of competency and training frameworks
