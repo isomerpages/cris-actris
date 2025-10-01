@@ -8,19 +8,21 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/About%20Us/actris-logo-1.png">
 </div>
 <h2>We Are ACTRIS</h2>
-<p>ACTRIS was established on 20 April 2020 to meet increasing demand for
-cellular therapy, process development, product manufacturing, and characterisation
-to support clinical applications. To advance Singapore’s position as an
-innovation-led biomedical hub, ACTRIS also offers value-added services
-such as workforce training and regulatory support for the delivery of cellular
-therapies to patients.</p>
-<p>ACTRIS has obtained Good Manufacturing Practices (GMP) certification and
-Manufacturer’s License (ML) from Health Sciences Authority (HSA), ensuring
-quality compliance in cellular therapy manufacturing and clinical services.</p>
-<p>ACTRIS’s mandate is to strengthen the entire cellular therapy value chain
-by supporting translational research and development, manufacturing, clinical
-service delivery, and commercialisation, serving healthcare, academic and
-industrial sectors.</p>
+<p>ACTRIS was established in April 2020 to meet the increasing clinical demand
+for cellular therapeutics to treat various life-threatening diseases.&nbsp;</p>
+<p>Its vision is to be the national and regional centre of excellence for
+facilitating discovery, process development, and manufacturing of cellular-based
+therapeutics across the broad spectrum of immunotherapy and regenerative
+medicine, encompassing both investigational and approved products for Singapore.</p>
+<p>Through its specialised infrastructure and skilled workforce, ACTRIS aims
+to promote and support the entire value chain of the cell therapy ecosystem
+by enabling translational research and development, manufacturing, clinical
+service provision, and commercialisation across the healthcare, academic
+and industrial sectors.&nbsp;</p>
+<p>In addition, ACTRIS will also provide value-added services such as workforce
+training, regulatory facilitation, and the standardisation of ancillary
+materials pertaining to the delivery of cellular therapy to patients.</p>
+<p>ACTRIS is a programme of CRIS.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:300px" height="auto" width="100%" src="/images/About%20Us/intro-pic-1.png">
