@@ -30,6 +30,10 @@ in need.</p>
 <p>On 23 August 2023, the Minister for Health officially launched the ACTRIS
 facility — Singapore’s largest national manufacturing facility for CGT
 — affirming its role as a cornerstone of the nation’s growing CGT ecosystem.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/ACTRIS_Launch_P1.jpg">
+</div>
+<p></p>
 <p>ACTRIS began onboarding early collaborative projects to support the manufacture
 of investigational CGT products that reached the first few patients in
 Singapore.</p>
