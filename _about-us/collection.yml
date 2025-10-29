@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Milestones.md
       - About ACTRIS.md
       - Our People/.keep
       - Our People/Management Team.md
       - Our People/Board Oversight Committee.md
+      - Milestones.md
