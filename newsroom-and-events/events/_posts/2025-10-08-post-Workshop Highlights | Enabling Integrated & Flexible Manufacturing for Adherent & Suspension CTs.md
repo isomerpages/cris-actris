@@ -29,6 +29,6 @@ forward to welcoming you to future sessions of the ACTRIS Signature Workshop
 Series!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Workshop_Highlights___Terumo_BCT__Sep_2025_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Workshop_Highlights___Terumo_BCT__Sep_2025_.jpg">
 </div>
 <p></p>
