@@ -9,19 +9,20 @@ variant: tiptap
 </div>
 <h2>We Are ACTRIS</h2>
 <p>ACTRIS was established in April 2020 to meet the increasing clinical demand
-for cellular therapeutics to treat various life-threatening diseases.&nbsp;</p>
-<p>Its vision is to be the national and regional centre of excellence for
+for cellular therapeutics to treat various life-threatening diseases.</p>
+<p>Our vision is to be the national and regional centre of excellence for
 facilitating discovery, process development, and manufacturing of cellular-based
 therapeutics across the broad spectrum of immunotherapy and regenerative
-medicine, encompassing both investigational and approved products for Singapore.</p>
+medicine, encompassing both investigational and clinical-use products for
+Singapore.</p>
 <p>Through its specialised infrastructure and skilled workforce, ACTRIS aims
 to promote and support the entire value chain of the cell therapy ecosystem
 by enabling translational research and development, manufacturing, clinical
 service provision, and commercialisation across the healthcare, academic
-and industrial sectors.&nbsp;</p>
+and industrial sectors.</p>
 <p>In addition, ACTRIS will also provide value-added services such as workforce
-training, regulatory facilitation, and the standardisation of ancillary
-materials pertaining to the delivery of cellular therapy to patients.</p>
+training, regulatory support, and the standardisation of ancillary materials
+and product testing pertaining to the delivery of cellular therapy to patients.</p>
 <p>ACTRIS is a programme of CRIS.</p>
 <p></p>
 <div class="isomer-image-wrapper">
