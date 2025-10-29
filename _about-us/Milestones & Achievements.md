@@ -12,10 +12,11 @@ description: ""
 <p>Following its inaugural Health Sciences Authority (HSA) audits, ACTRIS
 achieved Good Manufacturing Practice (GMP) Certification and a Manufacturer’s
 Licence for investigational and specially authorised CGT products respectively
-for use in local hospitals. In July 2025, ACTRIS successfully delivered
-its first chimeric antigen receptor T (CAR-T) cell product to a hospital
-— enabling an innovative salvage treatment that brought renewed hope and
-extended care to a patient in need.</p>
+for use in local hospitals.</p>
+<p>In July 2025, ACTRIS successfully delivered its first chimeric antigen
+receptor T (CAR-T) cell product to a hospital — enabling an innovative
+salvage treatment that brought renewed hope and extended care to a patient
+in need.</p>
 </div>
 </details>
 <details class="isomer-details">
