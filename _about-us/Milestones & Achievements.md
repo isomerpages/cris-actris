@@ -6,9 +6,11 @@ description: ""
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2025</strong>
+<summary><strong>🏆 2025: Certification &amp; First Delivery</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><em>From Vision to Patient Impact</em></strong>
+</p>
 <p>Following its inaugural Health Sciences Authority (HSA) audits, ACTRIS
 achieved Good Manufacturing Practice (GMP) Certification and a Manufacturer’s
 Licence for investigational and specially authorised CGT products respectively
@@ -20,9 +22,11 @@ in need.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2023 - 2024</strong>
+<summary><strong>🚀 2023 - 2024: National Launch &amp; Expansion</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><em>Official Launch &amp; Early Impact</em></strong>
+</p>
 <p>On 23 August 2023, the Minister for Health officially launched the ACTRIS
 facility — Singapore’s largest national manufacturing facility for CGT
 — affirming its role as a cornerstone of the nation’s growing CGT ecosystem.</p>
@@ -36,9 +40,11 @@ process development capabilities with A*STAR Bioprocessing Technology Institute
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2021 - 2022</strong>
+<summary><strong>🛠️ 2021 - 2022: Resilence &amp; Readiness - Facility Comes to Life</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><em>Constructing Capabilities: ACTRIS Advances amidst Global Challenges</em></strong>
+</p>
 <p>Despite the global disruption of COVID-19, ACTRIS pressed on — designing
 and constructing a state-of-the-art facility, installing specialised equipment,
 and strengthening awareness of its role within Singapore’s CGT ecosystem.</p>
@@ -48,9 +54,11 @@ national readiness.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2019 - 2020</strong>
+<summary><strong>🔬 2019 - 2020: Infrastructure &amp; Identity - ACTRIS Emerges</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><em>Turning Plans into National Capabilities</em></strong>
+</p>
 <p>As plans matured, the focus turned to capability building. Guided by MOH,
 the NCTC IO secured government funding for infrastructure — paving the
 way for a national facility to accelerate CGT development and access.</p>
@@ -61,9 +69,11 @@ part of the Consortium for Clinical Research and Innovation, Singapore
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2017 - 2018</strong>
+<summary><strong>🏗️ 2017 - 2018: Strategic Foundations - Building the Framework</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><em>Establishing the NCTC Implementation Office: Strategy Meets Structure</em></strong>
+</p>
 <p>To translate this vision into action, the NCTC Implementation Office (IO)
 was established to define strategy, governance, and resource requirements.
 The IO laid a strong foundation to enable research translation and enhance
@@ -71,9 +81,11 @@ clinical access to CGTs.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2015 - 2016</strong>
+<summary><strong>🌱 2015 - 2016: Vision Ignited - Laying the Groundword for CGT in Singapore</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><em>From Vision to Blueprint: The Birth of National Cell Therapy Centre</em></strong>
+</p>
 <p>It began with a vision — to make cell and gene therapy (CGT) a reality
 for patients in Singapore and beyond. Guided by the Ministry of Health’s
 (MOH) National Cell Therapy Services Advisory Committee, the concept of
