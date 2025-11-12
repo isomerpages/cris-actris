@@ -35,7 +35,7 @@ sections:
         - title: Resources
           description: Training and Education
           url: /resources/cgmp-guidelines/
-      variant: side
+      variant: center
       alignment: left
       backgroundColor: gray
       size: sm
