@@ -12,9 +12,9 @@ description: The Advanced Cell Therapy and Research Institute, Singapore
 image: /images/Logos/actris logo_white bg.png
 permalink: /
 notification: <b>Public healthcare officials will never ask you to transfer
-  money or disclose bank log-in details over a phone call.</b><br><br>Call the
-  24/7 ScamShield Helpline at 1799 to check if you are unsure if something is a
-  scam or visit <a target="_blank"
+  money or disclose bank log-in details over a phone call.</b>Call the 24/7
+  ScamShield Helpline at 1799 to check if you are unsure if something is a scam
+  or visit <a target="_blank"
   href="https://www.scamshield.gov.sg/">ScamShield</a> for more information.
 sections:
   - hero:
