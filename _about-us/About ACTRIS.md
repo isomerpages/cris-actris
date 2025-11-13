@@ -10,7 +10,7 @@ variant: tiptap
 <h2>We Are ACTRIS</h2>
 <p>ACTRIS was established in April 2020 to meet the increasing clinical demand
 for cellular therapeutics to treat various life-threatening diseases.</p>
-<p>Our vision is to be the national and regional centre of excellence for
+<p>Our vision is to be the national and regional Centre of Excellence for
 facilitating discovery, process development, and manufacturing of cellular-based
 therapeutics across the broad spectrum of immunotherapy and regenerative
 medicine, encompassing both investigational and clinical-use products for
