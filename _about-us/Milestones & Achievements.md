@@ -35,10 +35,8 @@ facility — Singapore’s largest national manufacturing facility for CGT
 </div>
 <p></p>
 <p>ACTRIS began onboarding early collaborative projects to support the manufacture
-of investigational CGT products that reached the first few patients in
-Singapore.</p>
-<p>Guided by the National Medical Research Council Office (NMRCO) and MOH,
-ACTRIS secured RIE2025 funding to advance research translation, enhance
+of investigational CGT products.</p>
+<p>ACTRIS secured RIE2025 funding to advance research translation, enhance
 process development capabilities with A*STAR Bioprocessing Technology Institute
 (BTI), and expand manufacturing of investigational CGT products.</p>
 </div>
@@ -63,9 +61,9 @@ national readiness.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><em>Turning Plans into National Capabilities</em></strong>
 </p>
-<p>As plans matured, the focus turned to capability building. Guided by MOH,
-the NCTC IO secured government funding for infrastructure — paving the
-way for a national facility to accelerate CGT development and access.</p>
+<p>As plans matured, the focus turned to capability building. NCTC IO secured
+government funding for infrastructure — paving the way for a national facility
+to accelerate CGT development and access.</p>
 <p>Building on this foundation, NCTC evolved into ACTRIS — the Advanced Cell
 Therapy and Research Institute, Singapore — and on 20 April 2020, became
 part of the Consortium for Clinical Research and Innovation, Singapore
