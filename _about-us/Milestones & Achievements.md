@@ -11,10 +11,11 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><em>From Vision to Patient Impact</em></strong>
 </p>
-<p>Following its inaugural Health Sciences Authority (HSA) audits, ACTRIS
-achieved Good Manufacturing Practice (GMP) Certification and a Manufacturer’s
-Licence for investigational and specially authorised CGT products respectively
-for use in local hospitals.</p>
+<p>Following its first Health Sciences Authority (HSA) inspection, ACTRIS
+achieved Good Manufacturing Practice (GMP) Certification and received a
+Manufacturer’s Licence for investigational and specially authorised cell
+therapy products for use in local hospitals.</p>
+<p>&nbsp;</p>
 <p>In July 2025, ACTRIS successfully delivered its first product under the
 innovative salvage therapy framework that brought renewed hope and extended
 care to a patient in need.</p>
