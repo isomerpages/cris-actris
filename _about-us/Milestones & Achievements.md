@@ -15,7 +15,6 @@ description: ""
 achieved Good Manufacturing Practice (GMP) Certification and received a
 Manufacturer’s Licence for investigational and specially authorised cell
 therapy products for use in local hospitals.</p>
-<p>&nbsp;</p>
 <p>In July 2025, ACTRIS successfully delivered its first product under the
 innovative salvage therapy framework that brought renewed hope and extended
 care to a patient in need.</p>
