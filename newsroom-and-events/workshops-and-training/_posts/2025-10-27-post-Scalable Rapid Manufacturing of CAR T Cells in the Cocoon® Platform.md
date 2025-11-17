@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Registration is now closed.</strong>
+</p>
 <p>We are proud to present our next 𝗔𝗖𝗧𝗥𝗜𝗦 𝗦𝗶𝗴𝗻𝗮𝘁𝘂𝗿𝗲 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽
 𝗦𝗲𝗿𝗶𝗲𝘀 𝟮𝟬𝟮𝟱&nbsp;in collaboration with <strong><a href="https://www.linkedin.com/company/lonza/" class="SJEYEKQzirtEAeMdweWaSusuMVTjJkHSVBDAA" rel="noopener noreferrer nofollow" target="_self">Lonza</a></strong> –
 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗥𝗮𝗽𝗶𝗱 𝗠𝗮𝗻𝘂𝗳𝗮𝗰𝘁𝘂𝗿𝗶𝗻𝗴 𝗼𝗳 𝗖𝗔𝗥-𝗧 𝗖𝗲𝗹𝗹𝘀
