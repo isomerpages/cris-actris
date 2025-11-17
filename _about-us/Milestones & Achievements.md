@@ -50,9 +50,8 @@ process development capabilities with A*STAR Bioprocessing Technology Institute
 <p>Despite the global disruption of COVID-19, ACTRIS pressed on — designing
 and constructing a state-of-the-art facility, installing specialised equipment,
 and strengthening awareness of its role within Singapore’s CGT ecosystem.</p>
-<p>Guided by MOH, ACTRIS secured baseline operational funding to recruit
-and train critical expertise and commission the facility essential for
-national readiness.</p>
+<p>ACTRIS secured baseline operational funding to recruit and train critical
+expertise and commission the facility essential for national readiness.</p>
 </div>
 </details>
 <details class="isomer-details">
