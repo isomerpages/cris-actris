@@ -2,6 +2,7 @@ collections:
   our-service-provision:
     output: true
     order:
+      - Process Development & Validation.md
       - Scientific Analysis.md
       - Overview.md
       - Product Manufacturing.md
