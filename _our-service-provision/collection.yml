@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview/.keep
-      - Ancillary Material File.md
       - Technology Transfer.md
       - Release Assay.md
       - Process Development & Validation.md
