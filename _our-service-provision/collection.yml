@@ -4,7 +4,7 @@ collections:
     order:
       - Overview/.keep
       - Overview/Ancillary Material File.md
-      - Overview/Process Development & Validation.md
+      - Overview/Process & Assay Development & Validation.md
       - Overview/Release Assay.md
       - Overview/Scientific Analysis.md
       - Overview/Technology Transfer.md
