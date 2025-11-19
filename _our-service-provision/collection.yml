@@ -2,12 +2,12 @@ collections:
   our-service-provision:
     output: true
     order:
-      - Overview/Technology Transfer.md
-      - Overview/Scientific Analysis.md
-      - Overview/Release Assay.md
-      - Overview/Process Development & Validation.md
-      - Overview/Ancillary Material File.md
       - Overview/.keep
+      - Overview/Ancillary Material File.md
+      - Overview/Process Development & Validation.md
+      - Overview/Release Assay.md
+      - Overview/Scientific Analysis.md
+      - Overview/Technology Transfer.md
       - Overview.md
       - Product Manufacturing.md
       - Regulatory Facilitation/.keep
