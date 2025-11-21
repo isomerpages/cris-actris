@@ -2,6 +2,7 @@ collections:
   our-service-provision:
     output: true
     order:
+      - Product Characterisation.md
       - Process & Assay Development & Validation.md
       - Phase Appropriate Good Manufacturing Practices.md
       - Education & Training.md
