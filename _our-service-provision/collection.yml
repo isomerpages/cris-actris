@@ -2,18 +2,18 @@ collections:
   our-service-provision:
     output: true
     order:
-      - Manpower & Training.md
-      - Product Characterisation.md
-      - Process & Assay Development & Validation.md
       - Phase Appropriate Good Manufacturing Practices.md
+      - Process & Assay Development & Validation.md
+      - Product Characterisation.md
+      - Product Manufacturing.md
+      - Regulatory Facilitation/.keep
+      - Regulatory Facilitation/Overview.md
+      - Regulatory Facilitation/Regulatory Facilitation.md
+      - Regulatory Facilitation/Regulatory Affair Life Cycle.md
+      - Manpower & Training.md
       - Education & Training.md
       - Overview/.keep
       - Overview/Ancillary Material File.md
       - Overview/Release Assay.md
       - Overview/Scientific Analysis.md
       - Overview/Technology Transfer.md
-      - Product Manufacturing.md
-      - Regulatory Facilitation/.keep
-      - Regulatory Facilitation/Overview.md
-      - Regulatory Facilitation/Regulatory Facilitation.md
-      - Regulatory Facilitation/Regulatory Affair Life Cycle.md
