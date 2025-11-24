@@ -2,11 +2,11 @@ collections:
   our-service-provision:
     output: true
     order:
-      - Regulatory Facilitation.md
       - Phase Appropriate Good Manufacturing Practices.md
       - Process & Assay Development & Validation.md
       - Product Characterisation.md
       - Product Manufacturing.md
+      - Regulatory Facilitation.md
       - Manpower & Training.md
       - Education & Training.md
       - Overview/.keep
