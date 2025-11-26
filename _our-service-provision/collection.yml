@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Process & Assay Development & Validation.md
-      - Manpower & Training.md
       - Education & Training.md
       - Overview/.keep
       - Overview/Ancillary Material File.md
