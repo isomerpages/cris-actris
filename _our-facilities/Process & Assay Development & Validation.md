@@ -1,6 +1,6 @@
 ---
-title: Process Development & Innovation
-permalink: /our-facilities/process-development-innovation/
+title: Process & Assay Development & Validation
+permalink: /our-facilities/process-assay-development-validation/
 description: ""
 variant: markdown
 ---

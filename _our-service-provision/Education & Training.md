@@ -1,8 +1,7 @@
 ---
-title: Overview
-permalink: /our-service-provision/education-and-training/overview/
+title: Education & Training
+permalink: /our-service-provision/education-and-training/
 description: ""
-third_nav_title: Education & Training
 variant: tiptap
 ---
 <h4>Education and Training</h4>
@@ -60,7 +59,7 @@ viewing.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shutterstock Images/picture6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Shutterstock Images/picture6.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,7 +83,7 @@ your expertise and start your skills upgrading journey here at ACTRIS.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shutterstock Images/picture10.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Shutterstock Images/picture10.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

@@ -2,17 +2,11 @@ collections:
   our-service-provision:
     output: true
     order:
-      - Clinical Scale Manufacturing.md
-      - Process Dev & Validation/.keep
-      - Process Dev & Validation/Overview.md
-      - Process Dev & Validation/Scientific Analysis.md
-      - Process Dev & Validation/Process Development & Validation.md
-      - Process Dev & Validation/Release Assay.md
-      - Process Dev & Validation/Technology Transfer.md
-      - Process Dev & Validation/Ancillary Material File.md
-      - Regulatory Facilitation/.keep
-      - Regulatory Facilitation/Overview.md
-      - Regulatory Facilitation/Regulatory Facilitation.md
-      - Regulatory Facilitation/Regulatory Affair Life Cycle.md
-      - Education & Training/.keep
-      - Education & Training/Overview.md
+      - Overview/.keep
+      - Overview/Process & Assay Development & Validation.md
+      - Overview/Ancillary Material File.md
+      - Overview/Release Assay.md
+      - Overview/Scientific Analysis.md
+      - Overview/Technology Transfer.md
+      - Regulatory Facilitation.md
+      - Education & Training.md

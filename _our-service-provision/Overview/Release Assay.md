@@ -1,9 +1,9 @@
 ---
 title: Release Assay
-permalink: /our-service-provision/process-dev-and-validation/release-assy/
+permalink: /our-service-provision/overview/release-assay/
 description: ""
-third_nav_title: Process Dev & Validation
 variant: markdown
+third_nav_title: Overview
 ---
 <div style="margin-right: 20px; float: left;">
     <img src="/images/Our%20Service%20Provision/shutterstock_1268263936.jpg" style="width:400px">

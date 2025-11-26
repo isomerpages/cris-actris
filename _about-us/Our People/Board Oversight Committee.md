@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/dr-cheong-wei-yang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Cheong Wei Yang" src="/images/Biography/Board Oversight Committee/Dr_Cheong_400x600.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Cheong Wei Yang</div><div class="isomer-card-description">Chairman</div><div class="isomer-card-link">Bio</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/dr-cheong-wei-yang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Cheong Wei Yang" src="/images/Biography/Board Oversight Committee/Dr_Cheong_400x600.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Cheong Wei Yang</div><div class="isomer-card-description">Chairperson</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/mr-philip-ong/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -15,7 +15,7 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Philip Ong</div>
-<div class="isomer-card-description">Deputy Chairman</div>
+<div class="isomer-card-description">Deputy Chairperson</div>
 <div class="isomer-card-link">Bio</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/ms-amanda-ang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Biography/Board Oversight Committee/Amanda_Ang_400_x_600.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Amanda Ang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
@@ -42,7 +42,7 @@ variant: tiptap
 <div class="isomer-card-description">Member</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/dr-goh-khean-teik/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Goh Khean Teik" src="/images/Biography/Board Oversight Committee/2024_01_22_Goh_Khean_Teik.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Goh Khean Teik</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/dr-goh-khean-teik/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Goh Khean Teik" src="/images/Biography/Board Oversight Committee/Dr_Goh_Khean_Teik_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Goh Khean Teik</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/ms-goh-wan-yee/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

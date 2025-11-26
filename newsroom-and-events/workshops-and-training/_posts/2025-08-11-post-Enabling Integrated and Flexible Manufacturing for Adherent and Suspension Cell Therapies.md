@@ -8,6 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Registration is now closed.</strong>
+</p>
 <p>The path from bench to bedside relies not just on research, but on robust,
 scalable infrastructure and compliant manufacturing processes.
 <br>

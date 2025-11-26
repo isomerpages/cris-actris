@@ -11,7 +11,11 @@ description: The Advanced Cell Therapy and Research Institute, Singapore
   for the local market.
 image: /images/Logos/actris logo_white bg.png
 permalink: /
-notification: ""
+notification: <b>ACTRIS will never ask you to transfer money or disclose bank
+  log-in details over a phone call.</b><br>Call the 24/7 ScamShield Helpline at
+  1799 to check if you are unsure if something is a scam or visit <a
+  target="_blank" href="https://www.scamshield.gov.sg/">ScamShield</a> for more
+  information.
 sections:
   - hero:
       title: Advanced Cell Therapy and Research Institute, Singapore
@@ -31,7 +35,7 @@ sections:
         - title: Resources
           description: Training and Education
           url: /resources/cgmp-guidelines/
-      variant: side
+      variant: center
       alignment: left
       backgroundColor: gray
       size: sm
