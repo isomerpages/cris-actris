@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Process & Assay Development & Validation.md
-      - Product Characterisation.md
       - Product Manufacturing.md
       - Regulatory Facilitation.md
       - Manpower & Training.md
