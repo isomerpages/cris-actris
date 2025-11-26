@@ -2,8 +2,8 @@ collections:
   our-service-provision:
     output: true
     order:
-      - Overview/Process & Assay Development & Validation.md
       - Overview/.keep
+      - Overview/Process & Assay Development & Validation.md
       - Overview/Ancillary Material File.md
       - Overview/Release Assay.md
       - Overview/Scientific Analysis.md
