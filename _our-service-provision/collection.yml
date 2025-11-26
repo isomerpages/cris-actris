@@ -2,7 +2,6 @@ collections:
   our-service-provision:
     output: true
     order:
-      - Regulatory Facilitation/.keep
       - Process & Assay Development & Validation.md
       - Education & Training.md
       - Overview/.keep
