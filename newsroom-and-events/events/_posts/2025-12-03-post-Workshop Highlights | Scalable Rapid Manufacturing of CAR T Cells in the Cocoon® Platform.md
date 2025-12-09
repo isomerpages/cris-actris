@@ -33,3 +33,11 @@ sharing their expertise and guiding participants through the full CAR-T
 manufacturing process.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Joint_lab_with_Lonza_P1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Joint_lab_with_Lonza_P2.png">
+</div>
+<p></p>
