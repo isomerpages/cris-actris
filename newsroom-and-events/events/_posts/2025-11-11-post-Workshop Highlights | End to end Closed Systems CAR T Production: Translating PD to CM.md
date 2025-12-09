@@ -32,3 +32,7 @@ for leading the engaging sessions, and to all participants for their active
 contributions throughout the day.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Joint_lab_with_Thermo_Fisher.png">
+</div>
+<p></p>
