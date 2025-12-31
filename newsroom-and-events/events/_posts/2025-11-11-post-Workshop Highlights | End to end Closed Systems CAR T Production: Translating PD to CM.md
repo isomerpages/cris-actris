@@ -8,9 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>We are pleased to share the successful conclusion of the 𝗔𝗖𝗧𝗥𝗜𝗦
-𝗦𝗶𝗴𝗻𝗮𝘁𝘂𝗿𝗲 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗦𝗲𝗿𝗶𝗲𝘀 𝟮𝟬𝟮𝟱, held in collaboration
-with <strong><a href="https://www.linkedin.com/company/thermo-fisher-scientific/" class="JkSzjOwJZiApOKqivnCelsDlXkUqe" rel="noopener noreferrer nofollow" target="_self">Thermo Fisher Scientific</a></strong> in
+<p>We are pleased to share the highlights from the 𝗔𝗖𝗧𝗥𝗜𝗦 𝗦𝗶𝗴𝗻𝗮𝘁𝘂𝗿𝗲
+𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗦𝗲𝗿𝗶𝗲𝘀 𝟮𝟬𝟮𝟱, held in collaboration with <strong><a href="https://www.linkedin.com/company/thermo-fisher-scientific/" class="JkSzjOwJZiApOKqivnCelsDlXkUqe" rel="noopener noreferrer nofollow" target="_self">Thermo Fisher Scientific</a></strong> in
 October 2025.
 <br>
 <br>This full-day session, “End-to-end Closed Systems CAR-T Production: Translating
