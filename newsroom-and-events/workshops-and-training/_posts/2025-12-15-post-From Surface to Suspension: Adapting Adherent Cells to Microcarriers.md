@@ -23,8 +23,7 @@ capability for scalable cell therapy manufacturing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Service Provision/Sartorius_P2.png">
 </div>
-<p>
-<br>📅 𝗗𝗮𝘁𝗲: Friday, 30 January 2026
+<p>📅 𝗗𝗮𝘁𝗲: Friday, 30 January 2026
 <br>🕘 𝗧𝗶𝗺𝗲:&nbsp;8:30am – 5:15pm
 <br>📍 𝗩𝗲𝗻𝘂𝗲:&nbsp;ACTRIS Facility, 30 Hospital Boulevard, #19-02, Singapore
 168583
