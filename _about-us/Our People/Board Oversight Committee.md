@@ -42,15 +42,15 @@ variant: tiptap
 <div class="isomer-card-description">Member</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/dr-goh-khean-teik/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Goh Khean Teik" src="/images/Biography/Board Oversight Committee/Dr_Goh_Khean_Teik_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Goh Khean Teik</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/ms-goh-wan-yee/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/ms-goh-wan-yee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Goh Wan Yee" src="/images/Biography/Board Oversight Committee/2024_01_22_Goh_Wan_Yee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Goh Wan Yee</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/dr-lam-meng-chon/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Goh Wan Yee" src="/images/Biography/Board Oversight Committee/2024_01_22_Goh_Wan_Yee.png">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Lam Meng Chon" src="/images/Biography/Board Oversight Committee/Dr_Lam_Meng_Chon_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ms Goh Wan Yee</div>
+<div class="isomer-card-title">Dr Lam Meng Chon</div>
 <div class="isomer-card-description">Member</div>
 <div class="isomer-card-link">Bio</div>
 </div>
