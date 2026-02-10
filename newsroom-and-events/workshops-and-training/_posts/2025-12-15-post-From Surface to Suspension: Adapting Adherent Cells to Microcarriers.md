@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Registration is now closed.</strong>
+</p>
 <p>We are pleased to announce our next 𝗔𝗖𝗧𝗥𝗜𝗦 𝗦𝗶𝗴𝗻𝗮𝘁𝘂𝗿𝗲 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽
 𝗦𝗲𝗿𝗶𝗲𝘀 𝟮𝟬𝟮𝟱 in collaboration with <strong><a href="https://www.linkedin.com/company/sartorius/" class="qnYTlArzYtboRwdjbntMpxxVLYbykXIogw" rel="noopener noreferrer nofollow" target="_self">Sartorius</a></strong> –
 𝗙𝗿𝗼𝗺 𝗦𝘂𝗿𝗳𝗮𝗰𝗲 𝘁𝗼 𝗦𝘂𝘀𝗽𝗲𝗻𝘀𝗶𝗼𝗻: 𝗔𝗱𝗮𝗽𝘁𝗶𝗻𝗴 𝗔𝗱𝗵𝗲𝗿𝗲𝗻𝘁
