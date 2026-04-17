@@ -20,9 +20,9 @@ locations:
     title: Facility
 contacts:
   - content:
-      - phone: +65 6239 5097
-      - email: enquiry@actris.cris.sg
+      - phone: ""
+      - email: business@actris.cris.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: General Enquiries
 feedback: ""
 ---
