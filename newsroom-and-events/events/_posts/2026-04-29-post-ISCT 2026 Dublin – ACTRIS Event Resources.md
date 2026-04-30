@@ -21,6 +21,10 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Singapore_CGT_Ecosystem_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Singapore CGT Ecosystem</a>
+</p>
+</li>
+<li>
 <p><a href="/files/ACTRIS_Summary_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Overview of ACTRIS</a>
 </p>
 </li>
@@ -31,10 +35,7 @@ variant: tiptap
 <li>
 <p><a href="/files/Education___Training_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Education &amp; Training</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Singapore_CGT_Ecosystem_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Singapore CGT Ecosystem</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p>These materials are intended for informational purposes and are the property
