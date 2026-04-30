@@ -9,14 +9,16 @@ variant: tiptap
 ---
 <h4>Access our digital resource pack from ISCT 2026 Dublin.</h4>
 <p>Download or view them directly below.</p>
-<p>Brochure</p>
+<p><strong>Brochure</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/ACTRIS_A5_Brochure_Apr_2026.pdf" rel="noopener nofollow" target="_blank">ACTRIS A5 Brochure</a>
 </p>
 </li>
 </ul>
-<p>Posters</p>
+<p><strong>Posters</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/ACTRIS_Summary_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Overview of ACTRIS</a>
