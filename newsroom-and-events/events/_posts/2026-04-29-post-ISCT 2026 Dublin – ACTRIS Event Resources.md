@@ -9,25 +9,29 @@ variant: tiptap
 ---
 <h4>Access our digital resource pack from ISCT 2026 Dublin.</h4>
 <p>Download or view them directly below.</p>
+<p>Brochure</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>[Brochure] <a href="/files/ACTRIS_A5_Brochure_Apr_2026.pdf" rel="noopener nofollow" target="_blank">ACTRIS A5 Brochure</a>
+<p><a href="/files/ACTRIS_A5_Brochure_Apr_2026.pdf" rel="noopener nofollow" target="_blank">ACTRIS A5 Brochure</a>
+</p>
+</li>
+</ul>
+<p>Posters</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/ACTRIS_Summary_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Overview of ACTRIS</a>
 </p>
 </li>
 <li>
-<p>[Poster] <a href="/files/ACTRIS_Summary_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Overview of ACTRIS</a>
+<p><a href="/files/ACTRIS_Product_Lifecycle_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Product Lifecycle at ACTRIS</a>
 </p>
 </li>
 <li>
-<p>[Poster] <a href="/files/ACTRIS_Product_Lifecycle_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Product Lifecycle at ACTRIS</a>
+<p><a href="/files/Education___Training_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Education &amp; Training</a>
 </p>
 </li>
 <li>
-<p>[Poster] <a href="/files/Education___Training_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Education &amp; Training</a>
-</p>
-</li>
-<li>
-<p>[Poster] <a href="/files/Singapore_CGT_Ecosystem_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Singapore CGT Ecosystem</a>
+<p><a href="/files/Singapore_CGT_Ecosystem_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Singapore CGT Ecosystem</a>
 </p>
 </li>
 </ul>
