@@ -35,7 +35,6 @@ variant: tiptap
 <li>
 <p><a href="/files/Education___Training_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Education &amp; Training</a>
 </p>
-<p></p>
 </li>
 </ul>
 <p>These materials are intended for informational purposes and are the property
@@ -43,4 +42,3 @@ of ACTRIS. <strong>Please do not reproduce or distribute without permission.</st
 </p>
 <p><em>Content reflects information available as of April 2026.</em>
 </p>
-<p></p>
