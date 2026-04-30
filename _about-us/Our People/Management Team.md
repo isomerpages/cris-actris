@@ -10,7 +10,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="/biography/management-team/adjunct-associate-professor-yap-eng-soo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/Biography/Management Team/Dr_Yap_400x600.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/Biography/Management Team/Profile___Dr_Yap_Eng_Soo_Apr_2026.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
