@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Education___Training_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Education &amp; Training</a>
+<p><a href="/files/Education___Training_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Education &amp; Training at ACTRIS</a>
 </p>
 </li>
 </ul>
