@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>Access our digital resource pack from ISCT 2026 Dublin — including brochures and posters on display at the event. </h4>
+<h4>Access our digital resource pack from ISCT 2026 Dublin.</h4>
 <p>Download or view them directly below.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -36,3 +36,4 @@ of ACTRIS. <strong>Please do not reproduce or distribute without permission.</st
 </p>
 <p><em>Content reflects information available as of April 2026.</em>
 </p>
+<p></p>
