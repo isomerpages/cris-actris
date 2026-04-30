@@ -15,10 +15,6 @@ variant: tiptap
 <p><a href="/files/ACTRIS_A5_Brochure_Apr_2026.pdf" rel="noopener nofollow" target="_blank">ACTRIS A5 Brochure</a>
 </p>
 </li>
-<li>
-<p><a href="/files/ACTRIS_A5_Brochure_Apr_2026.pdf" rel="noopener nofollow" target="_blank">file</a>
-</p>
-</li>
 </ul>
 <p>Posters</p>
 <ul data-tight="true" class="tight">
