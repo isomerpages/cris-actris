@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/ACTRIS_Product_Lifecycle_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Product Lifecycle at ACTRIS</a>
+<p><a href="/files/Product_Lifecycle_at_ACTRIS_Apr_2026_v2.pdf" rel="noopener nofollow" target="_blank">Product Lifecycle at ACTRIS</a>
 </p>
 </li>
 <li>
