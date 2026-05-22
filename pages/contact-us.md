@@ -40,6 +40,6 @@ contacts:
       - other: <a target="_blank"
           href="https://form.gov.sg/69d707b116305719110f40b2/">Product Feedback
           Form</a>
-    title: For Clients
+    title: Client Feedback
 feedback: ""
 ---
