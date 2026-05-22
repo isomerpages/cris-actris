@@ -33,7 +33,7 @@ contacts:
       - phone: ""
       - email: education@actris.cris.sg
       - other: ""
-    title: Education & Training Enquiries
+    title: Education & Training
   - content:
       - phone: ""
       - email: ""
