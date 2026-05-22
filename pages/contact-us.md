@@ -28,7 +28,7 @@ contacts:
       - phone: ""
       - email: regaffairs@actris.cris.sg
       - other: ""
-    title: Regulatory Affairs & Facilitation
+    title: Regulatory Affairs & Facilitation Enquiries
   - content:
       - phone: ""
       - email: education@actris.cris.sg
