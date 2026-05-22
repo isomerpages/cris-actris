@@ -26,13 +26,20 @@ contacts:
     title: General Enquiries
   - content:
       - phone: ""
+      - email: education@actris.cris.sg
+      - other: ""
+    title: Education & Training Enquiries
+  - content:
+      - phone: ""
       - email: regaffairs@actris.cris.sg
       - other: ""
     title: Regulatory Affairs & Facilitation Enquiries
   - content:
       - phone: ""
-      - email: education@actris.cris.sg
-      - other: ""
-    title: Education & Training Enquiries
+      - email: ""
+      - other: <a target="_blank"
+          href="https://form.gov.sg/69d707b116305719110f40b2/">Product Feedback
+          Form</a>
+    title: For Clients
 feedback: ""
 ---
