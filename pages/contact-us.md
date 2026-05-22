@@ -9,7 +9,7 @@ locations:
       - Singapore 139234
       - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: https://maps.app.goo.gl/ofYv4JoAhqoe2vYa6
     title: Headquarters
   - address:
       - "30 Hospital Boulevard, #19-02,"
