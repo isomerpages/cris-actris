@@ -16,7 +16,7 @@ locations:
       - Singapore 168583
       - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: https://maps.app.goo.gl/Q6TbfNAEeAsmgMAa8
     title: Facility
 contacts:
   - content:
