@@ -28,6 +28,6 @@ contacts:
       - phone: ""
       - email: regaffairs@actris.cris.sg
       - other: ""
-    title: For Regulatory Affairs & Facilitation
+    title: Regulatory Affairs & Facilitation
 feedback: ""
 ---
