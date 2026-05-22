@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
+agency_name: ACTRIS
 locations:
   - address:
       - "23 Rochester Park, #06-01,"
