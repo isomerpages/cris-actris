@@ -24,5 +24,10 @@ contacts:
       - email: business@actris.cris.sg
       - other: ""
     title: General Enquiries
+  - content:
+      - phone: ""
+      - email: regaffairs@actris.cris.sg
+      - other: ""
+    title: For Regulatory Affairs & Facilitation
 feedback: ""
 ---
