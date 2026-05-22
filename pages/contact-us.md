@@ -26,14 +26,14 @@ contacts:
     title: General Enquiries
   - content:
       - phone: ""
+      - email: regaffairs@actris.cris.sg
+      - other: ""
+    title: Regulatory Affairs & Facilitation
+  - content:
+      - phone: ""
       - email: education@actris.cris.sg
       - other: ""
     title: Education & Training Enquiries
-  - content:
-      - phone: ""
-      - email: regaffairs@actris.cris.sg
-      - other: ""
-    title: Regulatory Affairs & Facilitation Enquiries
   - content:
       - phone: ""
       - email: ""
