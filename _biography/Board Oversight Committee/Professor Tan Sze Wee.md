@@ -5,12 +5,13 @@ description: ""
 third_nav_title: Board Oversight Committee
 variant: tiptap
 ---
-<h3>Professor Tan Sze Wee</h3>
+<h3>Adjunct Professor Sze-Wee Tan</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/Prof_Tan_Sze_Wee.jpg">
 </div>
 <h4>Affiliations</h4>
-<p>Advisor, Investment (Healthcare &amp; Life Sciences - SEA), Temasek International</p>
+<p>Advisor, Ecosystem Enablement (Healthcare &amp; Lifescience)</p>
+<p>Temasek Singapore Pte Ltd</p>
 <h4>Profile</h4>
 <p>Professor Tan Sze Wee, is currently the Advisor to Temasek International.&nbsp;</p>
 <p>Professor Tan’s career spans across public sector, corporate and industry
