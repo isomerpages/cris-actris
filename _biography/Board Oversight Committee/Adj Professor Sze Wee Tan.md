@@ -10,8 +10,9 @@ variant: tiptap
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Biography/Board Oversight Committee/Prof_Tan_Sze_Wee.jpg">
 </div>
 <h4>Affiliations</h4>
-<p>Advisor, Ecosystem Enablement (Healthcare &amp; Lifescience)</p>
-<p>Temasek Singapore Pte Ltd</p>
+<p>Advisor, Ecosystem Enablement (Healthcare &amp; Lifescience), Temasek
+Singapore Pte Ltd</p>
+<p>Adjunct Professor, Duke-NUS Medical School Singapore</p>
 <h4>Profile</h4>
 <p><strong>Education and Training :</strong> Professor Tan graduated with
 MBBS from <strong>National University of Singapore (NUS)</strong>, and attained
