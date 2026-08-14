@@ -55,14 +55,14 @@ variant: tiptap
 <div class="isomer-card-link">Bio</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/associate-professor-su-xinyi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A/Prof Su Xinyi" src="/images/Biography/Board Oversight Committee/Dr_Su_Xinyi_400x600.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Su Xinyi</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/professor-tan-sze-wee/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/biography/board-oversight-committee/adj-professor-sze-wee-tan/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee" src="/images/Biography/Board Oversight Committee/Prof_Tan_Sze_Wee_400_x_600.png">
+<img style="width: 100%" height="auto" width="100%" alt="Adj Prof Sze-Wee Tan" src="/images/Biography/Board Oversight Committee/Prof_Tan_Sze_Wee_400_x_600.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof Tan Sze Wee</div>
+<div class="isomer-card-title">Adj Prof Sze-Wee Tan</div>
 <div class="isomer-card-description">Member</div>
 <div class="isomer-card-link">Bio</div>
 </div>
