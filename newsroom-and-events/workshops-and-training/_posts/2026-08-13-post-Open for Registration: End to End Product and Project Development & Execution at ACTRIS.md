@@ -16,10 +16,10 @@ GMP manufacturing, QC testing, and the key considerations involved in advancing
 cell and gene therapy (CGT) products towards clinical translation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Front_Page.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Front_Page.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Programme_Schedule.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Newsroom &amp; Events/Events/Programme_Schedule.png">
 </div>
 <p>Sign up for this masterclass to discover how ACTRIS supports CGT projects
 across the product development lifecycle and Singapore's CGT ecosystem.</p>
