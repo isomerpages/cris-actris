@@ -6,7 +6,7 @@ description: ""
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2015 – 2016 </strong>
+<summary><strong>2015 – 2016</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Ministry of Health (MOH) approved the establishment of a national
@@ -15,7 +15,7 @@ cell therapy facility to be sited at the National Cancer Centre Singapore
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2017 – 2018 </strong>
+<summary><strong>2017 – 2018</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The National Cell Therapy Centre Implementation Office (NCTC IO) was set
