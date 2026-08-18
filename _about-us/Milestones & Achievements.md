@@ -50,7 +50,7 @@ and Coordinating Minister for Social Policies.</p>
 <p></p>
 <p>The first investigational cell therapy product, an autologous dendritic
 cell vaccine for hepatocellular carcinoma, was manufactured at ACTRIS for
-clinical trial at NCCS.</p>
+a clinical trial at NCCS.</p>
 <p></p>
 <p>ACTRIS and A*STAR’s Bioprocessing Technology Institute (BTI) established
 the Process Accelerator for Cell Therapy Manufacturing (PACTMAN) programme
